@@ -1,2 +1,2 @@
 # linkedmusic-website
-website for Linked Music Partnership Grant
+website for LinkedMusic Partnership Grant

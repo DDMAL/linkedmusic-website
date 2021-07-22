@@ -1,0 +1,19 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import "bootstrap";
+@import "simssa";
+
+.jumbotron {
+  background: url('{{ site.url }}/assets/jumbobg.jpg') center;
+}
+
+.headerimage:before {
+  background: url('{{ site.url }}/assets/Cantus_A.jpg') center;
+}
+
+.headerimage_people:before {
+  background: url('{{ site.url }}/assets/nuns.jpg') center;
+}

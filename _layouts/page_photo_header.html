@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<!-- <div class="page">
+  <br>
+  <br>
+  <h1 style="text-align: left;" class="page-title">{{ page.title }}</h1>
+  <div style="margin-bottom: 25px"></div>
+  {{ content }}
+</div> -->
+
+<!-- New stuff -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<section class="{{ page.image_class }}">
+  <div class="container">
+    <br>
+    <br>
+    <h1>{{ page.title }}</h1>
+  </div>
+</section>
+
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-lg-12">
+
+      {{ content }}
+
+      <br>
+    </div>
+  </div>
+</div>
+
+<script>
+  $(document).ready(function(){
+    $('.icon_rotation').on({
+      'click': function () {
+        var origsrc = $(this).attr('src');
+        var src = '';
+        if (origsrc == '{{ site.url }}/assets/0-expand_off.png') src = '{{ site.url }}/assets/0-expand_on.png';
+        if (origsrc == '{{ site.url }}/assets/0-expand_on.png') src = '{{ site.url }}/assets/0-expand_off.png';
+        $(this).attr('src', src);
+      }
+    });
+  });
+</script>

@@ -1,3 +1,10 @@
+---
+layout: page_photo_header
+title: References
+image_class: headerimage
+
+---
+
 Achichi, Manel, Pasquale Lisena, Konstantin Todorov, Raphäel Troncy, and Jean Delahousse. 2018. “DOREMUS: A Graph of Linked Musical Works.” In The Semantic Web – ISWC 2018, Lecture Notes in Computer Science, vol. 11137, edited by D. Vrandečić et al., 3–19, Cham: Springer.
 Alatrish, Emhimed S. 2012. “Comparison of Ontology Editors.” eRAF Journal on Computing 4: 23–38. Antoniou, Grigoris, and Fran Van Harmelen. 2008. Semantic Web Primer, 2nd Edition. Cambridge, MA:
 MIT Press.

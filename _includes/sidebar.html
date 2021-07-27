@@ -9,18 +9,17 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ site.url }}/">SIMSSA</a>
+                <a class="navbar-brand" href="{{ site.url }}/">Linked Music</a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav nav mr-auto">
 <!--                     <li class="active"><a href="/">Home</a></li> -->
 
-
                     <li><a href="{{ site.url }}/about">About</a></li>
                     <li><a href="{{ site.url }}/people">Participants</a></li>
                     <!-- <li><a href="/publications">Publications</a></li> -->
 
-                    <li class="dropdown">
+<!--                     <li class="dropdown">
                       <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Activities<span class="caret"></span></a>
                       <ul class="dropdown-menu" role="menu">
                         {% for activity in site.activities %}
@@ -29,10 +28,10 @@
                           {% endif %}
                         {% endfor %}
                       </ul>
-                    </li>
+                    </li> -->
 
                     <li class="dropdown">
-                      <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Projects and links<span class="caret"></span></a>
+                      <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Related Projects<span class="caret"></span></a>
                       <ul class="dropdown-menu" role="menu">
                         {% for project in site.projects %}
                             <li><a href='{{ project.link }}' target='_top' >{{ project.title }}</a></li>
@@ -42,10 +41,11 @@
                         <li><a href="http://twitter.com/simssaproject" target="_blank">Twitter</a></li>
                       </ul>
                     </li>
-
+<!-- 
                     <li><a href="{{ site.url }}/blog">Blog</a></li>
                     <li><a href="{{ site.url }}/opportunities">Opportunities</a></li>
-
+ -->
+                    <li><a href="{{ site.url }}/references">References</a></li>
                     <li><a href="{{ site.url }}/contact">Contact us</a></li>
 
                 </ul>

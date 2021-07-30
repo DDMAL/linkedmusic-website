@@ -7,13 +7,13 @@
 @import "simssa";
 
 .jumbotron {
-  background: url('{{ site.url }}/assets/jumbobg.jpg') center;
+  background: url('{{ site.url }}/assets/bachspectrogram.png') center;
 }
 
 .headerimage:before {
-  background: url('{{ site.url }}/assets/Cantus_A.jpg') center;
+  background: url('{{ site.url }}/assets/bachspectrogram.png') center;
 }
 
 .headerimage_people:before {
-  background: url('{{ site.url }}/assets/nuns.jpg') center;
+  background: url('{{ site.url }}/assets/bachspectrogram.png') center;
 }

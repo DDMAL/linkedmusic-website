@@ -14,12 +14,15 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav nav mr-auto">
 <!--                     <li class="active"><a href="/">Home</a></li> -->
+                         <li><a href="{{ site.url }}/about">About</a></li>
+                         <li><a href="{{ site.url }}/people">Participants</a></li>
+                         <li><a href="{{ site.url }}/references">References</a></li>
+                         <li><a href="{{ site.url }}/contact">Contact us</a></li>
 
-                    <!-- <li><a href="{{ site.url }}/about">About</a></li> -->
-                    <li><a href="{{ site.url }}/people">Participants</a></li>
-                    <!-- <li><a href="/publications">Publications</a></li> -->
+<!--Hide sections we don't need for now
 
-<!--                     <li class="dropdown">
+                         <li><a href="/publications">Publications</a></li>
+                     <li class="dropdown">
                       <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Activities<span class="caret"></span></a>
                       <ul class="dropdown-menu" role="menu">
                         {% for activity in site.activities %}
@@ -28,26 +31,22 @@
                           {% endif %}
                         {% endfor %}
                       </ul>
-                    </li> -->
+                    </li>
 
+                    <li><a href="{{ site.url }}/blog">Blog</a></li>
+                    <li><a href="{{ site.url }}/opportunities">Opportunities</a></li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Databases<span class="caret"></span></a>
+                      <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Projects<span class="caret"></span></a>
                       <ul class="dropdown-menu" role="menu">
                         {% for project in site.projects %}
                             <li><a href='{{ project.link }}' target='_top' >{{ project.title }}</a></li>
                         {% endfor %}
-<!--                         <hr id="menu-divider">
+                         <hr id="menu-divider">
                         <li><a href="http://github.com/DDMAL" target="_blank">Github</a></li>
-                        <li><a href="http://twitter.com/simssaproject" target="_blank">Twitter</a></li> -->
+                        <li><a href="http://twitter.com/simssaproject" target="_blank">Twitter</a></li>
                       </ul>
                     </li>
-<!-- 
-                    <li><a href="{{ site.url }}/blog">Blog</a></li>
-                    <li><a href="{{ site.url }}/opportunities">Opportunities</a></li>
- -->
-                    <li><a href="{{ site.url }}/references">References</a></li>
-                    <li><a href="{{ site.url }}/contact">Contact us</a></li>
-
+-->
                 </ul>
             </div>
         </div>

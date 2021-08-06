@@ -6,5 +6,5 @@ last_name: Lacoste
 institution: University of Waterloo
 project_group: co-investigator
 role: Co-Applicant
-link: 
+link: https://uwaterloo.ca/music/people-profiles/debra-lacoste
 ---

@@ -4,5 +4,5 @@ title: University of Waterloo
 project_group: partners
 role: Partner
 type: none
-link: 
+link: https://uwaterloo.ca/
 ---

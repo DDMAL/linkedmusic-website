@@ -6,5 +6,5 @@ last_name: Pugin
 institution: RISM Digital / University of Bern
 project_group: co-investigator
 role: Co-Applicant
-link: 
+link: https://rism.digital/organization/contact.html
 ---

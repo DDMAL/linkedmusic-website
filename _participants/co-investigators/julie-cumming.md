@@ -6,5 +6,5 @@ last_name: Cumming
 institution: McGill University
 project_group: co-investigator
 role: Co-Applicant
-link: 
+link: https://www.mcgill.ca/music/julie-e-cumming
 ---

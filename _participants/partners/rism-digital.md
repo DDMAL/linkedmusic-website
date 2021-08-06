@@ -4,5 +4,5 @@ title: RISM Digital
 project_group: partners
 role: Partner
 type: none
-link: 
+link: https://rism.digital/
 ---

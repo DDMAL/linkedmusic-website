@@ -5,5 +5,5 @@ first_name: Jonathan
 last_name: Manton
 institution: Yale University
 project_group: collaborators
-link: 
+link: https://library.yale.edu/people/jonathan-manton
 ---

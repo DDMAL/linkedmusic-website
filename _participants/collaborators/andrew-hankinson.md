@@ -5,5 +5,5 @@ first_name: Andrew
 last_name: Hankinson
 institution: RISM Digital
 project_group: collaborators
-link: 
+link: https://rism.digital/organization/contact.html
 ---

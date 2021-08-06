@@ -5,5 +5,5 @@ first_name: Jenn
 last_name: Riley
 institution: McGill University
 project_group: collaborators
-link: 
+link: http://www.jennriley.com/site/
 ---

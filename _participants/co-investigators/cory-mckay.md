@@ -6,5 +6,5 @@ last_name: McKay
 institution: Marianopolis College
 project_group: co-investigator
 role: Co-Applicant
-link: 
+link: http://www.music.mcgill.ca/~cmckay/
 ---

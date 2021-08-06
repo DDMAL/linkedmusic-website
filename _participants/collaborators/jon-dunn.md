@@ -5,5 +5,5 @@ first_name: Jon
 last_name: Dunn
 institution: Indiana University
 project_group: collaborators
-link: 
+link: https://libraries.indiana.edu/jon-dunn
 ---

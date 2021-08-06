@@ -4,5 +4,5 @@ title: MetaBrainz Foundation
 project_group: partners
 role: Partner
 type: none
-link: 
+link: https://metabrainz.org/
 ---

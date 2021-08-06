@@ -4,5 +4,5 @@ title: Université de Montréal, Faculté des arts et des sciences
 project_group: partners
 role: Partner
 type: none
-link: 
+link: https://www.umontreal.ca/en/
 ---

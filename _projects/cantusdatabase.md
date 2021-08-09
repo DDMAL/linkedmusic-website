@@ -1,4 +1,4 @@
 ---
 title: Cantus Database
-link: http://cantus.simssa.ca/
+link: https://cantus.simssa.ca/
 ---

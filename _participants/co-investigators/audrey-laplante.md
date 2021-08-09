@@ -6,5 +6,5 @@ last_name: Laplante
 institution: "Université de Montréal, École de bibliothéconomie et des sciences de l'information"
 project_group: co-investigator
 role: Co-Applicant
-link: http://laplante.ebsi.umontreal.ca/
+link: https://laplante.ebsi.umontreal.ca/
 ---

@@ -8,6 +8,6 @@ image_class: headerimage
 
 For more information, please contact [Ichiro Fujinaga](http://www.music.mcgill.ca/~ich).
 
-You can also follow us on Twitter:
+<!-- You can also follow us on Twitter:
 
-Or check out our YouTube channel:
+Or check out our YouTube channel: -->

@@ -41,6 +41,14 @@ bundle install
 
 to install any updated or newly-added gems for the build. Then, the site can be rebuilt with `bundle exec jekyll serve --watch`.
 
+In order to build the site for production, run the following locally then push changes to GitHub (pushing changes after running "serve" will result in incorrect resolution of URLs based on site.url)
+
+jekyll build JEKYLL_ENV=production
+
+(setting ENV is the important part; for more on this see: https://mademistakes.com/mastering-jekyll/site-url-baseurl/ )
+
+Web hosting is set up through EasyDNS.
+
 ## Troubleshooting
 
 If you are having any difficulties with setup, the CMS, or local development, please feel free to email Emily Hopkins (emily.hopkins@mcgill.ca) or use the issues tab found in this repository. 

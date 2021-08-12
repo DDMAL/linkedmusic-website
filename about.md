@@ -1,6 +1,6 @@
 ---
 layout: page_photo_header
-title: About the Linked Music Project
+title: About the LinkedMusic Project
 image_class: headerimage
 
 ---

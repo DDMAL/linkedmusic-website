@@ -1,6 +1,6 @@
-# Linked Music
+# LinkedMusic
 
-This is the repository for the Linked Music website distributed via GitHub Pages. It is a static website built using Jekyll, meaning that there is no backend presence, and the entirety of the site is stored in this repository, blog contents included. The Linked Music site is based on the SIMSSA website with adjustments to content and style.
+This is the repository for the LinkedMusic website distributed via GitHub Pages. It is a static website built using Jekyll, meaning that there is no backend presence, and the entirety of the site is stored in this repository, blog contents included. The LinkedMusic site is based on the SIMSSA website with adjustments to content and style.
 
 ## Contents
 

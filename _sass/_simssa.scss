@@ -37,11 +37,13 @@ section.page {
     left: 0;
     right: 0;
     margin: auto;
-    filter: drop-shadow(3px 5px 4px #5c0aa3);
+    filter: drop-shadow(2px 2px 2px #3084f1);
 }
 
 .jumbotron {
-    background: url('{{ site.url }}/assets/bachspectrogram.png') center;
+    // put the line below back in to use image instead of colour
+    // background: url('{{ site.url }}/assets/bachspectrogram.png') center;
+    background: #50d6fc;
     height: 296px;
 }
 

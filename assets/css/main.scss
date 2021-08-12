@@ -6,7 +6,9 @@
 @import "bootstrap";
 @import "simssa";
 
-.jumbotron {
+// put the lines below back in to use image for background instead of colour
+
+/* .jumbotron {
   background: url('{{ site.url }}/assets/bachspectrogram.png') center;
 }
 
@@ -16,4 +18,4 @@
 
 .headerimage_people:before {
   background: url('{{ site.url }}/assets/bachspectrogram.png') center;
-}
+} */

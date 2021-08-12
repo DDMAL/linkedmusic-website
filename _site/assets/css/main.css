@@ -6264,10 +6264,10 @@ section.page {
   left: 0;
   right: 0;
   margin: auto;
-  filter: drop-shadow(3px 5px 4px #ce289c); }
+  filter: drop-shadow(2px 2px 2px #3084f1); }
 
 .jumbotron {
-  background: url("{{ site.url }}/assets/bachspectrogram.png") center;
+  background: #50d6fc;
   height: 296px; }
 
 .jumbotron h2 {
@@ -6333,11 +6333,14 @@ section.page {
 @media (max-width: 768px) {
   #menu-divider {
     width: 40%; } }
-.jumbotron {
-  background: url("https://ddmal.music.mcgill.ca/linkedmusic-website/assets/bachspectrogram.png") center; }
+/* .jumbotron {
+  background: url('https://ddmal.music.mcgill.ca/linkedmusic-website/assets/bachspectrogram.png') center;
+}
 
 .headerimage:before {
-  background: url("https://ddmal.music.mcgill.ca/linkedmusic-website/assets/bachspectrogram.png") center; }
+  background: url('https://ddmal.music.mcgill.ca/linkedmusic-website/assets/bachspectrogram.png') center;
+}
 
 .headerimage_people:before {
-  background: url("https://ddmal.music.mcgill.ca/linkedmusic-website/assets/bachspectrogram.png") center; }
+  background: url('https://ddmal.music.mcgill.ca/linkedmusic-website/assets/bachspectrogram.png') center;
+} */

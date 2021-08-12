@@ -51,4 +51,4 @@ Web hosting is set up through EasyDNS.
 
 ## Troubleshooting
 
-If you are having any difficulties with setup, the CMS, or local development, please feel free to email Emily Hopkins (emily.hopkins@mcgill.ca) or use the issues tab found in this repository. 
+If you are having any difficulties with setup, or local development, please feel free to email Emily Hopkins (emily.hopkins@mcgill.ca) or use the issues tab found in this repository. 

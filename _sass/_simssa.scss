@@ -9,6 +9,18 @@ section {
     padding: 3em 0;
 }
 
+// Following h2 block based on https://css-tricks.com/hash-tag-links-padding/ so 
+// header doesn't hide anchor link content
+
+h2::before { 
+  display: block; 
+  content: " "; 
+  margin-top: -62px; 
+  height: 62px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
+
 section.page {
     padding: 1em;
 }

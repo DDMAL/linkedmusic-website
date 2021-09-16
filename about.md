@@ -4,7 +4,8 @@ title: About the LinkedMusic Project
 image_class: headerimage
 
 ---
-<!-- [*La version française suit.*](#cinq-objectifs) -->
+[*La version française suit.*](#cinq-objectifs)
+
 ## Five Tasks
 
 

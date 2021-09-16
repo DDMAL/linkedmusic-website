@@ -15,3 +15,15 @@ Our goals include:
 
 For more information, please contact [Ichiro Fujinaga](http://www.music.mcgill.ca/~ich).
 
+___
+
+L’objectif de notre nouveau partenariat LinkedMusic est de lier des bases de données musicales par des schémas de métadonnées, des structures d’organisation de l’information stockées dans une base de données. Ce projet contribuera grandement à amener la recherche de musique en ligne au même niveau de sophistication que la recherche de ressources textuelles, nous permettant ainsi de répondre à des questions fondamentales sur la musique et comment elle interagit avec la créativité, la société, la culture et l’histoire humaines.
+
+Nos objectifs incluent :
+* Le développement d’un schéma exhaustif international de métadonnées pour la musique 
+* Le développement d’outils de mappage pour intégrer des schémas de métadonnées existants à notre nouveau schéma 
+* Créer un index de métadonnées agrégées pour permettre des recherches simultanées de bases de données individuelles 
+
+Pour plus d’informations, veuillez contacter [Ichiro Fujinaga](http://www.music.mcgill.ca/~ich).
+
+

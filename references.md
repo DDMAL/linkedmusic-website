@@ -6,6 +6,9 @@ image_class: headerimage
 ---
 
 #### Formatting indicates contributions from **co-applicants** and ***collaborators***.
+
+#### La présentation indique les contributions de **cocandidats** et de ***collaborateurs***.
+
 <br>
 Achichi, Manel, Pasquale Lisena, Konstantin Todorov, Raphäel Troncy, and
 Jean Delahousse. 2018. "DOREMUS: A Graph of Linked Musical Works." In

@@ -1,44 +1,50 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="navbar navbar-expand-sm navbar-default navbar-fixed-top" role="navigation">
-        <div class="container" id="nav-container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="{{ site.url }}/">LinkedMusic</a>
-            </div>
-            <div class="collapse navbar-collapse">
-                <ul class="navbar-nav nav mr-auto">
-<!--                     <li class="active"><a href="/">Home</a></li> -->
-                         <li><a href="{{ site.url }}/about">About</a></li>
-                         <li><a href="{{ site.url }}/people">Participants</a></li>
-                         <li><a href="{{ site.url }}/references">References</a></li>
-                         <li><a href="{{ site.url }}/contact">Contact us</a></li>
+    <div class="container" id="nav-container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ site.url }}/">LinkedMusic</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="navbar-nav nav mr-auto">
+<!--             <li class="active"><a href="/">Home</a></li> -->
+              <li><a href="{{ site.url }}/about">About</a></li>
+              <li><a href="{{ site.url }}/people">Participants</a></li>
+              <li><a href="{{ site.url }}/references">References</a></li>
+              <li><a href="{{ site.url }}/contact">Contact us</a></li>
+          </ul>
+          <div id="google_translate_element"></div>
+          <script type="text/javascript"> 
+            function googleTranslateElementInit() {
+           new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+           }
+          </script>
 
+          <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <!--Hide sections we don't need for now
-
-                         <li><a href="/publications">Publications</a></li>
-                     <li class="dropdown">
-                      <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Activities<span class="caret"></span></a>
-                      <ul class="dropdown-menu" role="menu">
-                        {% for activity in site.activities %}
-                          {% if activity.title != 'Activities' %}
-                            <li><a href='{{ site.url }}{{ activity.url }}' target='_top' >{{ activity.title }}</a></li>
-                          {% endif %}
-                        {% endfor %}
-                      </ul>
-                    </li>
-
-                    <li><a href="{{ site.url }}/blog">Blog</a></li>
-                    <li><a href="{{ site.url }}/opportunities">Opportunities</a></li>
-                    <li class="dropdown">
-                      <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Projects<span class="caret"></span></a>
-                      <ul class="dropdown-menu" role="menu">
-                        {% for project in site.projects %}
+                     <li><a href="/publications">Publications</a></li>
+                 <li class="dropdown">
+                  <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Activities<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    {% for activity in site.activities %}
+                      {% if activity.title != 'Activities' %}
+                        <li><a href='{{ site.url }}{{ activity.url }}' target='_top' >{{ activity.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </li
+                <li><a href="{{ site.url }}/blog">Blog</a></li>
+                <li><a href="{{ site.url }}/opportunities">Opportunities</a></li>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Projects<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    {% for project in site.projects %}
                             <li><a href='{{ project.link }}' target='_top' >{{ project.title }}</a></li>
                         {% endfor %}
                          <hr id="menu-divider">
@@ -46,8 +52,7 @@
                         <li><a href="https://twitter.com/simssaproject" target="_blank">Twitter</a></li>
                       </ul>
                     </li>
--->
-                </ul>
-            </div>
+-->          
         </div>
     </div>
+</div>

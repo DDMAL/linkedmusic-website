@@ -102,6 +102,13 @@ section.page {
   margin: 5px 5px 5px 20px;
 }
 
+#google_translate_element {
+  float: right;
+  //vertical-align: middle;
+  background: white;
+  padding: 0px 4px;
+  border-radius: 0.2em;
+}
 
 @media (min-width: 768px) {
     .jumbotron h2 {

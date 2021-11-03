@@ -66,13 +66,13 @@ ___
 
 ## Quatorze bases de données
 
-* [The Global Jukebox](https://www.theglobaljukebox.org/): développé par [The Association for Cultural Equity](http://www.culturalequity.org/).
+* [The Global Jukebox](https://www.theglobaljukebox.org/) : Une collection développée par [The Association for Cultural Equity](http://www.culturalequity.org/), fondée par Alan Lomax. The Global Jukebox contient plus de 5000 chansons de près de 1000 sociétés, dont des communautés autochtones.
 
-* [DIAMM](https://www.diamm.ac.uk/): Le Digital Image Archive of Medieval Music (Archive d’images numérisées de la musique médiévale) est la plus grande collection au monde d’images numérisées de manuscrits musicaux polyphoniques du Moyen-Âge en Europe (autour de 4000). Ce site internet gratuit inclut des images et des métadonnées de milliers de manuscrits.
+* [DIAMM](https://www.diamm.ac.uk/) : Le Digital Image Archive of Medieval Music (Archive d’images numérisées de la musique médiévale) est la plus grande collection au monde d’images numérisées de manuscrits musicaux polyphoniques du Moyen-Âge en Europe (autour de 4000). Ce site internet gratuit inclut des images et des métadonnées de milliers de manuscrits.
 
-* [Dig That Lick Database](http://dig-that-lick.eecs.qmul.ac.uk/), chercheur principal : Simon Dixon, Queen Mary University of London.
+* [Dig That Lick Database](http://dig-that-lick.eecs.qmul.ac.uk/) : Cette base de données inclut plus de 1700 transcriptions de solos de jazz tirés de plus de 1000 enregistrements audio. Chercheur principal : Simon Dixon, Queen Mary University de London.  
 
-* [RISM](https://rism.info/): Le Répertoire International des Sources Musicales est un catalogue international et collaboratif, créé en 1952 et en ligne depuis 2015. Ce catalogue fournit une collection exhaustive de citations bibliographiques et de résumés d’essais sur la musique, et fournit ainsi une des ressources les plus importantes pour la communauté internationale de recherche sur la musique. Il contient un inventaire de plus de 200 000 gravures musicales et de plus d’un million de manuscrits dans 214 langues et provenant de 151 pays.
+* [RISM](https://rism.info/) : Le Répertoire International des Sources Musicales est un catalogue international et collaboratif, créé en 1952 et en ligne depuis 2015. Ce catalogue fournit une collection exhaustive de citations bibliographiques et de résumés d’essais sur la musique, et fournit ainsi une des ressources les plus importantes pour la communauté internationale de recherche sur la musique. Il contient un inventaire de plus de 200 000 gravures musicales et de plus d’un million de manuscrits dans 214 langues et provenant de 151 pays.
 
 La [Metabrainz Foundation](https://metabrainz.org/) est une organisation à but non lucratif qui « croit en un accès libre et gratuit aux données. » Elle fournira quatre bases de données :
 * [MusicBrainz](https://musicbrainz.org/) contient des métadonnées sur des artistes, des parutions et des maisons de disques et les liens entre eux (1,5 millon d’artistes, 2 millons de parutions et 21 millions d’enregistrements).

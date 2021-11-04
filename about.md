@@ -4,92 +4,137 @@ title: About the LinkedMusic Project
 image_class: headerimage
 
 ---
-[*La version française suit.*](#cinq-objectifs)
+<p class="notranslate"><a href="#cinq-objectifs"><em>La version française suit.</em></a></p>
 
-## Five Tasks
+<h2 id="five-tasks">Five Tasks</h2>
 
+<ol>
+  <li>
+    <p>Create a metadata schema</p>
+  </li>
+  <li>
+    <p>Adapt existing conversion tools to publish metadata from other music databases</p>
+  </li>
+  <li>
+    <p>Adapt a metadata mapping tool</p>
+  </li>
+  <li>
+    <p>Build the metasearch engine</p>
+  </li>
+  <li>
+    <p>Build a picture dictionary of musical instruments</p>
+  </li>
+</ol>
 
-1. Create a metadata schema 
+<h2 id="fourteen-databases">Fourteen Databases</h2>
 
-2. Adapt existing conversion tools to publish metadata from other music databases 
+<ul>
+  <li>
+    <p><a href="https://www.theglobaljukebox.org/">The Global Jukebox</a>: developed by <a href="http://www.culturalequity.org/">The Association for Cultural Equity</a>, which
+was founded by Alan Lomax. The Jukebox contains more than 5,000 songs from nearly 1,000 societies, including Indigenous communities.</p>
+  </li>
+  <li>
+    <p><a href="https://www.diamm.ac.uk/">DIAMM</a>: Digital Image Archive of Medieval Music is the world’s largest online collection of digital images of medieval European polyphonic music manuscripts (about 4,000). The free website includes detailed information for almost all of the known manuscript sources.</p>
+  </li>
+  <li>
+    <p><a href="http://dig-that-lick.eecs.qmul.ac.uk/">Dig That Lick Database</a>, PI: Simon Dixon, Queen Mary University of London. The database includes over 1,700 transcriptions of jazz solos parts from over 1,000 audio recordings. </p>
+  </li>
+  <li>
+    <p><a href="https://rism.info/">RISM</a>: Répertoire International des Sources Musicale (International Inventory of Musical Sources is a collaborative international catalogue that began in 1952 and went online in 2015. It provides a comprehensive collection of bibliographic citations and abstracts of writings on music, providing one of the most important resources for the global music research community. It contains records of over 200,000 music prints and over a million music manuscripts in 214 languages from 151 countries.</p>
+  </li>
+</ul>
 
-3. Adapt a metadata mapping tool 
+<p>The <a href="https://metabrainz.org/">Metabrainz Foundation</a> is a non-profit organization “that believes in free, open access to data.” They will provide four databases:</p>
+<ul>
+  <li><a href="https://musicbrainz.org/">MusicBrainz</a> contains metadata about artists, releases, labels, and the relationships between them (1.5M artists, 2M releases, and 21M recordings).</li>
+  <li><a href="https://acousticbrainz.org/">AcousticBrainz</a> contains acoustic features and information for 4.3M unique recordings.</li>
+  <li><a href="https://critiquebrainz.org/">CritiqueBrainz</a> is a repository for music reviews (10,000 reviews, 1,400 users).</li>
+  <li><a href="https://listenbrainz.org/">ListenBrainz</a> is an open-source website where users upload their listening history (318M listens).</li>
+</ul>
 
-4. Build the metasearch engine
+<p>We will also be working closely with three SSHRC-funded projects, each of which involves one or more databases:</p>
 
-5. Build a picture dictionary of musical instruments 
+<p><a href="https://simssa.ca/">SIMSSA</a>: “Single Interface for Music Score Searching and Analysis” (2014–21), PI: Ichiro Fujinaga</p>
+<ul>
+  <li><a href="https://cantus.simssa.ca">Cantus Ultimus</a> is a fully searchable interface for plainchant manuscripts hosted by University of Waterloo.</li>
+  <li><a href="https:.//db.simssa.ca">SIMSSA DB</a> is a database of files containing searchable symbolic representations of scores.</li>
+</ul>
 
-## Fourteen Databases
+<p><a href="http://dact-chant.ca/">DACT</a>: “Digital Analysis of Chant Transmission” (2019–22), PI: Jennifer Bain</p>
+<ul>
+  <li><a href="https://cantus.uwaterloo.ca/home">Cantus Database</a> is a database of inventories of Latin plainchant manuscripts.</li>
+  <li><a href="http://cantusindex.org/">Cantus Index</a> is a collection of 12 different national databases of plainchant manuscripts.</li>
+  <li>Canadian Chant Database will be a database of plainchant manuscripts and prints in Canada.</li>
+</ul>
 
-* [The Global Jukebox](https://www.theglobaljukebox.org/): developed by [The Association for Cultural Equity](http://www.culturalequity.org/), which
-was founded by Alan Lomax. The Jukebox contains more than 5,000 songs from nearly 1,000 societies, including Indigenous communities.
+<p>MML16: “Mapping the Musical Landscape of the Sixteenth Century” (2019–24), PI: Julie Cumming</p>
+<ul>
+  <li>MML16 DB will be a database of inventories of 16th-century music manuscripts and prints.</li>
+</ul>
 
-* [DIAMM](https://www.diamm.ac.uk/): Digital Image Archive of Medieval Music is the world’s largest online collection of digital images of medieval European polyphonic music manuscripts (about 4,000). The free website includes detailed information for almost all of the known manuscript sources.
+<hr />
 
-* [Dig That Lick Database](http://dig-that-lick.eecs.qmul.ac.uk/), PI: Simon Dixon, Queen Mary University of London. The database includes over 1,700 transcriptions of jazz solos parts from over 1,000 audio recordings. 
+<h2 id="cinq-objectifs" class="notranslate">Cinq objectifs</h2>
 
-* [RISM](https://rism.info/): Répertoire International des Sources Musicale (International Inventory of Musical Sources is a collaborative international catalogue that began in 1952 and went online in 2015. It provides a comprehensive collection of bibliographic citations and abstracts of writings on music, providing one of the most important resources for the global music research community. It contains records of over 200,000 music prints and over a million music manuscripts in 214 languages from 151 countries.
+<ol>
+  <li>
+    <p class="notranslate">Créer un schéma de métadonnées</p>
+  </li>
+  <li>
+    <p class="notranslate">Adapter des outils de conversion existants pour publier des métadonnées d’autres bases de données musicales</p>
+  </li>
+  <li>
+    <p class="notranslate">Adapter un outil de mappage de métadonnées</p>
+  </li>
+  <li>
+    <p class="notranslate">Créer le moteur de recherche</p>
+  </li>
+  <li>
+    <p class="notranslate">Créer un dictionnaire illustré d’instruments musicaux</p>
+  </li>
+</ol>
 
-The [Metabrainz Foundation](https://metabrainz.org/) is a non-profit organization “that believes in free, open access to data.” They will provide four databases:
-* [MusicBrainz](https://musicbrainz.org/) contains metadata about artists, releases, labels, and the relationships between them (1.5M artists, 2M releases, and 21M recordings).
-* [AcousticBrainz](https://acousticbrainz.org/) contains acoustic features and information for 4.3M unique recordings.
-* [CritiqueBrainz](https://critiquebrainz.org/) is a repository for music reviews (10,000 reviews, 1,400 users).
-* [ListenBrainz](https://listenbrainz.org/) is an open-source website where users upload their listening history (318M listens).
+<h2 id="quatorze-bases-de-données">Quatorze bases de données</h2>
 
-We will also be working closely with three SSHRC-funded projects, each of which involves one or more databases:
+<ul>
+  <li>
+    <p class="notranslate"><a href="https://www.theglobaljukebox.org/">The Global Jukebox</a> : Une collection développée par <a href="http://www.culturalequity.org/">The Association for Cultural Equity</a>, fondée par Alan Lomax. The Global Jukebox contient plus de 5000 chansons de près de 1000 sociétés, dont des communautés autochtones.</p>
+  </li>
+  <li>
+    <p class="notranslate"><a href="https://www.diamm.ac.uk/">DIAMM</a> : Le Digital Image Archive of Medieval Music (Archive d’images numérisées de la musique médiévale) est la plus grande collection au monde d’images numérisées de manuscrits musicaux polyphoniques du Moyen-Âge en Europe (autour de 4000). Ce site internet gratuit inclut des images et des métadonnées de milliers de manuscrits.</p>
+  </li>
+  <li>
+    <p class="notranslate"><a href="http://dig-that-lick.eecs.qmul.ac.uk/">Dig That Lick Database</a> : Cette base de données inclut plus de 1700 transcriptions de solos de jazz tirés de plus de 1000 enregistrements audio. Chercheur principal : Simon Dixon, Queen Mary University de London.</p>
+  </li>
+  <li>
+    <p class="notranslate"><a href="https://rism.info/">RISM</a> : Le Répertoire International des Sources Musicales est un catalogue international et collaboratif, créé en 1952 et en ligne depuis 2015. Ce catalogue fournit une collection exhaustive de citations bibliographiques et de résumés d’essais sur la musique, et fournit ainsi une des ressources les plus importantes pour la communauté internationale de recherche sur la musique. Il contient un inventaire de plus de 200 000 gravures musicales et de plus d’un million de manuscrits dans 214 langues et provenant de 151 pays.</p>
+  </li>
+</ul>
 
-[SIMSSA](https://simssa.ca/): “Single Interface for Music Score Searching and Analysis” (2014–21), PI: Ichiro Fujinaga
-* [Cantus Ultimus](https://cantus.simssa.ca) is a fully searchable interface for plainchant manuscripts hosted by University of Waterloo.
-* [SIMSSA DB](https:.//db.simssa.ca) is a database of files containing searchable symbolic representations of scores.
+<p class="notranslate">La <a href="https://metabrainz.org/">Metabrainz Foundation</a> est une organisation à but non lucratif qui « croit en un accès libre et gratuit aux données. » Elle fournira quatre bases de données :</p>
+<ul>
+  <li class="notranslate"><a href="https://musicbrainz.org/">MusicBrainz</a> contient des métadonnées sur des artistes, des parutions et des maisons de disques et les liens entre eux (1,5 millon d’artistes, 2 millons de parutions et 21 millions d’enregistrements).</li>
+  <li class="notranslate"><a href="https://acousticbrainz.org/">AcousticBrainz</a> contient des caractéristiques et des informations acoustiques sur plus de 4,3 millions d’enregistrements uniques.</li>
+  <li class="notranslate"><a href="https://critiquebrainz.org/">CritiqueBrainz</a> est un référentiel de critiques musicales (10 000 critiques, 1400 utilisateurs).</li>
+  <li class="notranslate"><a href="https://listenbrainz.org/">ListenBrainz</a> est un site internet open source où les utilisateurs téléversent leur historique d’écoute (318 millions d’écoutes).</li>
+</ul>
 
-[DACT](http://dact-chant.ca/): “Digital Analysis of Chant Transmission” (2019–22), PI: Jennifer Bain
-* [Cantus Database](https://cantus.uwaterloo.ca/home) is a database of inventories of Latin plainchant manuscripts.
-* [Cantus Index](http://cantusindex.org/) is a collection of 12 different national databases of plainchant manuscripts. 
-* Canadian Chant Database will be a database of plainchant manuscripts and prints in Canada.
+<p class="notranslate">Nous travaillerons aussi en étroite collaboration avec trois projets financés par le SSHRC, chacun d’eux impliquant une ou plusieurs bases de données :</p>
 
-MML16: “Mapping the Musical Landscape of the Sixteenth Century” (2019–24), PI: Julie Cumming 
-* MML16 DB will be a database of inventories of 16th-century music manuscripts and prints.
+<p class="notranslate"><a href="https://simssa.ca/">SIMSSA</a> : “Single Interface for Music Score Searching and Analysis” (Interface unique pour la recherche et l’analyse de partitions musicales) (2014-21), chercheur principal : Ichiro Fujinaga</p>
+<ul>
+  <li class="notranslate"><a href="https://cantus.simssa.ca">Cantus Ultimus</a> est une interface entièrement consultable de manuscrits de plain-chant hébergée par l’université de Waterloo.</li>
+  <li class="notranslate"><a href="https:.//db.simssa.ca">SIMSSA DB</a> est une base de données contenant des représentations symboliques interrogeables de partitions musicales.</li>
+</ul>
 
-___
+<p class="notranslate"><a href="http://dact-chant.ca/">DACT</a> : “Digital Analysis of Chant Transmission” (analyse numérique de dissémination de chants) (2019–22), chercheure principale : Jennifer Bain</p>
+<ul>
+  <li class="notranslate"><a href="https://cantus.uwaterloo.ca/home">Cantus Database</a> est une base de données d’inventaires de manuscrits de plain-chant latin.</li>
+  <li class="notranslate"><a href="http://cantusindex.org/">Cantus Index</a> est une collection de 12 bases de données nationales différentes de manuscrits de plain-chant.</li>
+  <li class="notranslate">Canadian Chant Database sera une base de données de manuscrits et de gravures de plain-chant du Canada.</li>
+</ul>
 
-## Cinq objectifs
-
-1.	Créer un schéma de métadonnées 
-
-2.	Adapter des outils de conversion existants pour publier des métadonnées d’autres bases de données musicales
-
-3.	Adapter un outil de mappage de métadonnées 
-
-4.	Créer le moteur de recherche 
-
-5.	Créer un dictionnaire illustré d’instruments musicaux 
-
-## Quatorze bases de données
-
-* [The Global Jukebox](https://www.theglobaljukebox.org/) : Une collection développée par [The Association for Cultural Equity](http://www.culturalequity.org/), fondée par Alan Lomax. The Global Jukebox contient plus de 5000 chansons de près de 1000 sociétés, dont des communautés autochtones.
-
-* [DIAMM](https://www.diamm.ac.uk/) : Le Digital Image Archive of Medieval Music (Archive d’images numérisées de la musique médiévale) est la plus grande collection au monde d’images numérisées de manuscrits musicaux polyphoniques du Moyen-Âge en Europe (autour de 4000). Ce site internet gratuit inclut des images et des métadonnées de milliers de manuscrits.
-
-* [Dig That Lick Database](http://dig-that-lick.eecs.qmul.ac.uk/) : Cette base de données inclut plus de 1700 transcriptions de solos de jazz tirés de plus de 1000 enregistrements audio. Chercheur principal : Simon Dixon, Queen Mary University de London.  
-
-* [RISM](https://rism.info/) : Le Répertoire International des Sources Musicales est un catalogue international et collaboratif, créé en 1952 et en ligne depuis 2015. Ce catalogue fournit une collection exhaustive de citations bibliographiques et de résumés d’essais sur la musique, et fournit ainsi une des ressources les plus importantes pour la communauté internationale de recherche sur la musique. Il contient un inventaire de plus de 200 000 gravures musicales et de plus d’un million de manuscrits dans 214 langues et provenant de 151 pays.
-
-La [Metabrainz Foundation](https://metabrainz.org/) est une organisation à but non lucratif qui « croit en un accès libre et gratuit aux données. » Elle fournira quatre bases de données :
-* [MusicBrainz](https://musicbrainz.org/) contient des métadonnées sur des artistes, des parutions et des maisons de disques et les liens entre eux (1,5 millon d’artistes, 2 millons de parutions et 21 millions d’enregistrements).
-* [AcousticBrainz](https://acousticbrainz.org/) contient des caractéristiques et des informations acoustiques sur plus de 4,3 millions d’enregistrements uniques.
-* [CritiqueBrainz](https://critiquebrainz.org/) est un référentiel de critiques musicales (10 000 critiques, 1400 utilisateurs).
-* [ListenBrainz](https://listenbrainz.org/) est un site internet open source où les utilisateurs téléversent leur historique d’écoute (318 millions d’écoutes).
-
-Nous travaillerons aussi en étroite collaboration avec trois projets financés par le SSHRC, chacun d’eux impliquant une ou plusieurs bases de données :
-
-[SIMSSA](https://simssa.ca/) : “Single Interface for Music Score Searching and Analysis” (Interface unique pour la recherche et l’analyse de partitions musicales) (2014-21), chercheur principal : Ichiro Fujinaga
-* [Cantus Ultimus](https://cantus.simssa.ca) est une interface entièrement consultable de manuscrits de plain-chant hébergée par l’université de Waterloo.
-* [SIMSSA DB](https:.//db.simssa.ca) est une base de données contenant des représentations symboliques interrogeables de partitions musicales.
-
-[DACT](http://dact-chant.ca/) : “Digital Analysis of Chant Transmission” (analyse numérique de dissémination de chants) (2019–22), chercheure principale : Jennifer Bain
-* [Cantus Database](https://cantus.uwaterloo.ca/home) est une base de données d’inventaires de manuscrits de plain-chant latin.
-* [Cantus Index](http://cantusindex.org/) est une collection de 12 bases de données nationales différentes de manuscrits de plain-chant. 
-* Canadian Chant Database sera une base de données de manuscrits et de gravures de plain-chant du Canada. 
-
-MML16: “Mapping the Musical Landscape of the Sixteenth Century” (cartographier le paysage musical du 16e siècle) (2019–24), chercheure principale : Julie Cumming
-* MML16 DB sera une base de données d’inventaires de gravures et de manuscrits musicaux du 16e siècle.
+<p class="notranslate">MML16: “Mapping the Musical Landscape of the Sixteenth Century” (cartographier le paysage musical du 16e siècle) (2019–24), chercheure principale : Julie Cumming</p>
+<ul>
+  <li class="notranslate">MML16 DB sera une base de données d’inventaires de gravures et de manuscrits musicaux du 16e siècle.</li>
+</ul>

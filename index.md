@@ -17,13 +17,20 @@ For more information, please contact [Ichiro Fujinaga](http://www.music.mcgill.c
 
 ___
 
-L’objectif de notre nouveau partenariat LinkedMusic est de lier des bases de données musicales par des schémas de métadonnées, des structures d’organisation de l’information stockées dans une base de données. Ce projet contribuera grandement à amener la recherche de musique en ligne au même niveau de sophistication que la recherche de ressources textuelles, nous permettant ainsi de répondre à des questions fondamentales sur la musique et comment elle interagit avec la créativité, la société, la culture et l’histoire humaines.
+<!-- This is in HTML directly so it will cooperate as "notranslate" content
+The HTML is copied from the generated site (so if you need it again you
+can take out the notranslate tag, re-generate the site, then copy the
+HTML over and put the tag back) -->
 
-Nos objectifs incluent :
-* Le développement d’un schéma exhaustif international de métadonnées pour la musique 
-* Le développement d’outils de mappage pour intégrer des schémas de métadonnées existants à notre nouveau schéma 
-* Créer un index de métadonnées agrégées pour permettre des recherches simultanées de bases de données individuelles 
+<p class="notranslate">L’objectif de notre nouveau partenariat LinkedMusic est de lier des bases de données musicales par des schémas de métadonnées, des structures d’organisation de l’information stockées dans une base de données. Ce projet contribuera grandement à amener la recherche de musique en ligne au même niveau de sophistication que la recherche de ressources textuelles, nous permettant ainsi de répondre à des questions fondamentales sur la musique et comment elle interagit avec la créativité, la société, la culture et l’histoire humaines.</p>
 
-Pour plus d’informations, veuillez contacter [Ichiro Fujinaga](http://www.music.mcgill.ca/~ich).
+<p class="notranslate">Nos objectifs incluent :</p>
+<ul>
+  <li>Le développement d’un schéma exhaustif international de métadonnées pour la musique</li>
+  <li>Le développement d’outils de mappage pour intégrer des schémas de métadonnées existants à notre nouveau schéma</li>
+  <li>Créer un index de métadonnées agrégées pour permettre des recherches simultanées de bases de données individuelles</li>
+</ul>
+
+<p class="notranslate">Pour plus d’informations, veuillez contacter <a href="http://www.music.mcgill.ca/~ich">Ichiro Fujinaga</a>.</p>
 
 

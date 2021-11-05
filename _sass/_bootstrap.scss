@@ -3879,9 +3879,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   padding: 20px 15px;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 20px;
   height: 60px;
+  margin: 20px 0px 10px 0px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -3930,6 +3931,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding-bottom: 10px;
   line-height: 20px;
   vertical-align: middle;
+  margin: 20px 0px 10px 0px;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -6186,9 +6188,9 @@ button.close {
   text-transform: uppercase;
 }
 .navbar .nav > li > a {
-  font-size: 11px;
+  font-size: 16px;
   line-height: 22px;
-  font-weight: 500;
+  font-weight: 400;
   text-transform: uppercase;
 }
 .navbar-form input,

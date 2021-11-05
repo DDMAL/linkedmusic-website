@@ -103,11 +103,13 @@ section.page {
 }
 
 #google_translate_element {
-  float: right;
-  //vertical-align: middle;
+  vertical-align: middle;
   background: white;
   padding: 0px 4px;
   border-radius: 0.2em;
+  position: fixed;
+  right: 7px;
+  top: 7px;
 }
 
 @media (min-width: 768px) {

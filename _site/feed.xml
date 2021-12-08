@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-05T14:34:10-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LinkedMusic</title><subtitle>A reserved &lt;a href=&quot;https://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; theme that places the utmost gravity on content with a hidden drawer. Made by &lt;a href=&quot;https://twitter.com/mdo&quot; target=&quot;_blank&quot;&gt;@mdo&lt;/a&gt;.</subtitle><author><name>Mark Otto</name><email>markdotto@gmail.com</email></author><entry><title type="html">ISMIR 2019: Delft</title><link href="http://localhost:4000/blog/ismir2019/" rel="alternate" type="text/html" title="ISMIR 2019: Delft" /><published>2019-12-16T00:00:00-05:00</published><updated>2019-12-16T00:00:00-05:00</updated><id>http://localhost:4000/blog/ismir2019</id><content type="html" xml:base="http://localhost:4000/blog/ismir2019/">&lt;p&gt;Back at the beginning of November, several members of our lab made the journey to the Netherlands to attend and present at &lt;a href=&quot;https://ismir2019.ewi.tudelft.nl/&quot;&gt;ISMIR2019&lt;/a&gt; and related satellite conferences. (ISMIR was from Nov. 4-8 with satellites before and after). Delft was a really neat city to visit, with as many bicycles, canals, and pounds of black licorice you could ever want…&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://ddmal.music.mcgill.ca/linkedmusic-website/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ddmal.music.mcgill.ca/linkedmusic-website/" rel="alternate" type="text/html" /><updated>2021-12-08T16:03:28-05:00</updated><id>https://ddmal.music.mcgill.ca/linkedmusic-website/feed.xml</id><title type="html">LinkedMusic</title><subtitle>A reserved &lt;a href=&quot;https://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; theme that places the utmost gravity on content with a hidden drawer. Made by &lt;a href=&quot;https://twitter.com/mdo&quot; target=&quot;_blank&quot;&gt;@mdo&lt;/a&gt;.</subtitle><author><name>Mark Otto</name><email>markdotto@gmail.com</email></author><entry><title type="html">ISMIR 2019: Delft</title><link href="https://ddmal.music.mcgill.ca/linkedmusic-website/blog/ismir2019/" rel="alternate" type="text/html" title="ISMIR 2019: Delft" /><published>2019-12-16T00:00:00-05:00</published><updated>2019-12-16T00:00:00-05:00</updated><id>https://ddmal.music.mcgill.ca/linkedmusic-website/blog/ismir2019</id><content type="html" xml:base="https://ddmal.music.mcgill.ca/linkedmusic-website/blog/ismir2019/">&lt;p&gt;Back at the beginning of November, several members of our lab made the journey to the Netherlands to attend and present at &lt;a href=&quot;https://ismir2019.ewi.tudelft.nl/&quot;&gt;ISMIR2019&lt;/a&gt; and related satellite conferences. (ISMIR was from Nov. 4-8 with satellites before and after). Delft was a really neat city to visit, with as many bicycles, canals, and pounds of black licorice you could ever want…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/2019_ismir_licorice.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/2019_ismir_licorice.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We will be hosting &lt;a href=&quot;https://ismir.github.io/ISMIR2020/&quot;&gt;ISMIR2020&lt;/a&gt; here in Montreal so it was also great to see the ever-growing conference in action! (It was my first ISMIR too.)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/2019_ismir_bicycles.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/2019_ismir_bicycles.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Satellites before the conference included WoRMS, WiMIR, and the first-ever Workshop on Designing Human-Centric MIR systems. We had presenters at two of these, and a few of our students attended the WiMIR hackathon event as well.&lt;/p&gt;
 
@@ -16,9 +16,9 @@
 
 &lt;p&gt;This was the first year of the &lt;a href=&quot;https://sites.google.com/view/designinghuman-centricmir/home&quot;&gt;Workshop on Designing Human-Centric MIR Systems&lt;/a&gt; Link to the [proceedings](https://sites.google.com/view/designinghuman-centricmir/proceedings.&lt;/p&gt;
 
-&lt;p&gt;SIMSSA Postdoc Finn Upham presented “Human Subtracted: Social Distortion of Music Technology.” Check out their &lt;a href=&quot;http://localhost:4000/assets/files/upham_2019_hcmir_humansubtracted_slides.pdf&quot;&gt;slides&lt;/a&gt; and &lt;a href=&quot;http://localhost:4000/assets/files/upham_2019_hcmir_humansubtracted_extabstract.pdf&quot;&gt;extended abstract&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;SIMSSA Postdoc Finn Upham presented “Human Subtracted: Social Distortion of Music Technology.” Check out their &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/upham_2019_hcmir_humansubtracted_slides.pdf&quot;&gt;slides&lt;/a&gt; and &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/upham_2019_hcmir_humansubtracted_extabstract.pdf&quot;&gt;extended abstract&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/dereuse_2019_worms.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/dereuse_2019_worms.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;ismir&quot;&gt;ISMIR&lt;/h2&gt;
 
@@ -26,39 +26,39 @@
 
 &lt;p&gt;Yaolong Ju presented “&lt;a href=&quot;http://archives.ismir.net/ismir2019/paper/000106.pdf&quot;&gt;An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats&lt;/a&gt;.”&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/ju_2019_ismir.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/ju_2019_ismir.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Tim de Reuse presented again, this time on “&lt;a href=&quot;http://archives.ismir.net/ismir2019/paper/000093.pdf&quot;&gt;Pattern Clustering in Monophonic Music by Learning a Non-Linear Embedding From Human Annotations&lt;/a&gt;”. He was also the winner for the MIREX “Patterns for Prediction” task.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/dereuse_2019_ismir.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/dereuse_2019_ismir.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;ISMIR2019 also included tutorials, an unconference, and nine different flavours of water available all day! They set a high bar for 2020 and it was a pleasure to attend.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/2019_ismir_cafe.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/2019_ismir_cafe.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;digital-libraries-for-musicology-dlfm&quot;&gt;Digital Libraries for Musicology (DLfM)&lt;/h2&gt;
 
 &lt;p&gt;After ISMIR, we headed to The Hague for the 6th edition of &lt;a href=&quot;https://dlfm.web.ox.ac.uk/&quot;&gt;Digital Libraries for Musicology&lt;/a&gt;, held at the National Library of the Netherlands. Our lab was well-represented, with four people presenting their research.&lt;/p&gt;
 
-&lt;p&gt;Néstor Nápoles López discussed his work on “&lt;a href=&quot;http://localhost:4000/assets/files/napoleslopez_2019_dlfm_keyfinding_paper.pdf&quot;&gt;Key-Finding Based on a Hidden Markov Model and Key Profiles&lt;/a&gt;”, done in collaboration with former SIMSSA postdoc Claire Arthur. Check out the &lt;a href=&quot;http://localhost:4000/assets/files/napoleslopez_2019_dlfm_keyfinding_slides.pdf&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Néstor Nápoles López discussed his work on “&lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/napoleslopez_2019_dlfm_keyfinding_paper.pdf&quot;&gt;Key-Finding Based on a Hidden Markov Model and Key Profiles&lt;/a&gt;”, done in collaboration with former SIMSSA postdoc Claire Arthur. Check out the &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/napoleslopez_2019_dlfm_keyfinding_slides.pdf&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/napoleslopez_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/napoleslopez_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Matan Gover presented “A notation-based query language  for searching in symbolic music”. Link to &lt;a href=&quot;http://localhost:4000/assets/files/gover_2019_dlfm_notation_slides.pdf&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Matan Gover presented “A notation-based query language  for searching in symbolic music”. Link to &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/gover_2019_dlfm_notation_slides.pdf&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/gover_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/gover_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Emily Hopkins (me!) presented a poster on “SIMSSA DB: Symbolic Music Discovery and Search.”
-Link to &lt;a href=&quot;http://localhost:4000/assets/files/hopkins_2019_dlfm_simssadb_paper.pdf&quot;&gt;short paper&lt;/a&gt; and &lt;a href=&quot;http://localhost:4000/assets/files/hopkins_2019_dlfm_simssadb_poster.pdf&quot;&gt;poster&lt;/a&gt;.&lt;/p&gt;
+Link to &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/hopkins_2019_dlfm_simssadb_paper.pdf&quot;&gt;short paper&lt;/a&gt; and &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/hopkins_2019_dlfm_simssadb_poster.pdf&quot;&gt;poster&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/hopkins_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/hopkins_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Martha Thomae presented on “The Mensural Scoring-up Tool.” (See our &lt;a href=&quot;https://simssa.ca/blog/interviewing-martha/&quot;&gt;blog post&lt;/a&gt; for an earlier interview with her about this research.)
-Link to &lt;a href=&quot;http://localhost:4000/assets/files/thomae_2019_dlfm_mensural_slides.pptx&quot;&gt;slides&lt;/a&gt; and &lt;a href=&quot;http://localhost:4000/assets/files/thomae_2019_dlfm_mensural_paper.pdf&quot;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+Link to &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/thomae_2019_dlfm_mensural_slides.pptx&quot;&gt;slides&lt;/a&gt; and &lt;a href=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/files/thomae_2019_dlfm_mensural_paper.pdf&quot;&gt;paper&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/thomae_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/thomae_2019_dlfm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hope to see you all at &lt;a href=&quot;https://ismir.github.io/ISMIR2020/&quot;&gt;ISMIR2020&lt;/a&gt;! You can follow us on Twitter too, &lt;a href=&quot;https://twitter.com/ismir2020&quot;&gt;@ismir2020&lt;/a&gt;. &lt;br /&gt;
 See you next year!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/img/2019_ismir_canal.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>ehopkins</name></author><summary type="html">Back at the beginning of November, several members of our lab made the journey to the Netherlands to attend and present at ISMIR2019 and related satellite conferences. (ISMIR was from Nov. 4-8 with satellites before and after). Delft was a really neat city to visit, with as many bicycles, canals, and pounds of black licorice you could ever want…</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;https://ddmal.music.mcgill.ca/linkedmusic-website/assets/img/2019_ismir_canal.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>ehopkins</name></author><summary type="html">Back at the beginning of November, several members of our lab made the journey to the Netherlands to attend and present at ISMIR2019 and related satellite conferences. (ISMIR was from Nov. 4-8 with satellites before and after). Delft was a really neat city to visit, with as many bicycles, canals, and pounds of black licorice you could ever want…</summary></entry></feed>

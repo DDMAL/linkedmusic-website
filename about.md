@@ -40,7 +40,7 @@ was founded by Alan Lomax. The Jukebox contains more than 5,000 songs from nearl
     <p><a href="http://dig-that-lick.eecs.qmul.ac.uk/">Dig That Lick Database</a>, PI: Simon Dixon, Queen Mary University of London. The database includes over 1,700 transcriptions of jazz solos parts from over 1,000 audio recordings. </p>
   </li>
   <li>
-    <p><a href="https://rism.info/">RISM</a>: Répertoire International des Sources Musicale (International Inventory of Musical Sources is a collaborative international catalogue that began in 1952 and went online in 2015. It provides a comprehensive collection of bibliographic citations and abstracts of writings on music, providing one of the most important resources for the global music research community. It contains records of over 200,000 music prints and over a million music manuscripts in 214 languages from 151 countries.</p>
+    <p><a href="https://rism.info/">RISM</a>: Répertoire International des Sources Musicale (International Inventory of Musical Sources is a collaborative international catalogue that began in 1952 and went online in 2010. RISM is one of the most important resources for the global music research community, hosting records of over 200,000 music prints and over a million music manuscripts in 86 languages from 53 countries.</p>
   </li>
 </ul>
 

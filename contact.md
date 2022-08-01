@@ -6,6 +6,8 @@ image_class: headerimage
 ---
 <br>  
 
+Follow us on Twitter! @LinkedMusic2022
+
 For more information, please contact [Ichiro Fujinaga](http://www.music.mcgill.ca/~ich).
 
 Pour plus d’informations, veuillez contacter [Ichiro Fujinaga](http://www.music.mcgill.ca/~ich).

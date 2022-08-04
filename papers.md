@@ -11,7 +11,7 @@ image_class: headerimage
 
 <p>Han, Sooyeon, and JongGyu Han. 2022. “Case Study on an Integrated Interoperable Metadata Model for Geoscience Information Resources.” Geoscience Data Journal, 16. https://doi.org/10.1002/gdj3.150.</p>
 
-<p>The article covers the creation of a metadata schema to promote interoperability and characterize historically collected geoscience data. While not in the same field, the article shows the steps taken to develop a switching-across methodology, as well as an example of the methodology. </p>
+<p>&#8226; The article covers the creation of a metadata schema to promote interoperability and characterize historically collected geoscience data. While not in the same field, the article shows the steps taken to develop a switching-across methodology, as well as an example of the methodology. </p>
 
 <p>Lisena, Pasquale, Albert Meroño-Peñuela, and Raphaël Troncy. 2022. “MIDI2vec: Learning MIDI Embeddings for Reliable Prediction of Symbolic Music Metadata.” Edited by Mehwish Alam, Davide Buscaldi, Michael Cochez, Francesco Osborne, Diego Reforgiato Recupero, Harald Sack, Mehwish Alam, et al. Semantic Web 13 (3):357–77. https://doi.org/10.3233/SW-210446.</p>
 

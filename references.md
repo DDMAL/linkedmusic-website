@@ -40,42 +40,82 @@ Anderson, and Kim Christen. 2012. “Traditional Knowledge Licences and Labels.�
 Antoniou, Grigoris, and Fran Van Harmelen. 2008. *Semantic Web Primer,*
 2^nd^ Edition. Cambridge, MA: MIT Press. https://mitpress.mit.edu/books/semantic-web-primer-second-edition.
 
+Aslanidi, Maria, Ioannis Papadakis, and Michalis Stefanidakis. 2018. “Name and Title Authorities in the Music Domain: Alignment of UNIMARC Authorities Format with RDA.” *Cataloging & Classification Quarterly* 56 (4):354–73. https://doi.org/10.1080/01639374.2018.1423596.
+
+Atarashi, Ray, Takuro Sone, Yu Komohara, Manabu Tsukada, Takashi Kasuya, Hiraku Okumura, Masahiro Ikeda, and Hiroshi Esaki. 2018. “The Software Defined Media Ontology for Music Events.” In *Proceedings of the 1st International Workshop on Semantic Applications for Audio and Music*, 15–23. Monterey CA USA: ACM. https://doi.org/10.1145/3243907.3243915.
+
+Baca, Murtha. 2003. “Practical Issues in Applying Metadata Schemas and Controlled Vocabularies to Cultural Heritage Information.” *Cataloging & Classification Quarterly* 36 (3–4):47–55. https://doi.org/10.1300/J104v36n03_05.
+
 Baca, Murtha, and Melissa Gill. 2015. "Encoding Multilingual Knowledge
 Systems in the Digital Age: The Getty Vocabularies." *Knowledge
-Organization* 42 (4): 232--243.
+Organization* 42 (4): 232--243. https://www.ergon-verlag.de/isko_ko/downloads/ko_42_2015_4_d.pdf.
 
 **Bain**, Jennifer. 2015. *Hildegard of Bingen and Musical Reception:
 The Modern Revival of a Medieval Composer*. Cambridge, UK: Cambridge
 University Press.
 
+Balaji, Bharathan, Arka Bhattacharya, Gabriel Fierro, Jingkun Gao, Joshua Gluck, Dezhi Hong, Aslak Johansen, et al. 2016. “Brick: Towards a Unified Metadata Schema For Buildings.” In *Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments*, 41–50. Palo Alto CA USA: ACM. https://doi.org/10.1145/2993422.2993577.
+
 Berners-Lee, Tim, James Hendler, and Ora Lassila. 2001. "The Semantic
 Web." *Scientific American* 284: 29--37.
 
+Bianchini, Carlo, Stefano Bargioni, and Camillo Carlo Pellizzari di San Girolamo. 2021. “Beyond VIAF:” *Information Technology and Libraries* 40 (2):31. https://doi.org/10.6017/ital.v40i2.12959.
+
+Billey, Amber, and Emily Drabinski. 2019. “Questioning Authority: Changing Library Cataloging Standards to Be More Inclusive to a Gender Identity Spectrum.” *TSQ: Transgender Studies Quarterly* 6 (1):117–23. https://doi.org/10.1215/23289252-7253538.
+
 Bizer, Christian, Tom Heath, and Tim Berners-Lee. 2009. "Linked Data:
 The Story so Far." *International Journal on Semantic Web an Information
-Systems* 5 (3):1--22.
+Systems* 5 (3):1--22. http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf.
+
+Boczar, Jason, Bonita Pollock, Xiying Mi, and Amanda Yeslibas. 2021. “Bridging the Gap.” *Information Technology and Libraries* 40 (4). Chicago, United States: American Library Association:1–15. https://doi.org/10.6017/ital.v40i4.13063.
+
+Boeuf, Patrick Le. 2012. “Towards Performing Arts Information As Linked Data?” In *SIMBAS 2012 Conference*, 13. London, England. https://hal-bnf.archives-ouvertes.fr/file/index/docid/807942/filename/Towards_Performing_Arts_Information_As_Linked_Data.pdf.
+
+Bœuf, Patrick Le. 2012. “Modeling Rare and Unique Documents: Using FRBR OO /CIDOC CRM.” *Journal of Archival Organization* 10 (2):96–106. https://doi.org/10.1080/15332748.2012.709164.
+
+Bonora, Paolo, and Angelo Pompilio. 2021. “Corago in LOD : The debut of an Opera repository into the Linked Data arena.” *Jlist.it*. EUM-Edizioni Università di Macerata, 54–72. https://doi.org/10.4403/jlis.it-12699.
+
+Brisebois, Ronald, Alain Abran, and Apollinaire Nadembeg. 2017. “A Semantic Metadata Enrichment Software Ecosystem Based on Metadata and Affinity Models.” *International Journal of Information Technology and Computer Science* 9 (8):1–13. https://doi.org/10.5815/ijitcs.2017.08.01.
+
+Brooke, Tony. 2014. “Descriptive Metadata In The Music Industry: Why It Is Broken And How To Fix It.” *Journal of Digital Media Management* 2 3:263–82. https://www.silentway.com/research/descriptive-metadata-music-industry.
+
+Canning, Erin, Susan Brown, Sarah Roger, and Kimberley Martin. 2022. “The Power to Structure : Making Meaning from Metadata Through Ontologies.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies, Metadata as Knowledge*, 6 (3):1–15. https://doi.org/10.18357/kula.169.
 
 Caplan, Priscilla, and Rebecca S. Guenther. 2005. "Practical
 Preservation: The PREMIS Experience." *Library Trends* 54 (10):
 111--124. doi:10.1353/lib.2006.0002.
 
+Chamnongsri, Nisachol. 2019. “Metadata Standards for Palm Leaf Manuscripts in Asia.” In Metadata and Semantic Research, edited by Emmanouel Garoufallou, Fabio Sartori, Rania Siatri, and Marios Zervas, 242–54. Communications in Computer and Information Science. Limassol, Cyprus: Springer International Publishing. https://doi.org/10.1007/978-3-030-14401-2_23.
+
 Chan, Lois Mai, and Marcia Lei Zeng. 2006. "Metadata interoperability
 and standardization--a study of methodology Part I." *D-Lib magazine* 12
-(6).
+(6). https://doi.org/10.1045/june2006-chan.
+
+Chen, Ya-Ning. 2015. “A RDF-Based Approach to Metadata Crosswalk for Semantic Interoperability at the Data Element Level.” *Library Hi Tech* 33 (2). Emerald Group Publishing Limited:175–94. https://doi.org/10.1108/LHT-08-2014-0078.
+
+Ciotti, Fabio, and Francesca Tomasi. 2016. “Formal Ontologies, Linked Data, and TEI Semantics.” *Journal of the Text Encoding Initiative*, no. Issue 9 (September). Text Encoding Initiative Consortium. https://doi.org/10.4000/jtei.1480.
+
+Clarke, Rachel Ivy, and Sayward Schoonmaker. 2019. “Metadata for Diversity: Identification and Implications of Potential Access Points for Diverse Library Resources.” *Journal of Documentation* 76 (1):173–96. https://doi.org/10.1108/JD-01-2019-0003.
+
+Cohen, Ahava. 2017. “Each of Us Has a Name : Creating a Multilingual, Multiscript National Authority Database.” *Catalogue and Index* 186:15–19. https://www.researchgate.net/publication/316513668_Each_of_us_has_a_name_creating_a_multilingual_multiscript_national_authority_database.
 
 Corthaut, Nik, Sten Govaerts, Katrien Verbert, and Erik Duval. 2008.
 "Connecting the Dots: Music Metadata Generation, Schemas and
 Applications." In *Proceedings of the International Society for Music
-Information Retrieval Conference*, 417--422. Vienna, Austria.
+Information Retrieval Conference*, 417--422. Vienna, Austria. https://archives.ismir.net/ismir2008/2008_ISMIR_Proceedings.pdf.
 
-Crompton, Jim. 2008. Keynote talk at the *W3C Workshop on Semantic Web
-in Oil & Gas Industry*.
-<https://www.w3.org/2008/12/ogws-slides/Crompton.pdf> Accessed
-2020-11-23.
+Coyle, Karen, and Diane Hillmann. 2007. “Resource Description and Access (RDA): Cataloging Rules for the 20th Century.” *D-Lib Magazine* 13 (1/2). https://doi.org/10.1045/january2007-coyle.
+
+Craft, Anna R. 2019. “Local Name Authorities and Linked Data: The Landscape.” *Serials Review* 45 (1–2):61–65. https://doi.org/10.1080/00987913.2019.1613736.
+
+Crocken, Todd, Annie Wu, Leroy Vallejo, Andrew Weidner, Santi Thompson, and Sean Watkins. 2019. “Strategies and Tools for Metadata Migration Analysis and Harmonization.” In *DC-2019--The Seoul, South Korea Proceedings*, 5. Seoul, South Korea. https://dcpapers.dublincore.org/pubs/article/download/4231/2425.pdf.
+
+Crompton, Jim. 2008. “Putting the FOCUS on Data.” Keynote talk at the *W3C Workshop on Semantic Web in Oil & Gas Industry*. Houston, TX, United States. 
+<https://www.w3.org/2008/12/ogws-slides/Crompton.pdf> 
 
 Coyle, Karen, and Diane Hillmann. 2007. "Resource Description and Access
 (RDA): Cataloguing Rules for the 20th Century." *D-Lib Magazine* 13
-(1/2).
+(1/2). https://dlib.org/dlib/january07/coyle/01coyle.html
 
 **Cumming**, Julie. 1999. *The* Motet *in the Age of Du Fay.* Cambridge,
 UK: Cambridge University Press.

@@ -10,16 +10,35 @@ image_class: headerimage
 #### La présentation indique les contributions de **cocandidats** et de ***collaborateurs***.
 
 <br>
+
+Aalberg, Trond, Audun Vennesland, and Maliheh Farrokhnia. 2015. “A Pattern-Based Framework for Best Practice Implementation of CRM/FRBRoo.” In *First International Workshop on Semantic Web for Cultural Heritage*, 539:472–81. Communications in Computer and Information Science. Futuroscope, France: Springer International Publishing. https://doi.org/10.1007/978-3-319-23201-0.
+
+Abdallah, Samer, Emmanouil Benetos, Nicolas Gold, Steven Hargreaves, Tillman Weyde, and Daniel Wolff. 2017. “The Digital Music Lab: A Big Data Infrastructure for Digital Musicology.” *Journal on Computing and Cultural Heritage* 10 (1):1–21. https://doi.org/10.1145/2983918.
+
 Achichi, Manel, Pasquale Lisena, Konstantin Todorov, Raphäel Troncy, and
 Jean Delahousse. 2018. "DOREMUS: A Graph of Linked Musical Works." In
 *The Semantic Web -- ISWC 2018*, Lecture Notes in Computer Science, vol.
-11137, edited by D. Vrandečić et al., 3--19, Cham: Springer.
+11137, edited by D. Vrandečić et al., 3--19, Cham: Springer. https://doi.org/10.1007/978-3-030-00668-6_1.
+
+Ahn, Luis von, and Laura Dabbish. 2004. “Labeling Images with a Computer Game.” In *CHI ’04: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, 319–26. Vienna, Austria: ACM Press. https://doi.org/10.1145/985692.985733.
 
 Alatrish, Emhimed S. 2012. "Comparison of Ontology Editors." *eRAF
-Journal on Computing* 4: 23--38.
+Journal on Computing* 4: 23--38. http://joc.raf.edu.rs/images/vol4/poredjenje-ontologijskih-editora.pdf.
+
+Alemu, Getaneh, Brett Stevens, and Penny Ross. 2012. “Towards a Conceptual Framework for User‐driven Semantic Metadata Interoperability in Digital Libraries: A Social Constructivist Approach.” *New Library World* 113 (1/2). Emerald Group Publishing Limited:38–54. https://doi.org/10.1108/03074801211199031.
+
+Alemu, Getaneh, Brett Stevens, Penny Ross, and Jane Chandler. 2012. “Linked Data for Libraries: Benefits of a Conceptual Shift from Library‐specific Record Structures to RDF‐based Data Models.” *New Library World* 113 (11/12). Emerald Group Publishing Limited:549–70. https://doi.org/10.1108/03074801211282920.
+
+Aljalahmah, Saleh H., and Oksana L. Zavalina. 2021. “Information Representation and Knowledge Organization in Cultural Heritage Institutions in Arabian Gulf: A Comparative Case Study.” *Journal of Information & Knowledge Management* 20 (4):24. https://dx.doi.org/10.1142/S0219649221500507.
+
+Allison-Cassin, Stacy. 2016. “A Scenes Approach to Metadata Models for Music.” *Journal of Library Metadata* 16 (3–4):181–201. https://doi.org/10.1080/19386389.2016.1258891.
+
+Amann, Bernd, Irini Fundulaki, and Michel Scholl. 2000. “Integrating Ontologies and Thesauri for RDF Schema Creation and Metadata Querying.” *International Journal on Digital Libraries* 3 (3):221–36. https://doi.org/10.1007/s007990000037.
+
+Anderson, and Kim Christen. 2012. “Traditional Knowledge Licences and Labels.” *Arts+Law Centre of Australia* (blog). 2012. https://www.artslaw.com.au/article/traditional-knowledge-licences-and-labels/.
 
 Antoniou, Grigoris, and Fran Van Harmelen. 2008. *Semantic Web Primer,*
-2^nd^ Edition. Cambridge, MA: MIT Press.
+2^nd^ Edition. Cambridge, MA: MIT Press. https://mitpress.mit.edu/books/semantic-web-primer-second-edition.
 
 Baca, Murtha, and Melissa Gill. 2015. "Encoding Multilingual Knowledge
 Systems in the Digital Age: The Getty Vocabularies." *Knowledge

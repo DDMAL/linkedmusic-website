@@ -125,33 +125,63 @@ Petrucci's First Five Motet Prints." In *The Motet around 1500: On the
 Relationship of Imitation and Text Treatment,* edited by T.
 Schmidt-Beste, 63--90. Turnhout: Brepols.
 
+Dagher, Iman, and Denise Soufi. 2021. “Authority Control of Arabic Personal Names: RDA and Beyond.” *Cataloging & Classification Quarterly* 59 (2–3):260–80. https://doi.org/10.1080/01639374.2020.1845896.
+
+Day, Jo, and Nicholas L. Wright. 2015. “TEACHING AN OLD DOG NEW TRICKS: UCD’S ROMAN COINS IN THE DIGITAL AGE.” *Archaeology Ireland* 29 (2). Wordwell Ltd.:24–25. http://www.jstor.org/stable/24327511.
+
 De Uña, Diego, Nataliia Rümmele, Graeme Gange, Peter Schachte, and Peter
 J. Stuckey. 2018. "Machine Learning and Constraint Programming for
 Relational-To-Ontology Schema Mapping." In *Proceedings of the
-International Joint Conference on Artificial Intelligenc,* 1277--1283.
+International Joint Conference on Artificial Intelligenc,* 1277--1283. https://doi.org/10.24963/ijcai.2018/178.
 
 Doan, AnHai, and Alon Y. Halevy. 2005. "Semantic Integration Research in
-the Database Community: A Brief Survey." *AI Magazine* 26 (1): 83--94.
+the Database Community: A Brief Survey." *AI Magazine* 26 (1): 83--94. https://doi.org/10.1609/aimag.v26i1.1801.
 
-Doerr, Martin. 2003. "The CIDOC CRM: An Ontological Approach to Semantic
-Interoperability of Metadata." *AI Magazine* 24 (3): 75--92.
+Dobreski, Brian, Jaihyun Park, Alicia Leathers, and Jian Qin. 2019. “Remodeling Archival Metadata Descriptions for Linked Archives.” In *Proc. Int’l Conf. on Dublin Core and Metadata Applications 2019*, 11. Seoul, South Korea. https://dcpapers.dublincore.org/pubs/article/view/4223/.
+
+Doerr, Martin. 2001. "The CIDOC CRM: An Ontological Approach to Semantic
+Interoperability of Metadata." *AI Magazine* 24 (3): 75--92. http://old.cidoc-crm.org/docs/crm-ontology_preprint.pdf.
+
+Doerr, Martin, and Chryssoula Bekiari. 2008. “FRBROO, A CONCEPTUAL MODEL FOR PERFORMING ARTS.” In *2008 Annual Conference of CIDOC*, 15. Athens, Greece. https://publications.ics.forth.gr/_publications/drfile.2008-06-42.pdf.
+
+Doerr, Martin, Stefan Gradmann, Steffen Hennicke, Antoine Issac, Carlo Meghini, and Herbet van de Sompel. 2010. “The European Data Model (EDM).” In *76th IFLA General Conference and Assembly*, 12. Information Technology, Cataloguing, Classification and  Indexing with Knowledge Management. Gothenburg, Sweden: World Library and Information Congress. https://www.ifla.org/past-wlic/2010/149-doerr-en.pdf.
 
 Dragisic, Zlatan, Valentina Ivanova, Patrick Lambrix, Daniel Faria,
 Ernesto Jimenez-Ruiz, and Catia Pesquita. 2016. "User Validation in
 Ontology Alignment." In *Proceedings of the International Semantic Web
-Conference*, 200--217. Kobe, Japan.
+Conference*, 200--217. Kobe, Japan. https://doi.org/10.1007/978-3-319-46523-4_13.
 
 Jon W. **Dunn**, Jon W., Donald Byrd, Mark Notess, Jenn ***Riley***,
 Ryan Scherle. 2006. "Variations2: Retrieving and Using Music in an
 Academic Setting." *Communications of the ACM* 49 (8): 53--58.
 
+Dunsire, Gordon, Corey Harper, Diane Hillmann, and Jon Phipps. 2012. “Linked Data Vocabulary Management: Infrastructure Support, Data Integration, and Interoperability.” *Information Standards Quarterly* 24 (2/3):4. https://doi.org/10.3789/isqv24n2-3.2012.02.
+
+Eid, Sherine. 2019. “Library Metadata Standards and Linked Data Services: An Introduction to Arab and International Organizations.” *Journal of Library Metadata* 19 (3–4):163–85. https://doi.org/10.1080/19386389.2019.1651975.
+
+Eyharabide, Victoria, Vincent Lully, and Florentin Morel. 2019. “MusicKG: Representations of Sound and Music in the Middle Ages as Linked Open Data.” In *Semantic Systems. The Power of AI and Knowledge Graphs*, edited by Maribel Acosta, Philippe Cudré-Mauroux, Maria Maleshkova, Tassilo Pellegrini, Harald Sack, and York Sure-Vetter, 11702:57–63. Lecture Notes in Computer Science. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-33220-4_5.
+
+Fafalios, Pavlos, Kostas Petrakis, Georgios Samaritakis, Korina Doerr, Athina Kritsotaki, Yannis Tzitzikas, and Martin Doerr. 2021. “FAST CAT: Collaborative Data Entry and Curation for Semantic Interoperability in Digital Humanities.” *Journal on Computing and Cultural Heritage* 14 (4):1–20. https://doi.org/10.1145/3461460.
+
 Fagan, Jody C. 2010. "Usability Studies of Faceted Browsing: A
 Literature Review." *Information Technology and Libraries* 29 (2):
-58--66.
+58--66. https://doi.org/10.6017/ital.v29i2.3144.
+
+Faith, Ashleigh, and Michelle Chrzanowski. 2015. “Connecting RDA and RDF: Linked Data for a Wide World of Connected Possibilities.” *Pennsylvania Libraries: Research & Practice* 3 (2):122–35. https://doi.org/10.5195/palrap.2015.106.\
+
+Falk, Patricia, and David R. Lewis. 2020. “A New Take on Cataloging Popular Music Recordings.” *Cataloging & Classification Quarterly* 58 (8):683–704. https://doi.org/10.1080/01639374.2020.1861151.
+
+Faraj, Ghazal, and András Micsik. 2021. “Representing and Validating Cultural Heritage Knowledge Graphs in CIDOC-CRM Ontology.” *Future Internet* 13 (11). Multidisciplinary Digital Publishing Institute:277. https://doi.org/10.3390/fi13110277.
+
+Filtz, Erwin, Sabrina Kirrane, and Axel Polleres. 2021. “The Linked Legal Data Landscape: Linking Legal Data across Different Countries.” *Artificial Intelligence and Law* 29 (4):485–539. https://doi.org/10.1007/s10506-021-09282-8.
 
 Foulonneau, Muriel, and Jenn ***Riley***. 2008. *Metadata for Digital
 Resources: Implementation, Systems Design, and Interoperability*.
 Oxford: Chandos.
+
+Freire, Nuno, and Antoine Isaac. 2019. “Wikidata’s Linked Data for Cultural Heritage Digital Resources: An Evaluation Based on the Europeana Data Model.” In *DC-2019--The Seoul, South Korea Proceedings*, 10. Seoul, South Korea. https://dcpapers.dublincore.org/pubs/article/download/4239/2433.pdf.
+
+Frosterus, Matias, David Hansson, Maral Dadvar, Ilias Kyriazis, and Sofia Zapounidou. 2021. “6 Steps for Publishing Library Linked Open Data.” LIBER Linked Open Data Working Group. https://libereurope.eu/wp-content/uploads/2021/02/LOD-Guidelines-FINAL-Feb-2021.pdf.
 
 **Fujinaga**, Ichiro. 2019. "Single Interface for Music Score Searching
 and Analysis (SIMSSA) Project: Optical Music Recognition Workflow for
@@ -165,41 +195,85 @@ Music Information Retrieval*, 261--262.
 
 Gal, Avigdor, Haggai Roitman, and Roee Shraga. 2019. "Learning to Rerank
 Schema Matches." *IEEE Transactions on Knowledge and Data Engineering,*
-1--14.
+1--14. https://doi.org/10.1109/TKDE.2019.2962124.
 
 Gangemi, Aldo, and Valentina Presutti. 2009. "Ontology Design Patterns."
 In *Handbook on Ontologies*, edited by S. Staab and R. Studer, 221--243.
-Berlin: Springer.
+Berlin: Springer. https://doi.org/10.1007/978-3-540-92673-3_10.
+
+Gentili-Tedeschi, Massimo, and Federica Riva. 2004. “Authority Control in the Field of Music: Names and Titles.” *Cataloging & Classification Quarterly* 39 (1–2):399–412. https://doi.org/10.1300/J104v39n01_08.
+
+Gergatsoulis, Manolis, Lina Bountouri, Panorea Gaitanou, and Christos Papatheodorou. 2010. “Mapping Cultural Metadata Schemas to CIDOC Conceptual Reference Model.” In *Artificial Intelligence: Theories, Models and Applications*, 6040:321–26. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-12842-4_37.
+
+Giannoulakis, Stamatios, Nicolas Tsapatsoulis, and Nikos Grammalidis. 2018. “Metadata for Intangible Cultural Heritage - The Case of Folk Dances:” In *Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications*, 634–45. Funchal, Madeira, Portugal: SCITEPRESS - Science and Technology Publications. https://doi.org/10.5220/0006760906340645.
+
+Gillis-Webber, Frances, and Sabine Tittel. 2019. “The Shortcomings of Language Tags for Linked Data When Modeling Lesser-Known Languages.” Application/pdf. In *Proceedings of the 2nd Conference on Language, Data and Knowledge (LDK 2019)*, 15 pages. OpenAccess Series in Informatics (OASIcs). Dagstuhl, Germany: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik. https://doi.org/10.4230/OASICS.LDK.2019.4.
+
+Giorgio, Sara Di, Achille Felicetti, Patrizia Martini, and Emilia Masci. 2015. “Dati.CulturaItalia: A Use Case of Publishing Linked Open Data Based on CIDOC-CRM.” In *Proceedngs of the Workshop on Extending, Mapping and Focusing the CRM Co-Located with the 19th Int. Conference on Theory and Practice of Digital Libraries*, 11. Poznan, Poland. http://ceur-ws.org/Vol-1656/paper4.pdf.
+
+Godby, Carol Jean, and Karen Smith-Yoshimura. 2017. “From Records to Things: Managing the Transition from Legacy Library Metadata to Linked Data.” *Bulletin of the Association for Information Science and Technology* 43 (2):18–23. https://doi.org/10.1002/bul2.2017.1720430209.
+
+Godby, Jean, Karen Smith-Yoshimura, Bruce Washburn, Kalan Knudson Davis, Christine Fernsebner Eslao, Steven Folsom, Xiaoli Li, et al. 2019. “Creating Library Linked Data with Wikibase: Lessons Learned from Project Passage.” Report. Dublin, OH, United States: OCLC. https://apo.org.au/node/253316.
 
 Goldberg, Yoav. 2016. "A Primer on Neural Network Models for Natural
 Language Processing." *Journal of Artificial Intelligence Research* 57:
 345--420.
 
-Gomez-Perez, Asuncion, Mariano Fernandez-Lopez and Oscar Corcho. 2006.
-*Ontological Engineering.* London: Springer.
+Gómez-Pérez, Asunción, Mariano Fernández-López, and Oscar Corcho. 2004. *Ontological Engineering*. 1st ed. Advanced Information and Knowledge Processing. London: Springer. https://link.springer.com/book/10.1007/b97353.
 
 Graves Mike, Adam Constabaris, and Dan Brickley. 2007. "FOAF: Connecting
 People on the Semantic Web." *Cataloging & Classification Quarterly* 43:
-(3--4): 191--202. doi: 10.1300/J104v43n03_10
+(3--4): 191--202. https://doi.org/10.1300/J104v43n03_10.
+
+Green, Ashlea M. 2021. “Metadata Application Profiles in U. S. Academic Libraries: A Document Analysis.” *Journal of Library Metadata* 21 (3–4). Routledge:105–43. https://doi.org/10.1080/19386389.2022.2030172.
 
 Guha, Ramanathan V., Dan Brickley, and Steve Macbeth. 2016. "Schema.org:
 Evolution of Structured Data on the Web." *Communications of the ACM* 59
-(2): 44--51.
+(2): 44--51. https://doi.org/10.1145/2844544.
 
-Hallo, María, Sergio Luján-Mora, Alejandro Maté, Juan Trujillo. 2016.
-"Current State of Linked Data in Digital Libraries." *Journal of
-Information Science* 42 (2): 117--127.
+Hallo, María, Sergio Luján-Mora, Alejandro Maté, and Juan Trujillo. 2016. “Current State of Linked Data in Digital Libraries.” *Journal of Information Science* 42 (2). SAGE Publications Ltd:117–27. https://doi.org/10.1177/0165551515594729.
+
+Hallo, María, Sergio Luján-Mora, Alejandro Maté, and Juan Trujillo. 2016. “Current State of Linked Data in Digital Libraries.” *Journal of Information Science* 42 (2). SAGE Publications Ltd:117–27. https://doi.org/10.1177/0165551515594729.
+
+Han, Sooyeon, and JongGyu Han. 2022. “Case Study on an Integrated Interoperable Metadata Model for Geoscience Information Resources.” *Geoscience Data Journal*, 16. https://doi.org/10.1002/gdj3.150.
+
+Hardjono, Thomas, George Howard, Eric Scace, Mizan Chowdury, Lucas Novak, Meghan Gaudet, Justin Anderson, et al. 2019. “Towards an Open and Scalable Music Metadata Layer.” *ArXiv:1911.08278 [Cs]*, November, 19. https://doi.org/10.48550/arXiv.1911.08278.
 
 Haslhofer, Bernhard and Wolfgang Klas. 2010. "A Survey of Techniques for
 Achieving Metadata Interoperability." *ACM Computing Survey* 42 (2):
-7:1--37.
+7:1--37. https://doi.org/10.1145/1667062.1667064.
 
 Heath, Tom, and Christian Bizer. 2011. *Linked Data: Evolving the Web
 into a Global Data Space*. San Rafael, CA: Morgan & Claypool.
 
+Henninger, Maureen. 2018. “From Mud to the Museum: Metadata Challenges in Archaeology.” *Journal of Information Science* 44 (5). SAGE Publications Ltd:658–70. https://doi.org/10.1177/0165551517741790.
+
+Hirwade, Mangala Anil. 2011. “A Study of Metadata Standards.” *Library Hi Tech News* 28 (7). Emerald Group Publishing Limited:18–25. https://doi.org/10.1108/07419051111184052.
+
+Holom, Roxana-Maria, Katharina Rafetseder, Stefanie Kritzinger, and Harald Sehrschön. 2020. “Metadata Management in a Big Data Infrastructure.” *Procedia Manufacturing*, International Conference on Industry 4.0 and Smart Manufacturing (ISM 2019), 42 (January):375–82. https://doi.org/10.1016/j.promfg.2020.02.060.
+
 Horridge, Matthew, Rafael Gonçalves, Csongor Nyulas, Tania Tudorache,
 and Mark Musen. 2019. "Webprotégé: A Cloud-based Ontology Editor." In
-*Companion of The 2019 World Wide Web Conference*.
+*Companion of The 2019 World Wide Web Conference*, 686–89. San Francisco USA: ACM. https://doi.org/10.1145/3308560.3317707.
+
+Howard, Sara A., and Steven A. Knowlton. 2018. “Browsing through Bias: The Library of Congress Classification and Subject Headings for African American Studies and LGBTQIA Studies.” *Library Trends* 67 (1). Johns Hopkins University Press:74–88. https://doi.org/10.1353/lib.2018.0026.
+
+Howarth, Lynne C. 2012. “FRBR and Linked Data: Connecting FRBR and Linked Data.” *Cataloging & Classification Quarterly* 50 (5–7):763–76. https://doi.org/10.1080/01639374.2012.680835.
+
+Hsu, Cheng. 1996. *Enterprise Integration and Modeling: The Metadatabase Approach*. 1st ed. New York, NY, United States: Springer Science and Business Media. https://link.springer.com/book/10.1007/978-1-4615-2363-5.
+
+Hu, Lily, Owen Tam, and Patrick Lo. 2004. “Chinese Name Authority Control in Asia: An Overview.” *Cataloging & Classification Quarterly* 39 (1–2):465–88. https://doi.org/10.1300/ J104v39n01_14.
+
+Hyland, Bernadette, Ghislain Atemezing, and Boris Villazón-Terrazas, eds. 2014. “Best Practices for Publishing Linked Data.” W3C. https://www.w3.org/TR/ld-bp/.
+
+Hyvonen, Eero, Miika Alonen, Esko Ikkala, and Eetu Makela. 2014. “Life Stories as Event-Based Linked Data: Case Semantic National Biography.” Semantic Biographies Based on Linked Data. https://seco.cs.aalto.fi/publications/2014/hyvonen-et-al-life-stories-iswc-2014.pdf.
+
+Iseminger, Beth, Nancy Lorimer, Casey Mullin, and Hermine Vermeij. 2017. “FACETED VOCABULARIES FOR MUSIC: A NEW ERA IN RESOURCE DISCOVERY.” *Notes* 73 (3). Music Library Association:409–31. http://www.jstor.org/stable/26397653.
+
+Jaillant, Lise, ed. 2022. *Archives, Access and Artificial Intelligence*. Vol. 2. Digital Humanities Research. Bielefeld, Germany: Bielefeld University Press. https://www.transcript-publishing.com/978-3-8376-5584-1/archives-access-and-artificial-intelligence/.
+
+Jung, Jason J, Anne Hakansson, and Ronald Hartung. 2009. “Indirect Alignment between Multilingual Ontologies: A Case Study of Korean and Swedish Ontologies.” In *Agent and Multi-Agent Systems: Technologies and Applications*, 252–60. Agent Systems and Ontologies. Uppsala, Sweden: Springer. https://link.springer.com/content/pdf/10.1007/978-3-642-01665-3.pdf.
+
 
 Kroeger, Angela. 2013. "The Road to BIBFRAME: The Evolution of the Idea
 of Bibliographic Transition into a Post-MARC Future." *Cataloging &

@@ -5,6 +5,10 @@ title: Home
 
 <br>
 
+Our first LinkedMusic Project Meeting will be held November 19th and 20th, 2022! Check out more information [here](https://linkedmusic.ca/activities/)
+
+___
+
 The goal of our new LinkedMusic Partnership is to link music databases through metadata schemas: structures for organizing information stored in a database. This will go a long way towards bringing online music search to the same level of sophistication currently possible for text-based resources, allowing us to answer fundamental questions about music and how it interacts with human creativity, society, culture, and history. 
 
 Our goals include:

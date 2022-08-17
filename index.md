@@ -5,7 +5,7 @@ title: Home
 
 <br>
 
-Our first LinkedMusic Project Meeting will be held November 19th and 20th, 2022! Check out more information [here](https://linkedmusic.ca/activities/)
+### Our first LinkedMusic Project Meeting will be held November 19th and 20th, 2022! Check out more information [here](https://linkedmusic.ca/activities/)
 
 ___
 

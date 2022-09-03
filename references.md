@@ -37,8 +37,12 @@ Amann, Bernd, Irini Fundulaki, and Michel Scholl. 2000. “Integrating Ontologie
 
 Anderson, and Kim Christen. 2012. “Traditional Knowledge Licences and Labels.” *Arts+Law Centre of Australia* (blog). 2012. https://www.artslaw.com.au/article/traditional-knowledge-licences-and-labels/.
 
+Ansovini, Daniela, Kelli Babcock, Tanis Franco, Jiyun Alex Jung, Karen Suurtamm, and Alexandra Wong. 2022. “Knowledge Lost, Knowledge Gained: The Implications of Migrating to Online Archival Descriptive Systems.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 6 (3):1–19. https://doi.org/10.18357/kula.234.
+
 Antoniou, Grigoris, and Fran Van Harmelen. 2008. *Semantic Web Primer,*
 2^nd^ Edition. Cambridge, MA: MIT Press. https://mitpress.mit.edu/books/semantic-web-primer-second-edition.
+
+Aslanidi, Maria, Aris Bazmadelis, and Arsinoi Ioannidou. 2021. “Faceted Vocabularies for Byzantine Music-Related Authority Metadata.” Powerpoint presented at the 2021 IAML Congress (in association with DLfM), Online. https://www.iaml.info/sites/default/files/pdf/faceted_vocabularies_for_byzantine_music-iaml-online-2021.pdf.
 
 Aslanidi, Maria, Ioannis Papadakis, and Michalis Stefanidakis. 2018. “Name and Title Authorities in the Music Domain: Alignment of UNIMARC Authorities Format with RDA.” *Cataloging & Classification Quarterly* 56 (4):354–73. https://doi.org/10.1080/01639374.2018.1423596.
 
@@ -62,6 +66,8 @@ Web." *Scientific American* 284: 29--37.
 Bianchini, Carlo, Stefano Bargioni, and Camillo Carlo Pellizzari di San Girolamo. 2021. “Beyond VIAF:” *Information Technology and Libraries* 40 (2):31. https://doi.org/10.6017/ital.v40i2.12959.
 
 Billey, Amber, and Emily Drabinski. 2019. “Questioning Authority: Changing Library Cataloging Standards to Be More Inclusive to a Gender Identity Spectrum.” *TSQ: Transgender Studies Quarterly* 6 (1):117–23. https://doi.org/10.1215/23289252-7253538.
+
+Biswas, Russa, Yiyi Chen, Heiko Paulheim, Harald Sack, and Mehwish Alam. 2022. “It’s All in the Name: Entity Typing Using Multilingual Language Models.” In *Proceedings of The Semantic Web: ESWC 2022 Satellite Events*, 13384:59–64. Lecture Notes in Computer Science. Hersonlssos, Crete, Greece: Springer International Publishing. https://doi.org/10.1007/978-3-031-11609-4.
 
 Bizer, Christian, Tom Heath, and Tim Berners-Lee. 2009. "Linked Data:
 The Story so Far." *International Journal on Semantic Web an Information
@@ -92,6 +98,8 @@ and standardization--a study of methodology Part I." *D-Lib magazine* 12
 (6). https://doi.org/10.1045/june2006-chan.
 
 Chen, Ya-Ning. 2015. “A RDF-Based Approach to Metadata Crosswalk for Semantic Interoperability at the Data Element Level.” *Library Hi Tech* 33 (2). Emerald Group Publishing Limited:175–94. https://doi.org/10.1108/LHT-08-2014-0078.
+
+Choe, Souhwan, Yongtae Hwang, Sungkyun Chang, and Mikyoung Kim. 2011. “The Korean Traditional Music Ontology (KTMO) - An Ontology for the Korean Traditional Music Linked Data.” In *Proceedings of the Third International Conference on Internet*, 5. Malaysia. 
 
 Ciotti, Fabio, and Francesca Tomasi. 2016. “Formal Ontologies, Linked Data, and TEI Semantics.” *Journal of the Text Encoding Initiative*, no. Issue 9 (September). Text Encoding Initiative Consortium. https://doi.org/10.4000/jtei.1480.
 
@@ -124,6 +132,8 @@ UK: Cambridge University Press.
 Petrucci's First Five Motet Prints." In *The Motet around 1500: On the
 Relationship of Imitation and Text Treatment,* edited by T.
 Schmidt-Beste, 63--90. Turnhout: Brepols.
+
+Cui, Wen, Leanne Rolston, Marilyn Walker, and Beth Ann Hockey. 2022. “OpenEL: An Annotated Corpus for Entity Linking and Discourse in Open Domain Dialogue.” In *Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)*, 12. Marseille, France: European Language Resources Association (ELRA). http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.241.pdf.
 
 Dagher, Iman, and Denise Soufi. 2021. “Authority Control of Arabic Personal Names: RDA and Beyond.” *Cataloging & Classification Quarterly* 59 (2–3):260–80. https://doi.org/10.1080/01639374.2020.1845896.
 
@@ -173,6 +183,8 @@ Falk, Patricia, and David R. Lewis. 2020. “A New Take on Cataloging Popular Mu
 
 Faraj, Ghazal, and András Micsik. 2021. “Representing and Validating Cultural Heritage Knowledge Graphs in CIDOC-CRM Ontology.” *Future Internet* 13 (11). Multidisciplinary Digital Publishing Institute:277. https://doi.org/10.3390/fi13110277.
 
+Fell, Michael, Elena Cabrio, Maroua Tikat, Franck Michel, Michel Buffa, and Fabien Gandon. 2022. “The WASABI Song Corpus and Knowledge Graph for Music Lyrics Analysis.” *Language Resources and Evaluation*, July. https://doi.org/10.1007/s10579-022-09601-8.
+
 Filtz, Erwin, Sabrina Kirrane, and Axel Polleres. 2021. “The Linked Legal Data Landscape: Linking Legal Data across Different Countries.” *Artificial Intelligence and Law* 29 (4):485–539. https://doi.org/10.1007/s10506-021-09282-8.
 
 Foulonneau, Muriel, and Jenn ***Riley***. 2008. *Metadata for Digital
@@ -200,6 +212,8 @@ Schema Matches." *IEEE Transactions on Knowledge and Data Engineering,*
 Gangemi, Aldo, and Valentina Presutti. 2009. "Ontology Design Patterns."
 In *Handbook on Ontologies*, edited by S. Staab and R. Studer, 221--243.
 Berlin: Springer. https://doi.org/10.1007/978-3-540-92673-3_10.
+
+Gayo, Jose Emilio Labra. 2022. “WShEx: A Language to Describe and Validate Wikibase Entities.” *ArXiv:2208.02697*, Computer Science, , August, 12. https://doi.org/10.48550/arXiv.2208.02697.
 
 Gentili-Tedeschi, Massimo, and Federica Riva. 2004. “Authority Control in the Field of Music: Names and Titles.” *Cataloging & Classification Quarterly* 39 (1–2):399–412. https://doi.org/10.1300/J104v39n01_08.
 
@@ -230,8 +244,6 @@ Green, Ashlea M. 2021. “Metadata Application Profiles in U. S. Academic Librar
 Guha, Ramanathan V., Dan Brickley, and Steve Macbeth. 2016. "Schema.org:
 Evolution of Structured Data on the Web." *Communications of the ACM* 59
 (2): 44--51. https://doi.org/10.1145/2844544.
-
-Hallo, María, Sergio Luján-Mora, Alejandro Maté, and Juan Trujillo. 2016. “Current State of Linked Data in Digital Libraries.” *Journal of Information Science* 42 (2). SAGE Publications Ltd:117–27. https://doi.org/10.1177/0165551515594729.
 
 Hallo, María, Sergio Luján-Mora, Alejandro Maté, and Juan Trujillo. 2016. “Current State of Linked Data in Digital Libraries.” *Journal of Information Science* 42 (2). SAGE Publications Ltd:117–27. https://doi.org/10.1177/0165551515594729.
 
@@ -332,6 +344,11 @@ Li, Xinyu. 2022. “HouseX: A Fine-Grained House Music Dataset and Its Potential
 
 Library of Congress. 2021. “Introduction to Library of Congress Medium of Performance Thesaurus for Music.” Library of Congress. https://www.loc.gov/aba/publications/FreeLCMPT/2021%20LCMPT%20intro.pdf.
 
+
+Library of Congress. 1991*. Descriptive Cataloging of Rare Books.* 2nd
+ed. Washington, DC: Cataloging Distribution Service, Library of
+Congress.
+
 Lin, Xia, Michael Khoo, Jae-Wook Ahn, Doug Tudhope, Ceri Binding, Diana Massam, and Hilary Jones. 2017. “Mapping Metadata to DDC Classification Structures for Searching and Browsing.” *International Journal on Digital Libraries* 18 (1):25–39. https://doi.org/10.1007/s00799-016-0197-z.
 
 Lisena, Pasquale, Albert Meroño-Peñuela, and Raphaël Troncy. 2022. “MIDI2vec: Learning MIDI Embeddings for Reliable Prediction of Symbolic Music Metadata.” Edited by Mehwish Alam, Davide Buscaldi, Michael Cochez, Francesco Osborne, Diego Reforgiato Recupero, Harald Sack, Mehwish Alam, et al. *Semantic Web* 13 (3):357–77. https://doi.org/10.3233/SW-210446.
@@ -344,13 +361,21 @@ Lo, Grace. 2019. “‘Aliens’ vs. Catalogers: Bias in the Library of Congress
 
 Loesch, Martha Fallahay. 2011. “VIAF (The Virtual International Authority File) – Http://Viaf.Org.” *Technical Services Quarterly* 28 (2):255–56. https://doi.org/10.1080/07317131.2011.546304.
 
+Loukachevitch, Natalia, Pavel Braslavski, Vladimir Ivanov, Tatiana Batura, Suresh Manandhar, Artem Shelmanov, and Elena Tutubalina. 2022. “Entity Linking over Nested Named Entities for Russian.” In *Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022)*, 4458–66. Marseille, France: European Language Resources Association (ELRA. http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.474.pdf.
+
 Machiya, Daichi, Tomoko Okuda, and Masahide Kanzaki. 2019. “Japan Search RDF Schema: A Dual-Layered Approach to Describe Items from Heterogeneous Data Sources.” In *DC-2019--The Seoul, South Korea Proceedings*, 6. Seoul, South Korea. https://dcpapers.dublincore.org/pubs/article/view/4227.html.
 
 Mäkelä, Eetu, Juha Törnroos, Thea Lindquist, and Eero Hyvönen. 2017. “WW1LOD: An Application of CIDOC-CRM to World War 1 Linked Data.” *International Journal on Digital Libraries* 18 (4):333–43. https://doi.org/10.1007/s00799-016-0186-2.
 
+Mandal, Sukumar. 2022. “Integration of Linked Open Data Authorities with OpenRefine : A Methodology for Libraries.” *Library Philosophy and Practice (e-Journal)*, no. 7195 (May):11. https://digitalcommons.unl.edu/libphilprac/7195.
+
 Matienzo, Mark, Elizabeth Russey Roke, and Scott Carlson. 2017. “Creating a Linked Data-Friendly Metadata Application Profile for Archival Description.” In *Proc. Int’l Conf. on Dublin Core and Metadata Applications 2017*, 112–16. Posters. Washington DC, United States. https://doi.org/10.48550/arXiv.1710.09688.
 
 Mayer, Allana. 2015. “Linked Open Data for Artistic and Cultural Resources.” *Art Documentation: Journal of the Art Libraries Society of North America* 34 (1). [The University of Chicago Press, Art Libraries Society of North America]:2–14. https://doi.org/10.1086/680561.
+
+**McKay**, Cory, and Ichiro **Fujinaga**. 2009. "jMIR: Tools for
+Automatic Music Classification." In *Proceedings of the International
+Computer Music Conference*, 65--68.
 
 McKenna, Lucy, Christophe Debruyne, and Declan O’Sullivan. 2022. “Using Linked Data to Create Provenance-Rich Metadata Interlinks: The Design and Evaluation of the NAISC-L Interlinking Framework for Libraries, Archives and Museums.” *AI & SOCIETY*, January, 27. https://doi.org/10.1007/s00146-021-01373-z.
 
@@ -364,6 +389,8 @@ Michel, Franck, Loïc Djimenou, Catherine Faron Zucker, and Johan Montagnat. 201
 
 Montenegro, María. 2019. “Subverting the Universality of Metadata Standards: The TK Labels as a Tool to Promote Indigenous Data Sovereignty.” *Journal of Documentation* 75 (4). Emerald Publishing Limited:731–49. https://doi.org/10.1108/JD-08-2018-0124.
 
+Moscati, Marta, Emilia Parada-Cabaleiro, Yashar Deldjoo, Eva Zangerle, and Markus Schedl. 2022. “Music4All-Onion — A Large-Scale Multi-Faceted Content-Centric Music Recommendation Dataset.” In *Proceedings of 31st ACM International Conference on Information and Knowledge Management*, 7. Atlanta, GA, USA: ACM. 
+
 Musen, Mark A. 2015. “The Protégé Project: A Look Back and a Look Forward.” *AI Matters* 1 (4):4–12. https://doi.org/10.1145/2757001.2757003.
 
 Nurmikko-Fuller, Terhi, Alan Dix, David M. Weigl, and Kevin R. Page. 2016. “In Collaboration with In Concert: Reflecting a Digital Library as Linked Data for Performance Ephemera.” In *Proceedings of the 3rd International Workshop on Digital Libraries for Musicology*, 17–24. New York, NY, USA: ACM. https://doi.org/10.1145/2970044.2970049.
@@ -372,31 +399,6 @@ Nurmikko-Fuller, Terhi, Alan Dix, David M. Weigl, and Kevin R. Page. 2016. “In
 Libraries: Creating Interactive Articles Through a Framework for Linked
 Data and MEI." In *Proceedings of the 5th International Conference on
 Digital Libraries for Musicology*, 21--25.
-
-Library of Congress. 2019. "Introduction to Library of Congress Medium
-of Performance Thesaurus for Music."
-<https://www.loc.gov/aba/publications/FreeLCMPT/freelcmpt.html>.
-Accessed 2020-11-23.
-
-Library of Congress. 1991*. Descriptive Cataloging of Rare Books.* 2nd
-ed. Washington, DC: Cataloging Distribution Service, Library of
-Congress.
-
-Loesch, Martha F. 2011. "VIAF (The Virtual International Authority File)
--- http://viaf.org." *Technical Services Quarterly* 28 (2): 255--256.
-doi: 10.1080/07317131.2011.546304
-
-**McKay**, Cory, and Ichiro **Fujinaga**. 2009. "jMIR: Tools for
-Automatic Music Classification." In *Proceedings of the International
-Computer Music Conference*, 65--68.
-
-Michel, Franck, Loïc Djimenou, Catherine Faron-Zucker, and Johan
-Montagnat. 2015. "Translation of Relational and Non-Relational Databases
-into RDF with xR2RML." In *Proceedings of the International Conference
-on Web Information Systems and Technologies,* 443--454.
-
-Musen, Mark A. 2015. "The Protégé project: A Look Back and a Look
-Forward." *AI Matters* 1 (4): 4--12.
 
 ***Page***, Kevin R., Sean Bechhofer, György Fazekas, D. M. ***Weigl***,
 and Thomas Wilmering. 2017. "Realising a Layered Digital Library:
@@ -415,6 +417,8 @@ Pattuelli, M. Cristina, Alexandra Provo, and Hilary Thorsen. 2015. “Ontology B
 PCC Task Group. 2019. “PCC Task Group on Linked Data Best Practices Final Report.” PCC Policy Committee. https://www.loc.gov/aba/pcc/taskgroup/linked-data-best-practices-final-report.pdf.
 
 Pegoraro Santana, Igor André, Fabio Pinhelli, Juliano Donini, Leonardo Catharin, Rafael Biazus Mangolin, Yandre Maldonado e Gomes da Costa, Valéria Delisandra Feltrim, and Marcos Aurélio Domingues. 2020. “Music4All: A New Music Database and Its Applications.” In *2020 International Conference on Systems, Signals and Image Processing (IWSSIP)*, 399–404. Rio de Janeiro, Brazil. https://doi.org/10.1109/IWSSIP48289.2020.9145170.
+
+Perera, Treshani. 2022. “Project Management Strategies for Managing Metadata in Institutional Recordings Collections – A Case Study.” *Music Reference Services Quarterly*, July, 1–22. https://doi.org/10.1080/10588167.2022.2091403.
 
 Piscopo, Alessandro, Pavlos Vougiouklis, Lucie-Aimée Kaffee, Christopher Phethean, Jonathon Hare, and Elena Simperl. 2017. “What Do Wikidata and Wikipedia Have in Common?: An Analysis of Their Use of External References.” In *Proceedings of the 13th International Symposium on Open Collaboration*, 1–10. Galway Ireland: ACM. https://doi.org/10.1145/3125433.3125445.
 
@@ -491,6 +495,8 @@ Taheri, Seyed Mahdi, and Mahmood Khosrowjerdi. 2018. “The Effect of Syntax on 
 
 Tallerås, Kim. 2017. “Quality of Linked Bibliographic Data: The Models, Vocabularies, and Links of Data Sets Published by Four National Libraries.” *Journal of Library Metadata* 17 (2):126–55. https://doi.org/10.1080/19386389.2017.1355166.
 
+Tan, Mary Ann, Etienne Posthumus, and Harald Sack. 2022. “Audio Ontologies for Intangible Cultural Heritage.” In *Proceedings of The Semantic Web: ESWC 2022 Satellite Events*, 13384:171–75. Hersonlssos, Crete, Greece: Springer International Publishing. https://doi.org/10.1007/978-3-031-11609-4.
+
 Taniguchi, Shoichi. 2017. “Examining BIBFRAME 2.0 from the Viewpoint of RDA Metadata Schema.” *Cataloging & Classification Quarterly* 55 (6):387–412. https://doi.org/10.1080/01639374.2017.1322161.
 
 Thiéblin, Elodie, Ollivier Haemmerlé, Nathalie Hernandez, and Cassia Trojahn. 2020. “Survey on Complex Ontology Matching.” Edited by Marta Sabou. *Semantic Web* 11 (4):689–727. https://doi.org/10.3233/SW-190366.
@@ -557,3 +563,6 @@ Zeng, Daojian, Kang Liu, Siwei Lai, Guangyou Zhou, and Jun Zhao. 2014.
 Linguistics,* 2335--2344. Dublin, Ireland.
 
 Zeng, Marcia Lei, Karen F. Gracy, and Laurence Skirvin. 2013. “Navigating the Intersection of Library Bibliographic Data and Linked Music Information Sources: A Study of the Identification of Useful Metadata Elements for Interlinking.” *Journal of Library Metadata* 13 (2–3):254–78. https://doi.org/10.1080/19386389.2013.827513.
+
+Zhang, Bohui, Filip Ilievski, and Pedro Szekely. 2022. “Enriching Wikidata with Linked Open Data.” *ArXiv:2207.00143*, Computer Science, , August, 17. http://arxiv.org/abs/2207.00143.
+

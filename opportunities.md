@@ -7,7 +7,7 @@ image_class: headerimage
 
 ## The LinkedMusic Project is looking for two post-doc researchers for January 2023! Closing date for both positions is 5 December 2022.
 
-# Musical Metadata
+### Musical Metadata
 
 **The Project**
 The LinkedMusic Project at McGill University’s Schulich School of Music seeks a postdoctoral researcher with a demonstrable interest and strengths in musical metadata to work on the creation of a metadata schema. This is a one-year position (renewable for up to three years), starting January 2023. 
@@ -42,7 +42,7 @@ The salary will be $42,000 CAD per annum with a health and dental plan. The one-
 
 Materials should be addressed to Ichiro Fujinaga, but sent to Anna de Bakker,  Research Associate, at anna.de.bakker@mcgill.ca with the subject line: LinkedMusic Postdoctoral Researcher: Metadata. 
 
-# Virtual Instrument Museum
+### Virtual Instrument Museum
 
 **The Project**
 The LinkedMusic Project at McGill University’s Schulich School of Music seeks a postdoctoral researcher with experience in web development to work on the Virtual Instrument Museum. This is a one-year position (renewable for up to three years), starting January 2023.

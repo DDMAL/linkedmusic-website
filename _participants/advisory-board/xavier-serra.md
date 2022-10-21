@@ -1,9 +1,9 @@
 ---
 _fieldset: person
-title: Barbara Dobbs McKenzie 
-first_name: Barbara
-last_name: Dobbs McKenzie
-institution: Répertoire International de Littérature Musicale (RILM)
+title: Xavier Serra
+first_name: Xavier
+last_name: Serra
+institution: Universitat Pompeu Fabra
 project_group: advisory
 type: none
 ---

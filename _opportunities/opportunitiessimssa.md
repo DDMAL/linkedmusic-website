@@ -5,11 +5,10 @@ image_class: headerimage
 permalink: "/opportunities/"
 
 ---
-## The LinkedMusic Project is looking for two post-doc researchers for January 2023! Closing date for both positions is 5 December 2022.
+## We are looking for two Post-Doc positions for the LinkedMusic Project at McGill University for January 2023. 
 
 ### Musical Metadata
 
-**The Project**
 The LinkedMusic Project at McGill University’s Schulich School of Music seeks a postdoctoral researcher with a demonstrable interest and strengths in musical metadata to work on the creation of a metadata schema. This is a one-year position (renewable for up to three years), starting January 2023. 
 
 LinkedMusic is a seven-year research partnership grant funded by the Social Sciences and Humanities Research Council of Canada, headed by Ichiro Fujinaga, Principal Investigator. The aim of the LinkedMusic Project is to link music databases through metadata schemas: structures for organizing information stored in a database.  The team brings together cutting-edge researchers with the digital musical resources and expertise of partner institutions, including DIAMM, RISM, Cantus Ultimus, Global Jukebox, and MetaBrainz. The goal is a global digital music library that connects all kinds of music data and enables users to make queries across multiple databases. This will go a long way towards bringing online music search to the same level of sophistication currently possible for text-based resources, allowing us to answer fundamental questions about music and how it interacts with human creativity, society, culture, and history. 
@@ -27,7 +26,7 @@ Over the course of the project, the research team will develop tools to convert 
 * Knowledge of multiple languages 
 * Strong written and verbal communication skills 
 
-Interested people should apply even if they do not feel that their background is a 100% match with the position description. All candidates will be given full consideration. McGill University is an equal-opportunity employer. 
+Interested people should apply even if they do not feel that their background is a 100% match with the position description. All candidates will be given full consideration.  
 
 **Practicalities:**
 
@@ -37,14 +36,14 @@ The salary will be $61,000 CAD per annum with a health and dental plan. The one-
 * A brief cover letter outlining relevant experience
 * A resume
 * Additional materials (e.g., examples of previous work) are welcome, but not required
-
 * Candidates short-listed for an interview may be asked for two confidential reference letters
 
-Materials should be addressed to Ichiro Fujinaga, but sent to Anna de Bakker,  Research Associate, at anna.de.bakker@mcgill.ca with the subject line: LinkedMusic Postdoctoral Researcher: Metadata. 
+McGill University hires on the basis of merit and is strongly committed to equity and diversity within its community. We welcome applications from racialized persons/visible minorities, women, Indigenous persons, persons with disabilities, ethnic minorities, and persons of minority sexual orientations and gender identities, as well as from all qualified candidates with the skills and knowledge to productively engage with diverse communities. McGill further recognizes and fairly considers the impact of leaves (e.g., family care or health-related) that may contribute to career interruptions or slowdowns. Candidates are encouraged to signal any leave that affected productivity and may have had an effect on their career path. This information will be considered to ensure the equitable assessment of the candidate’s record. Applicants may be citizens of any country. Though there are no restrictions regarding nationality of applicants, successful candidates must be able to meet all Canadian immigration requirements.
+
+Materials should be addressed to Ichiro Fujinaga, but sent to Anna de Bakker, Research Associate, at anna.debakker@mcgill.ca with the subject line: LinkedMusic Postdoctoral Researcher: Metadata. The closing date for the position is 5 December 2022.
 
 ### Virtual Instrument Museum
 
-**The Project**
 The LinkedMusic Project at McGill University’s Schulich School of Music seeks a postdoctoral researcher with experience in web development to work on the Virtual Instrument Museum. This is a one-year position (renewable for up to three years), starting January 2023.
 
 LinkedMusic is a seven-year research partnership grant funded by the Social Sciences and Humanities Research Council of Canada, headed by Ichiro Fujinaga, Principal Investigator. The aim of the LinkedMusic Project is to link music databases through metadata schemas: structures for organizing information stored in a database.  The team brings together cutting-edge researchers with the digital musical resources and expertise of partner institutions, including DIAMM, RISM, Cantus Ultimus, Global Jukebox, and MetaBrainz. The goal is a global digital music library that connects all kinds of music data and enables users to make queries across multiple databases. This will go a long way towards bringing online music search to the same level of sophistication currently possible for text-based resources, allowing us to answer fundamental questions about music and how it interacts with human creativity, society, culture, and history. 
@@ -65,7 +64,7 @@ Over the course of the project, the research team will develop tools to convert 
 * Knowledge of multiple languages 
 * Strong written and verbal communication skills 
 
-Interested people should apply even if they do not feel that their background is a 100% match with the position description. All candidates will be given full consideration. McGill University is an equal-opportunity employer. 
+Interested people should apply even if they do not feel that their background is a 100% match with the position description. All candidates will be given full consideration. 
 
 **Practicalities:**
 
@@ -75,7 +74,8 @@ The salary will be $61,000 CAD per annum with a health and dental plan. The one-
 * A brief cover letter outlining relevant experience
 * A resume
 * Additional materials (e.g., examples of previous work) are welcome, but not required
-
 * Candidates short-listed for an interview may be asked for two confidential reference letters
 
-Materials should be addressed to Ichiro Fujinaga, but sent to Anna de Bakker, Research Associate, at anna.de.bakker@mcgill.ca with the subject line: LinkedMusic Postdoctoral Researcher: Virtual Instrument Museum 
+McGill University hires on the basis of merit and is strongly committed to equity and diversity within its community. We welcome applications from racialized persons/visible minorities, women, Indigenous persons, persons with disabilities, ethnic minorities, and persons of minority sexual orientations and gender identities, as well as from all qualified candidates with the skills and knowledge to productively engage with diverse communities. McGill further recognizes and fairly considers the impact of leaves (e.g., family care or health-related) that may contribute to career interruptions or slowdowns. Candidates are encouraged to signal any leave that affected productivity and may have had an effect on their career path. This information will be considered to ensure the equitable assessment of the candidate’s record. Applicants may be citizens of any country. Though there are no restrictions regarding nationality of applicants, successful candidates must be able to meet all Canadian immigration requirements.
+
+Materials should be addressed to Ichiro Fujinaga, but sent to Anna de Bakker, Research Associate, at anna.debakker@mcgill.ca with the subject line: LinkedMusic Postdoctoral Researcher: Virtual Instrument Museum. The closing date for the position is 5 December 2022.

@@ -30,7 +30,7 @@ Interested people should apply even if they do not feel that their background is
 
 **Practicalities:**
 
-The salary will be $61,000 CAD per annum with a health and dental plan. The one-year position will begin in January 2023, or as soon as the candidate is available; there is a possibility of a renewal for up to 3 years. The candidate will be full-time (35h/week). Working hours are flexible, with some obligation to participate in scheduled meetings. A shared office space will be provided to the postdoctoral researcher, as well as access to university services.  
+The salary will be $61,000 CAD per annum with a health and dental plan. The one-year position will begin in January 2023, or as soon as the candidate is available; there is a possibility of a renewal for up to 3 years. The candidate will be full-time. Working hours are flexible, with some obligation to participate in scheduled meetings. A shared office space will be provided to the postdoctoral researcher, as well as access to university services.  
 
 **Applications should consist of:**
 * A brief cover letter outlining relevant experience
@@ -68,7 +68,7 @@ Interested people should apply even if they do not feel that their background is
 
 **Practicalities:**
 
-The salary will be $61,000 CAD per annum with a health and dental plan. The one-year position will begin in January 2023, or as soon as the candidate is available; there is a possibility of a renewal for up to 3 years. The candidate will be full-time (35h/week). Working hours are flexible, with some obligation to participate in scheduled meetings. A shared office space will be provided to the postdoctoral researcher, as well as access to university services.  
+The salary will be $61,000 CAD per annum with a health and dental plan. The one-year position will begin in January 2023, or as soon as the candidate is available; there is a possibility of a renewal for up to 3 years. The candidate will be full-time. Working hours are flexible, with some obligation to participate in scheduled meetings. A shared office space will be provided to the postdoctoral researcher, as well as access to university services.  
 
 **Applications should consist of:**
 * A brief cover letter outlining relevant experience

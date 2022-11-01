@@ -14,7 +14,7 @@ On Saturday 19 November 2022 we will meet from 9 am to 5 pm (Eastern Time), with
 
 On Sunday 20 November 2022 we will meet from 9 am to 12 pm (Eastern Time), with a light breakfast provided for in-person attendees. (Lunch will not be provided).
 
-The draft schedule can be found here[https://linkedmusic.ca/meetings]
+The draft schedule can be found [here](https://linkedmusic.ca/meetings)
 
 We look forward to meeting with all of you!
 

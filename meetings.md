@@ -1,6 +1,7 @@
 
-Draft Agenda for LinkedMusic Project Meeting I
-Saturday 19 November 2022
+### Draft Agenda for LinkedMusic Project Meeting I
+
+#### Saturday 19 November 2022
 
 09:00–12:30 Metadata Schemas
 
@@ -33,7 +34,8 @@ Saturday 19 November 2022
 * Potential tools
 
 =====================
-Sunday 20 November 2022
+
+#### Sunday 20 November 2022
 
 9:00–12:00 Discussions
 

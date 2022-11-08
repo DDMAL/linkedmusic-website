@@ -15,15 +15,19 @@
 10:30–11:00 Coffee Break
 
 * Dig That Lick / Weimar Jazz  Database (Simon Dixon)
-* Bavarian State Music Library (Jürgen Diet)
+* Bavarian State Library (Jürgen Diet)
 * MetaBrainz databases (Alastair Porter)
 * Linked Art (Rob Sanderson)
-* MELD (Kevin Page & David Lewis)
+* MELD & Mapping Manuscript Migrations (Kevin Page & David Lewis)
+* Audiovisual metadata standards (Jonathan Manton)
 * Fragmentarium (Anna de Bakker)
 
 12:30 Lunch Break
 
 13:30–14:30 Virtual Instrument Museum
+
+* Introduction (Ichiro Fujinaga)
+* LC Medium of Performance Thesaurus (Kevin Kishimoto)
 
 14:30–15:00 Coffee Break
 
@@ -46,4 +50,5 @@
 10:30–11:00 Coffee Break
 
 * Communication strategies
+* Future guests
 * Formation of committees

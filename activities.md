@@ -15,7 +15,11 @@ On Saturday 19 November 2022 we will meet from **9 am to 5 pm (Eastern Time)**, 
 
 On Sunday 20 November 2022 we will meet from **9 am to 12 pm (Eastern Time)**, with a light breakfast provided for in-person attendees. (Lunch will not be provided).
 
-The draft schedule can be found [here](https://linkedmusic.ca/meetings)
+The schedule can be found [here](https://linkedmusic.ca/meetings)
+
+If you are attending in-person and we have not previously communicated, please email me at marisa.goldman@mcgill.ca so we can prepare lunch for you.
+
+If you wish to attend via hybrid, please email me to get the Zoom link. 
 
 We look forward to meeting with all of you!
 

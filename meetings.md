@@ -1,5 +1,5 @@
 
-### Draft Agenda for LinkedMusic Project Meeting I
+### Agenda for LinkedMusic Project Meeting I
 
 #### Saturday 19 November 2022
 

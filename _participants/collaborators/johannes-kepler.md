@@ -1,6 +1,6 @@
 ---
 _fieldset: person
-title: Johannes Kepler
+title: Johannes Kepper
 first_name: Johannes
 last_name: Kepper
 institution: University of Paderborn

@@ -40,7 +40,7 @@
 
 * Audiovisual metadata standards (Jonathan Manton)
 * Fragmentarium (Anna de Bakker)
-* MELD (Kevin Page & David Lewis
+* MELD (Kevin Page & David Lewis)
 * F-tempo (Alastair Porter)
 * Initial Ideas
 

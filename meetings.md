@@ -29,8 +29,8 @@
 
 * Bavarian State Library (Jürgen Diet)
 * MetaBrainz databases (Alastair Porter)
-* Linked Art (Rob Sanderson)
-* MELD & Mapping Manuscript Migrations (Kevin Page & David Lewis)
+* Linked Art & Lux (Rob Sanderson)
+* Mapping Manuscript Migrations (Kevin Page & David Lewis)
 
 =====================
 
@@ -40,14 +40,15 @@
 
 * Audiovisual metadata standards (Jonathan Manton)
 * Fragmentarium (Anna de Bakker)
-* Use cases
+* MELD & Mapping Manuscript Migrations (Kevin Page & David Lewis
+* F-tempo (Alastair Porter)
 * Initial Ideas
-* Potential tools
-* General directions
-
 
 10:30–11:00 Coffee Break
 
+* Use cases
+* Potential tools
+* General directions
+* Formation of committees
 * Communication strategies
 * Future guests
-* Formation of committees

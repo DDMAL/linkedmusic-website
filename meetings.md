@@ -46,9 +46,9 @@
 
 10:30–11:00 Coffee Break
 
+* General directions
 * Use cases
 * Potential tools
-* General directions
 * Formation of committees
 * Communication strategies
 * Future guests

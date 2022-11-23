@@ -10,7 +10,7 @@ image_class: headerimage
 
 #### LinkedMusic Workshop I: Music Databases: 18 November 2022
 
-* Dig That Lick / Weimar Jazz  Database (Simon Dixon): <a href="linkedmusic-website/pdfs/Montreal2022-Databases-slides.pdf" target="_blank">PDF</a>
+* Dig That Lick / Weimar Jazz  Database (Simon Dixon): <a href="linkedmusic-website.github.io/pdfs/Montreal2022-Databases-slides.pdf" target="_blank">PDF</a>
 * Cantus DB / Cantus Index (Debra Lacoste, Jennifer Bain, Jacob deGroot-Maggetti and Junhao Wang)
 * Cantus Ultimus (Néstor Nápoles)
 * DIAMM (Andrew Hankinson)

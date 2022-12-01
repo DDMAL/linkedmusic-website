@@ -308,7 +308,7 @@ Khan, Fahad, and Ana Salgado. 2021. “Modelling Lexicographic Resources Using C
 
 Khan, Huda, Claire DeMarco, Christine Fernsebner Eslao, Steven Folsom, Jason Kovari, Simeon Warner, Tim Worrall, and Astrid Usong. 2022. “Using Linked Data Sources to Enhance Catalog Discovery.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies*, Metadata as Knowledge, 6 (3):1–26. https://doi.org/10.18357/kula.229.
 
-**Kishimoto**, Kevin, and Tracey Snyder. 2016. “Popular Music in FRBR and RDA: Toward User-Friendly and Cataloger-Friendly Identification of Works.” *Cataloging & Classification Quarterly* 54 (1):60–86. https://doi.org/10.1080/01639374.2015.1105898
+***Kishimoto***, Kevin, and Tracey Snyder. 2016. “Popular Music in FRBR and RDA: Toward User-Friendly and Cataloger-Friendly Identification of Works.” *Cataloging & Classification Quarterly* 54 (1):60–86. https://doi.org/10.1080/01639374.2015.1105898
 
 Koch, Ines, Cristina Ribeiro, and Carla Teixeira Lopes. 2020. “Digital Libraries for Open Knowledge: 24th International Conference on Theory and Practice of Digital Libraries, TPDL 2020, Lyon, France, August 25–27, 2020, Proceedings.” In *Proceedings of the Digital Libraries for Open Knowledge: 24th International Conference on Theory and Practice of Digital Libraries*, 12246:149–62. Lecture Notes in Computer Science. Lyon, France: Springer International Publishing. https://doi.org/10.1007/978-3-030-54956-5.
 
@@ -354,7 +354,7 @@ Lee, Mihwa. 2022. “BIBFRAME’s Application Method for Reflecting LRM in Linke
 
 ***Lewis***, David, David M. ***Weigl***, Joanna Bullivant, and Kevin R.
 
-Lewis, Richard J., Tim Crawford, and **David Lewis**. 2015. “Exploring Information Retrieval, Semantic Technologies and Workflows for Music Scholarship: The Transforming Musicology Project.” *Early Music* 43 (4). Oxford University Press:635–47. http://www.jstor.org/stable/24750743.
+Lewis, Richard J., Tim Crawford, and ***David Lewis***. 2015. “Exploring Information Retrieval, Semantic Technologies and Workflows for Music Scholarship: The Transforming Musicology Project.” *Early Music* 43 (4). Oxford University Press:635–47. http://www.jstor.org/stable/24750743.
 
 Li, Xinyu. 2022. “HouseX: A Fine-Grained House Music Dataset and Its Potential in the Music Industry.” *ArXiv:2207.11690*, July, 7. http://arxiv.org/abs/2207.11690.
 
@@ -464,7 +464,7 @@ Vienna, Austria. http://ismir2007.ismir.net/proceedings/ISMIR2007_p417_raimond.p
 
 Reid, Geneviève, and Renée Sieber. 2020. “Do Geospatial Ontologies Perpetuate Indigenous Assimilation?” *Progress in Human Geography* 44 (2). SAGE Publications Ltd:216–34. https://doi.org/10.1177/0309132518824646.
 
-Riley, Jenn, and Michelle Dalmau. 2007. “The IN Harmony Project: Developing a Flexible Metadata Model for the Description and Discovery of Sheet Music.” Edited by Miguel‐Angel Sicilia. *The Electronic Library* 25 (2). Emerald Group Publishing Limited:132–47. https://doi.org/10.1108/02640470710741287.
+***Riley***, Jenn, and Michelle Dalmau. 2007. “The IN Harmony Project: Developing a Flexible Metadata Model for the Description and Discovery of Sheet Music.” Edited by Miguel‐Angel Sicilia. *The Electronic Library* 25 (2). Emerald Group Publishing Limited:132–47. https://doi.org/10.1108/02640470710741287.
 
 Ronzino, Paola, Nicola Amico, and Franco Niccolucci. 2011. “Assessment and Comparison of Metadata Schemas for Architectural Heritage.” In *Proceedings of CIPA Symposium* 23, 8. Prauge, Czech Republic. https://www.conferencepartners.cz/cipa/proceedings/pdfs/C-3/Niccolucci.pdf.
 

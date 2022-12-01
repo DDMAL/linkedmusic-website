@@ -16,7 +16,7 @@ image_class: headerimage
 * DIAMM (Andrew Hankinson)
 * SIMSSA DB (Cory McKay): [PDF](https://linkedmusic.ca/pdfs/mckay22simssa01intrdoction.pdf)
 * Music Databases at the Bavarian State Library (Jürgen Diet): [PDF](https://linkedmusic.ca/pdfs/Music_Databases_at_the_BSB.pdf)
-* RISM Digital (Laurent Pugin)
+* RISM Digital (Laurent Pugin): [PDF](https://linkedmusic.ca/pdfs/2022-cirmmt_pugin.pdf)
 * MetaBrainz databases (Alastair Porter): [PDF](https://linkedmusic.ca/pdfs/porter%202022%20Linked%20Music%20CIRMMT%20MetaBrainz.pdf)
 * Other music databases (Marisa Goldman and Anna de Bakker): [PDF](https://linkedmusic.ca/pdfs/goldmandebakkermusicdboverview.pdf)
 
@@ -26,7 +26,7 @@ image_class: headerimage
 * Cantus Ultimus (Néstor Nápoles)
 * SIMSSA DB (Cory McKay): [PDF](https://linkedmusic.ca/pdfs/mckay22simssa02details.pdf)
 * DIAMM (Andrew Hankinson)
-* RISM Digital (Laurent Pugin)
+* RISM Digital (Laurent Pugin): [PDF](https://linkedmusic.ca/pdfs/2022-linked-music_pugin.pdf)
 * Dig That Lick / Weimar Jazz Database (Simon Dixon): [PDF](https://linkedmusic.ca/pdfs/Montreal2022-Ontologies-slides.pdf)
 * LC Medium of Performance Thesaurus (Kevin Kishimoto)
 * Bavarian State Library (Jürgen Diet): [PDF](https://linkedmusic.ca/pdfs/Metadata_in_BSB_Music_Databases.pdf)

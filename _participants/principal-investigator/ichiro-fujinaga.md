@@ -5,5 +5,5 @@ first_name: Ichiro
 last_name: Fujinaga
 institution: McGill University
 project_group: principal-investigator
-link: http://music.mcgill.ca/~ich
+link: http://www.music.mcgill.ca/~ich
 ---

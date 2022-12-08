@@ -32,7 +32,7 @@ image_class: headerimage
 * Bavarian State Library (Jürgen Diet): [PDF](https://linkedmusic.ca/pdfs/Metadata_in_BSB_Music_Databases.pdf)
 * MetaBrainz databases (Alastair Porter): [PDF](https://linkedmusic.ca/pdfs/porter%202022%20Linked%20Music%20MusicBrainz.pdf)
 * Linked Art & Lux (Rob Sanderson)
-* Mapping Manuscript Migrations & MELD (Kevin Page & David Lewis)
+* Mapping Manuscript Migrations & MELD (Kevin Page & David Lewis): [PDF1](https://linkedmusic.ca/pdfs/MELD%20overview%20-%20LinkedMusic%20Nov%202022.pdf) [PDF2](https://linkedmusic.ca/pdfs/MMM%20overview%20-%20LinkedMusic%20Nov%202022.pdf)
 * Audiovisual metadata standards (Jonathan Manton): [PDF](https://linkedmusic.ca/pdfs/LinkedMusic%20Meeting%2011192022%20-%20AV%20metadata%20Standards.pdf)
 * Fragmentarium (Anna de Bakker)
 

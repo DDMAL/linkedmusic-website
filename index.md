@@ -5,9 +5,7 @@ title: Home
 
 <br>
 
-### <span style="color:red"> The LinkedMusic Project is looking for two post-doc researchers for January 2023! Closing date for both positions is 5 December 2022. Find more information [here](https://linkedmusic.ca/opportunities/) </span>
-
-### <span style="color:red"> Our first LinkedMusic Project Meeting will be held November 19th and 20th, 2022! Check out more information [here](https://linkedmusic.ca/activities/) </span>
+### <span style="color:red"> The LinkedMusic Project is looking for two post-doc researchers for January 2023! Find more information [here](https://linkedmusic.ca/opportunities/) </span>
 
 ___
 

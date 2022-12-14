@@ -28,7 +28,6 @@ We had our first LinkedMusic Project Meeting on November 19th-20th, 2022, via a 
 * David Lewis, Goldsmiths, University of London
 * Jonathan Manton, Yale University
 * Anna de Bakker, McGill University
-___
 
 The full agenda of the meeting can be found [here](https://linkedmusic.ca/meetings)
 PDFS from the presentations can be found [here](https://linkedmusic.ca/meetingpdfs)
@@ -52,7 +51,6 @@ This workshop, held on November 18th, 2022, was co-organized with CIRMMT Researc
 * Junhao Wang, McGill University
 * Jacob deGroot-Maggetti, McGill University
 * Anna de Bakker, McGill University
-___
 
 The full agenda of this workshop can be found [here](https://www.cirmmt.org/en/events/workshops/research/linkedmusic-workshop)
 PDFS from the presentations can be found [here](https://linkedmusic.ca/meetingpdfs)

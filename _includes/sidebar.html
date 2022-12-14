@@ -16,7 +16,16 @@
 <!--             <li class="active"><a href="/">Home</a></li> -->
               <li><a href="{{ site.url }}/about">About</a></li>
               <li><a href="{{ site.url }}/people">Participants</a></li>
-              <li><a href="{{ site.url }}/activities">Activities</a></li>
+              <li class="dropdown">
+                  <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="{{ site.url }}/activities">Activities<span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    {% for activity in site.activities %}
+                      {% if activity.title != 'Activities' %}
+                        <li><a href='{{ site.url }}{{ activity.url }}' target='_top' >{{ activity.title }}</a></li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </li>
               <li><a href="{{ site.url }}/references">References</a></li>
               <li><a href="{{ site.url }}/papers">Papers</a></li>
               <li><a href="{{ site.url }}/opportunities">Opportunities</a></li>

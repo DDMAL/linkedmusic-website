@@ -30,6 +30,7 @@ We had our first LinkedMusic Project Meeting on November 19th-20th, 2022, via a 
 * Anna de Bakker, McGill University
 
 The full agenda of the meeting can be found [here](https://linkedmusic.ca/meetings)
+
 PDFS from the presentations can be found [here](https://linkedmusic.ca/meetingpdfs)
 
 ### LinkedMusic Workshop I: Music Databases
@@ -53,4 +54,5 @@ This workshop, held on November 18th, 2022, was co-organized with CIRMMT Researc
 * Anna de Bakker, McGill University
 
 The full agenda of this workshop can be found [here](https://www.cirmmt.org/en/events/workshops/research/linkedmusic-workshop)
+
 PDFS from the presentations can be found [here](https://linkedmusic.ca/meetingpdfs)

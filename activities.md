@@ -5,24 +5,54 @@ image_class: headerimage
 
 ---
 
-**Our first LinkedMusic Project Meeting will be a hybrid event happening Novemeber 19th-20th, 2022!**
+### 2022
 
-**Location**: Room A832, Elizabeth Wirth Music Building, 527 Sherbrooke St. W.
+##### LinkedMusic Project Meeting
 
-The first LinkedMusic Project Meeting will be held on 19 and 20 November 2022, in a hybrid format. 
+We had our first LinkedMusic Project Meeting on November 19th-20th, 2022, via a hybrid format. 
 
-On Saturday 19 November 2022 we will meet from **9 am to 5 pm (Eastern Time)**, with a light breakfast (coffee, muffins/bagels) and lunch provided for in-person attendees.
+**Presenters**
+Ichiro Fujinaga, McGill University
+Junhao Wang, McGill University
+Jacob deGroot-Maggetti, McGill University
+Néstor Nápoles, McGill University
+Cory McKay, Marianopolis College
+Andrew Hankinson, RISM Digital
+Laurent Pugin, RISM Digital / University of Bern
+Simon Dixon, Queen Mary, University of London
+Kevin Kishimoto, Stanford University
+Jürgen Diet, Bavarian State Library
+Alastair Porter, UPF Barcelona / MetaBrainz
+Rob Sanderson, Yale University
+Kevin Page, University of Oxford
+David Lewis, Goldsmiths, University of London
+Jonathan Manton, Yale University
+Anna de Bakker, McGill University
+___
 
-On Sunday 20 November 2022 we will meet from **9 am to 12 pm (Eastern Time)**, with a light breakfast provided for in-person attendees. (Lunch will not be provided).
+The full agenda of the meeting can be found [here](https://linkedmusic.ca/meetings)
+PDFS from the presentations can be found [here](https://linkedmusic.ca/meetingpdfs)
 
-The schedule can be found [here](https://linkedmusic.ca/meetings)
+##### LinkedMusic Workshop I: Music Databases
 
-If you are attending in-person and we have not previously communicated, please email me at marisa.goldman@mcgill.ca so we can prepare lunch for you.
+This workshop, held on November 18th, 2022, was co-organized with CIRMMT Research Axis 2 (Music Information Research).
 
-If you wish to attend via hybrid, please email me to get the Zoom link. 
+**Presenters**
+Simon Dixon, CIRMMT Distinguished Lecturer, Queen Mary, University of London
+Jennifer Bain, Dalhousie University
+Jürgen Diet, Bavarian State Library
+Ichiro Fujinaga, McGill University
+Andrew Hankinson, RISM-Digital
+Marisa Goldman, McGill University
+Debra Lacoste, Dalhousie University
+Cory McKay, Marianopolis College
+Néstor Nápoles, McGill University
+Alastair Porter, MetaBrainz
+Laurent Pugin, RISM-Digital
+Junhao Wang, McGill University
+Jacob deGroot-Maggetti, McGill University
+Anna de Bakker, McGill University
+___
 
-We look forward to meeting with all of you!
-
-Marisa
-
-Project Manager 
+The full agenda of this workshop can be found [here](https://www.cirmmt.org/en/events/workshops/research/linkedmusic-workshop)
+PDFS from the presentations can be found [here](https://linkedmusic.ca/meetingpdfs)

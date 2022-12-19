@@ -44,6 +44,6 @@ image_class: headerimage
 * MINIM-UK also commissioned professional audio recordings of selected instruments now in their holdings. 
 * Some of the search filters are still in progress, but you can still navigate manually through the online collections. 
 
-**MusicBrainz Instrument List:** [Link] (https://musicbrainz.org/instruments)
+**MusicBrainz Instrument List:** [Link](https://musicbrainz.org/instruments)
 * An index list of instruments that features the name and a short textual description. 
 * Clicking on a specific instrument leads to an entry, with information pulled in from other databases, including WikiData information. 

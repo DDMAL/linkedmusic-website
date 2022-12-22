@@ -42,6 +42,8 @@ Ansovini, Daniela, Kelli Babcock, Tanis Franco, Jiyun Alex Jung, Karen Suurtamm,
 Antoniou, Grigoris, and Fran Van Harmelen. 2008. *Semantic Web Primer,*
 2^nd^ Edition. Cambridge, MA: MIT Press. https://mitpress.mit.edu/books/semantic-web-primer-second-edition.
 
+Arnold, Matthias. 2022. “Multilingual Research Projects: Non-Latin Script Challenges for Making Use of Standards, Authority Files, and Character Recognition.” *Digital Studies / Le Champ Numérique* 12 (1):36.
+
 Aslanidi, Maria, Aris Bazmadelis, and Arsinoi Ioannidou. 2021. “Faceted Vocabularies for Byzantine Music-Related Authority Metadata.” Powerpoint presented at the 2021 IAML Congress (in association with DLfM), Online. https://www.iaml.info/sites/default/files/pdf/faceted_vocabularies_for_byzantine_music-iaml-online-2021.pdf.
 
 Aslanidi, Maria, Ioannis Papadakis, and Michalis Stefanidakis. 2018. “Name and Title Authorities in the Music Domain: Alignment of UNIMARC Authorities Format with RDA.” *Cataloging & Classification Quarterly* 56 (4):354–73. https://doi.org/10.1080/01639374.2018.1423596.
@@ -110,6 +112,8 @@ Ciotti, Fabio, and Francesca Tomasi. 2016. “Formal Ontologies, Linked Data, an
 Clarke, Rachel Ivy, and Sayward Schoonmaker. 2019. “Metadata for Diversity: Identification and Implications of Potential Access Points for Diverse Library Resources.” *Journal of Documentation* 76 (1):173–96. https://doi.org/10.1108/JD-01-2019-0003.
 
 Cohen, Ahava. 2017. “Each of Us Has a Name : Creating a Multilingual, Multiscript National Authority Database.” *Catalogue and Index* 186:15–19. https://www.researchgate.net/publication/316513668_Each_of_us_has_a_name_creating_a_multilingual_multiscript_national_authority_database.
+
+Coladangelo, L P, and Lynn Ransom. 2021. “Semantic Enrichment of the Schoenberg Database of Manuscripts Name Authority through Wikidata.” In *Metadata and Semantic Research*, 1537:5. Virtual: Springer.
 
 Corthaut, Nik, Sten Govaerts, Katrien Verbert, and Erik Duval. 2008.
 "Connecting the Dots: Music Metadata Generation, Schemas and
@@ -241,6 +245,8 @@ Language Processing." *Journal of Artificial Intelligence Research* 57:
 
 Gómez-Pérez, Asunción, Mariano Fernández-López, and Oscar Corcho. 2004. *Ontological Engineering*. 1st ed. Advanced Information and Knowledge Processing. London: Springer. https://link.springer.com/book/10.1007/b97353.
 
+Goto, Masataka, Takuichi Nishimura, Hiroki Hashiguchi, and Ryuichi Oka. 2003. “RWC Music Database: Music Genre Database and Musical Instrument Sound Database.” In *ISMIR 2003*, 2. Baltimore, Maryland, USA: Johns Hopkins University. http://jhir.library.jhu.edu/handle/1774.2/36.
+
 Graves Mike, Adam Constabaris, and Dan Brickley. 2007. "FOAF: Connecting
 People on the Semantic Web." *Cataloging & Classification Quarterly* 43:
 (3--4): 191--202. https://doi.org/10.1300/J104v43n03_10.
@@ -251,11 +257,15 @@ Guha, Ramanathan V., Dan Brickley, and Steve Macbeth. 2016. "Schema.org:
 Evolution of Structured Data on the Web." *Communications of the ACM* 59
 (2): 44--51. https://doi.org/10.1145/2844544.
 
+Hale, Meredith. 2022. “Museum of Musical Instruments Online (MIMO).” Art Libaries Society of North America, *ARLIS/NA Multimedia & Technology Reviews*. https://doi.org/10.17613/mvw5-m357.
+
 Haller, Armin, Axel Polleres, Daniil Dobriy, Nicolas Ferranti, and Sergio J. Rodriguez Mendez. 2022. “An Analysis of Links in Wikidata.” In *ESWC 2022: The Semantic Web*, 21–38. Crete, Greece: Springer. https://doi.org/10.1007/978-3-031-06981-9_2.
 
 Hallo, María, Sergio Luján-Mora, Alejandro Maté, and Juan Trujillo. 2016. “Current State of Linked Data in Digital Libraries.” *Journal of Information Science* 42 (2). SAGE Publications Ltd:117–27. https://doi.org/10.1177/0165551515594729.
 
 Han, Sooyeon, and JongGyu Han. 2022. “Case Study on an Integrated Interoperable Metadata Model for Geoscience Information Resources.” *Geoscience Data Journal*, 16. https://doi.org/10.1002/gdj3.150.
+
+Hansson, Karin, and Anna Näslund Dahlgren. 2022. “Choice, Negotiation, and Pluralism: A Conceptual Framework for Participatory Technologies in Museum Collections.” *Computer Supported Cooperative Work (CSCW)* 31 (4):603–31. https://doi.org/10.1007/s10606-022-09441-8.
 
 Hardjono, Thomas, George Howard, Eric Scace, Mizan Chowdury, Lucas Novak, Meghan Gaudet, Justin Anderson, et al. 2019. “Towards an Open and Scalable Music Metadata Layer.” *ArXiv:1911.08278 [Cs]*, November, 19. https://doi.org/10.48550/arXiv.1911.08278.
 
@@ -323,6 +333,8 @@ of Bibliographic Transition into a Post-MARC Future." *Cataloging &
 Classification Quarterly* 51 (8): 873--890. https://doi.org/10.1080/01639374.2013.823584.
 
 Kuculo, Tin, Simon Gottschalk, and Elena Demidova. 2022. “QuoteKG: A Multilingual Knowledge Graph of Quotes.” *ArXiv:2207.09562*, July, 17. https://doi.org/10.48550/arXiv.2207.09562.
+
+Kumar, T K Gireesh, and Praseetha Gireesh. 2022. “Towards a National Collection: Metadata Aggregation of Digital Cultural Heritage.” In *CALIBER 2022: Varanasi*, UP, 16. 32. Varanasi, UP, INDIA: INFLIBNET Centre. http://ir.inflibnet.ac.in/handle/1944/2389.
 
 Kuys, Gerard, and Ansgar Scherp. 2022. “Representing Persons and Objects in Complex Historical Events Using the Event Model F.” *Journal of Open Humanities Data* 8 (0). Ubiquity Press:22. https://doi.org/10.5334/johd.84.
 
@@ -408,6 +420,8 @@ Montenegro, María. 2019. “Subverting the Universality of Metadata Standards: 
 
 Moscati, Marta, Emilia Parada-Cabaleiro, Yashar Deldjoo, Eva Zangerle, and Markus Schedl. 2022. “Music4All-Onion — A Large-Scale Multi-Faceted Content-Centric Music Recommendation Dataset.” In *Proceedings of 31st ACM International Conference on Information and Knowledge Management*, 7. Atlanta, GA, USA: ACM. 
 
+Mountantonakis, Michalis, and Yannis Tzitzikas. 2022. “How Your Cultural Dataset Is Connected to the Rest Linked Open Data?” In *TMM_CH 2021: Trandisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural HeritageTrandisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural Heritage*, 136–48. Communications in Computer and Information Science. Athens, Greece: Springer International Publishing. https://doi.org/10.1007/978-3-031-20253-7_12.
+
 Musen, Mark A. 2015. “The Protégé Project: A Look Back and a Look Forward.” *AI Matters* 1 (4):4–12. https://doi.org/10.1145/2757001.2757003.
 
 Nurmikko-Fuller, Terhi, Alan Dix, David M. Weigl, and Kevin R. Page. 2016. “In Collaboration with In Concert: Reflecting a Digital Library as Linked Data for Performance Ephemera.” In *Proceedings of the 3rd International Workshop on Digital Libraries for Musicology*, 17–24. New York, NY, USA: ACM. https://doi.org/10.1145/2970044.2970049.
@@ -436,6 +450,8 @@ PCC Task Group. 2019. “PCC Task Group on Linked Data Best Practices Final Repo
 Pegoraro Santana, Igor André, Fabio Pinhelli, Juliano Donini, Leonardo Catharin, Rafael Biazus Mangolin, Yandre Maldonado e Gomes da Costa, Valéria Delisandra Feltrim, and Marcos Aurélio Domingues. 2020. “Music4All: A New Music Database and Its Applications.” In *2020 International Conference on Systems, Signals and Image Processing (IWSSIP)*, 399–404. Rio de Janeiro, Brazil. https://doi.org/10.1109/IWSSIP48289.2020.9145170.
 
 Perera, Treshani. 2022. “Project Management Strategies for Managing Metadata in Institutional Recordings Collections – A Case Study.” *Music Reference Services Quarterly*, July, 1–22. https://doi.org/10.1080/10588167.2022.2091403.
+
+Petrovski, Aleksandar. 2022. “A Bilingual English-Ukrainian Lexicon of Named Entities Extracted from Wikipedia.” In *Conference on Language Technologies & Digital Humanities 2022*, 7. Ljubljana, Slovenia. https://nl.ijs.si/jtdh22/pdf/JTDH2022_Petrovski_A-Bilingual-English-Ukrainian-Lexicon-of-Named-Entities-Extracted-from-Wikipedia.pdf.
 
 Piscopo, Alessandro, Pavlos Vougiouklis, Lucie-Aimée Kaffee, Christopher Phethean, Jonathon Hare, and Elena Simperl. 2017. “What Do Wikidata and Wikipedia Have in Common?: An Analysis of Their Use of External References.” In *Proceedings of the 13th International Symposium on Open Collaboration*, 1–10. Galway Ireland: ACM. https://doi.org/10.1145/3125433.3125445.
 
@@ -498,8 +514,7 @@ Smiraglia, Richard P. 1989. “Uniform Titles for Music: An Exercise in Collocat
 Snyder, Eunah, Lisa Lorenzo, and Lucas Mak. 2019. “Linked Open Data for Subject Discovery: Assessing the Alignment Between Library of Congress Vocabularies and Wikidata.” In *DC-2019--The Seoul, South Korea Proceedings*, 9. Seoul, South Korea. https://dcpapers.dublincore.org/pubs/article/view/4225.html.
 
 Southwick, Silvia B. 2015. "A guide for transforming digital collections
-metadata into linked data using open source technologies." *Journal of
-Library Metadata* 15 (1): 1--35. https://doi.org/10.1080/19386389.2015.1007009.
+metadata into linked data using open source technologies." *Journal of Library Metadata* 15 (1): 1--35. https://doi.org/10.1080/19386389.2015.1007009.
 
 Stegmaier, Florian, Werner Bailer, Tobias Burger, Mario Doller, Martin Hoﬀernig, Wonsuk Lee, Veronique Malaise, et al. 2009. “How to Align Media Metadata Schemas? Design and Implementation of the Media Ontology.” In *Workshop Collocated with the 4th International Conference on Semantic and Digital Media Technologies*, 14. Graz, Austria. https://www.joanneum.at/fileadmin/user_upload/imported/uploads/tx_publicationlibrary/BAW-2009-SeMuDaTe-MAWG.pdf.
 

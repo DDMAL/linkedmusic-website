@@ -5,15 +5,6 @@ image_class: headerimage
 
 ---
 
-{css style settings, echo = FALSE}
-blockquote {
-    padding: 10px 20px;
-    margin: 0 0 20px;
-    font-size: 14px;
-    border-left: 5px solid #eee;
-}
-
-
 <p>Dedicated to abstracts of recent papers that pertain to LinkedMusic's ideals</p>
 
 <h2 id="2022">2022</h2>
@@ -21,7 +12,7 @@ blockquote {
 Ansovini, Daniela, Kelli Babcock, Tanis Franco, Jiyun Alex Jung, Karen Suurtamm, and Alexandra Wong. 2022. “Knowledge Lost, Knowledge Gained: The Implications of Migrating to Online Archival Descriptive Systems.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 6 (3):1–19. https://doi.org/10.18357/kula.234.
 
 
-> Migrating archival description from paper-based finding aids to structured online data reconfigures the dynamics of archival representation and interactions. This paper considers the knowledge implications of transferring traditional finding aids to Discover Archives, a university-wide implementation of Access to Memory (AtoM) at the University of Toronto. The migration and translation of varied descriptive practices to conform to a single system that is accessible to anyone, anywhere, effectively shifts both where and how users interface with archives and their material. This paper reflects on how different sets of knowledge are reorganized in these shifts. The writers explore the extent to which that lost knowledge can be drawn back into archival interactions via rich metadata that documents contexts and relationships embedded within Discover Archives and beyond. Internal user experience design (UXD) research on Discover Archives highlights a gap between current online descriptions and habitual user expectations in web search and discovery. To help bridge this gap, we contributed to broader discovery nodes such as linked open "context hubs" like Wikipedia and Wikidata, which can supplement hierarchical description with linked metadata and visualization capabilities. These can reintroduce rhizomatic and serendipitous connections, enabled by archivists, researchers, and larger sets of community knowledge, to the benefit of both the user and the archivist.
+> <font size="14px">Migrating archival description from paper-based finding aids to structured online data reconfigures the dynamics of archival representation and interactions. This paper considers the knowledge implications of transferring traditional finding aids to Discover Archives, a university-wide implementation of Access to Memory (AtoM) at the University of Toronto. The migration and translation of varied descriptive practices to conform to a single system that is accessible to anyone, anywhere, effectively shifts both where and how users interface with archives and their material. This paper reflects on how different sets of knowledge are reorganized in these shifts. The writers explore the extent to which that lost knowledge can be drawn back into archival interactions via rich metadata that documents contexts and relationships embedded within Discover Archives and beyond. Internal user experience design (UXD) research on Discover Archives highlights a gap between current online descriptions and habitual user expectations in web search and discovery. To help bridge this gap, we contributed to broader discovery nodes such as linked open "context hubs" like Wikipedia and Wikidata, which can supplement hierarchical description with linked metadata and visualization capabilities. These can reintroduce rhizomatic and serendipitous connections, enabled by archivists, researchers, and larger sets of community knowledge, to the benefit of both the user and the archivist.</font>
 
 ***
 

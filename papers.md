@@ -5,6 +5,16 @@ image_class: headerimage
 
 ---
 
+```{css style settings, echo = FALSE}
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+}
+```
+
+
 <p>Dedicated to abstracts of recent papers that pertain to LinkedMusic's ideals</p>
 
 <h2 id="2022">2022</h2>

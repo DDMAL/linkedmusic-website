@@ -9,6 +9,8 @@ image_class: headerimage
 
 #### La présentation indique les contributions de **cocandidats** et de ***collaborateurs***.
 
+#### Abstracts from 2020-23 papers can be found [here](https://linkedmusic.ca/papers/)
+
 <br>
 
 Aalberg, Trond, Audun Vennesland, and Maliheh Farrokhnia. 2015. “A Pattern-Based Framework for Best Practice Implementation of CRM/FRBRoo.” In *First International Workshop on Semantic Web for Cultural Heritage*, 539:472–81. Communications in Computer and Information Science. Futuroscope, France: Springer International Publishing. https://doi.org/10.1007/978-3-319-23201-0.

@@ -16,6 +16,12 @@ Ansovini, Daniela, Kelli Babcock, Tanis Franco, Jiyun Alex Jung, Karen Suurtamm,
 
 ***
 
+Arnold, Matthias. 2022. “Multilingual Research Projects: Non-Latin Script Challenges for Making Use of Standards, Authority Files, and Character Recognition.” *Digital Studies / Le Champ Numérique* 12 (1):36.
+
+> Academic research about digital non-Latin script (hereafter: NLS) research data can pose a number of challenges just because the material is from a region where the Latin alphabet was not used. Not all of them are easy to spot. In this paper, the author introduces two use cases to demonstrate different aspects of the complex tasks that may be related to NLS material. The first use case focuses on metadata standards used to describe NLS material. Taking the VRA Core 4 XML as example, they will show where they found limitations for NLS material and how they were able to overcome them by expanding the standard. In the second use case, they look at the research data itself. Although the full-text digitization of western newspapers from the 20th century usually is not problematic anymore, this is not the case for Chinese newspapers from the Republican era (1912–1949). A major obstacle here is the dense and complex layout of the pages, which prevents OCR solutions from getting to the character recognition part. In the authors approach, they are combining different manual and computational methods like crowdsourcing, pattern recognition, and neural networks to be able to process the material in a more efficient way. The two use cases illustrate that data standards or processing methods that are established and stable for Latin script material may not always be easily adopted to non-Latin script research data.
+
+***
+
 Bigelow, Ian. 2022. “Conducting the Opera: The Evolution of the RDA Work to the Share-VDE Opus and BIBFRAME Hub.” In *Linking Theory and Practice of Digital Libraries*, 335–50. Padua, Italy: Springer. https://doi.org/10.1007/978-3-031-16802-4.
 
 
@@ -56,6 +62,12 @@ Cui, Wen, Leanne Rolston, Marilyn Walker, and Beth Ann Hockey. 2022. “OpenEL: 
 
 ***
 
+Dobriy, Daniil, and Axel Polleres. 2022. “Analysing and Promoting Ontology Interoperability in Wikibase.” In *Wikidata ’22: Wikidata Workshop at ISWC 2022*, 7. Online. https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_9774.pdf.
+
+> Wikibase, the open-source software behind Wikidata, increasingly gains popularity among third-party Linked Data publishers. However, the platform’s unique data model decreases the degree of interoperability with existing Semantic Web standards and tools that underlie Linked Data as codified by Linked Data principles. In particular, this unique data model of Wikibase also undermines the direct reuse of ontologies and vocabularies, in a manner compliant with Semantic Web standards and Linked Data principles. To this end, firstly, we compare the Wikibase data model to the established RDF data model. Secondly, we enumerate a series of challenges for importing existing ontologies into Wikibase. Thirdly, we present practical solutions to these challenges and introduce a tool for importing and re-using ontologies within Wikibase. Thus, the paper aims to promote ontology interoperability in Wikibase and by doing so hopes to contribute to higher degree of inter-linkage of Wikibase instances with Linked Open Data.
+
+***
+
 Fell, Michael, Elena Cabrio, Maroua Tikat, Franck Michel, Michel Buffa, and Fabien Gandon. 2022. “The WASABI Song Corpus and Knowledge Graph for Music Lyrics Analysis.” *Language Resources and Evaluation, July*. https://doi.org/10.1007/s10579-022-09601-8.
 
 
@@ -77,9 +89,27 @@ Georgiadis, Haris, Agathi Papanoti, Elena Lagoudi, Georgia Angelaki, Nikos Vasil
 
 ***
 
+Gillis-Webber, Frances, and C. Maria Keet. 2022. “A Review of Multilingualism in and for Ontologies.” *ArXiv:2210.02807*, Artificial Intelligence, , October, 22. https://doi.org/10.48550/arXiv.2210.02807.
+
+> The Multilingual Semantic Web has been in focus for over a decade. Multilingualism in Linked Data and RDF has shown substantial adoption, but this is unclear for ontologies since the last review 15 years ago. One of the design goals for OWL was internationalisation, with the aim that an ontology is usable across languages and cultures. Much research to improve on multilingual ontologies has taken place in the meantime, and presumably multilingual linked data could use multilingual ontologies. Therefore, this review seeks to (i) elucidate and compare the modelling options for multilingual ontologies, (ii) examine extant ontologies for their multilingualism, and (iii) evaluate ontology editors for their ability to manage a multilingual ontology.
+
+***
+
+Haller, Armin, Axel Polleres, Daniil Dobriy, Nicolas Ferranti, and Sergio J. Rodriguez Mendez. 2022. “An Analysis of Links in Wikidata.” In *ESWC 2022: The Semantic Web*, 21–38. Crete, Greece: Springer. https://doi.org/10.1007/978-3-031-06981-9_2.
+
+> Wikidata has become one of the most prominent open knowledge graphs (KGs) on the Web. Relying on a community of users with different expertise, this cross-domain KG is directly related to other data sources. This paper investigates how Wikidata is linked to other data sources in the Linked Data ecosystem. To this end, the authors adapt previous definitions of ontology links and instance links to the terminological part of the Wikidata vocabulary and perform an analysis of the links in Wikidata to external datasets and ontologies from the Linked Data ecosystem. As a side effect, this reveals insights on the ontological expressiveness of meta-properties used in Wikidata. The results of this analysis show that while Wikidata defines a large number of individuals, classes and properties within its own namespace, they are not (yet) extensively linked. They discuss reasons for this and conclude with some suggestions to increase the interconnectedness of Wikidata with other KGs.
+
+***
+
 Han, Sooyeon, and JongGyu Han. 2022. “Case Study on an Integrated Interoperable Metadata Model for Geoscience Information Resources.” *Geoscience Data Journal*, 16. https://doi.org/10.1002/gdj3.150.
 
 > The article covers the creation of a metadata schema to promote interoperability and characterize historically collected geoscience data. While not in the same field, the article shows the steps taken to develop a switching-across methodology, as well as an example of the methodology. 
+
+***
+
+Hansson, Karin, and Anna Näslund Dahlgren. 2022. “Choice, Negotiation, and Pluralism: A Conceptual Framework for Participatory Technologies in Museum Collections.” *Computer Supported Cooperative Work (CSCW)* 31 (4):603–31. https://doi.org/10.1007/s10606-022-09441-8.
+
+> In an era of big data and fake news, museums’ collection practices are particularly important democratic cornerstones. Participatory technologies such as crowdsourcing or wikis have been put forward as a means to make museum collections more open and searchable, motivated by a desire for efficiency but also as a way to engage the public in the development of a more diverse and polyphonic heritage. However, there is a lack of a nuanced vocabulary to describe participatory technologies in terms of democracy. Without a deeper understanding of how technology shapes the overall structures, there is a risk that the tools instead undermine democratic ambitions.
 
 ***
 
@@ -103,10 +133,22 @@ Khan, Huda, Claire DeMarco, Christine Fernsebner Eslao, Steven Folsom, Jason Kov
 
 ***
 
+Kumar, T K Gireesh, and Praseetha Gireesh. 2022. “Towards a National Collection: Metadata Aggregation of Digital Cultural Heritage.” In *CALIBER 2022: Varanasi*, UP, 16. 32. Varanasi, UP, INDIA: INFLIBNET Centre. http://ir.inflibnet.ac.in/handle/1944/2389.
+
+> In the past few decades communities have embraced digital technologies to gather, record, and organize their collection in a systematic way to enhance its discoverability which empowers diverse audiences worldwide. Galleries, Libraries, Archives, Museums (GLAMs), cultural organizations, and memory institutions go beyond the physical display and engaged in transforming the online exploration of cultural artifacts and historical archives by harnessing innovative technologies. Cultural content in digitized form is an important resource and providing online access to these resources enhances their visibility, which can in turn contribute to the economic growth of the country. The potential of digital technology can also be utilized for bringing multiple cultural heritage collections together for better visualization and accessibility. However, standards-based and compatible technologies for the digitization process are essential for their uniformity and interoperability so that they can eliminate the challenges associated with discoverability and usage of resources by potential audiences. Cultural heritage aggregators are platforms that can address the difficulties of discoverability in cultural heritage resources by enabling search across multiple cultural heritage collections and improving access to the contents. This study gives an overview of the various Indian initiatives to safeguard the cultural heritage assets of the country, and its major digital initiatives in this direction, and highlights the need for an Indian aggregator platform for a national collection of cultural heritage.
+
+***
+
 Kuys, Gerard, and Ansgar Scherp. 2022. “Representing Persons and Objects in Complex Historical Events Using the Event Model F.” *Journal of Open Humanities Data* 8 (0). Ubiquity Press:22. https://doi.org/10.5334/johd.84.
 
 
 > The digital representation and publishing of human history on the web has so far been stuck at the digital unlocking of collections of historical items. Those collections are described by metadata mostly for curation and for findability metadata that are put on the web in the manner of a library catalog. Usually, there is little on ‘aboutness’. This is unfortunate, as modern representations of knowledge and web-based interactive presentation techniques offer ample opportunities for a more complex representation and richer interaction with digital history. In this contribution, we argue for a history in digital data that is treated for what it is: an interpretation, like all history, while remaining traceable to its information carriers.
+
+***
+
+Lee, Mihwa. 2022. “BIBFRAME’s Application Method for Reflecting LRM in Linked Data.” *International Federation of Library Associations and Institutions (IFLA)*. http://repository.ifla.org/bitstream/123456789/2146/1/019-lee-poster-en.pdf.
+
+> Library Reference Model (replacing FRBR) is a new conceptual model for constructing linked data in library community BIBFRAME as encoding format should be revised in order to reflect LRM This research is to propose the BIBFRAME s application profile practically mapping to reflect representative expression attributes and manifestation statement of LRM 's attributes.
 
 ***
 
@@ -120,6 +162,12 @@ Loukachevitch, Natalia, Pavel Braslavski, Vladimir Ivanov, Tatiana Batura, Sures
 
 
 > In this paper, the writers describe entity linking annotation over nested named entities in the recently released Russian NEREL dataset for information extraction. The NEREL collection (Loukachevitch et al., 2021) is currently the largest Russian dataset annotated with entities and relations. The paper describes the main design principles behind NEREL’s entity linking annotation, provides its statistics, and reports evaluation results for several entity linking baselines. To date, 38,152 entity mentions in 933 documents are linked to Wikidata. The NEREL dataset is publicly available: https://github.com/nerel-ds/NEREL.
+
+***
+
+Malin, Yonatan, Christina Crowder, Clara Byom, and Daniel Shanahan. 2022. “Community Based Music Information Retrieval: A Case Study of Digitizing Historical Klezmer Manuscripts from Kyiv.” *Transactions of the International Society for Music Information Retrieval* 5 (1). Ubiquity Press:208–21. https://doi.org/10.5334/tismir.135.
+
+> In this article the authors provide a case study in the datafication of historical handwritten manuscripts, which diversifies the repertoire, approaches, demographics, and institutional partnerships of MIR. The Kiselgof-Makonovetsky Digital Manuscript Project (KMDMP) is a community-based project to digitize music and text, teach, and make music from facsimiles of manuscripts held by the Vernadsky National Library of Ukraine. The corpus comprises 850 high-resolution photographs of handwritten music manuscripts and catalog pages, with a total of around 1,300 melodies. Much of the music was collected by pioneering Belarusian ethnographer Zusman Kiselgof among Jewish communities in the ‘Pale of Settlement’ (mostly in modern Ukraine and Belarus) during the An-Ski Expeditions of 1912–1914. The repertoire is mixed, combining typical Jewish dance and non-dance genres, European society and folklore dance music, and a relatively small quantity of songs and liturgical chant settings. The project simultaneously encodes music in formats accessible to computational musicology and enhances a creative musical community and deeply valued heritage. We introduce the project in dialogue with a recent article by Georgina Born on diversity in the field of MIR; present the material, issues for datafication, and results thus far; describe project elements that enhance musical community; demonstrate the diversity of participants with respect to age, gender, nationality, and profession; outline implications for MIR and computational ethnomusicology; and suggest new funding models and partnerships in support of cultural heritage documentation, preservation, continuity, and analysis.
 
 ***
 
@@ -143,10 +191,27 @@ McKenna, Lucy, Christophe Debruyne, and Declan O’Sullivan. 2022. “Using Link
 
 ***
 
+Meedin, Nadeera, Maneesha Caldera, Suresha Perera, and Indika Perera. 2022. “A Novel Annotation Scheme to Generate Hate Speech Corpus through Crowdsourcing and Active Learning.” *International Journal of Advanced Computer Science and Applications* 13 (11):9. https://doi.org/10.14569/IJACSA.2022.0131146.
+
+> The number of user-generated posts is growing exponentially with social media usage growth. Promoting violence against or having the primary purpose of inciting hatred against individuals or groups based on specific attributes via social media posts is daunting. As the posts are published in multiple languages with different forms of multimedia, social media finds it challenging to moderate before reaching the audience and assessing the posts as hate speech becomes sophisticated due to subjectivity. Social media platforms lack contextual and linguistic expertise and social and cultural insights to identify hate speech accurately. Research is being carried out to detect hate speech on social media content in English using machine learning algorithms, etc., using different crowdsourcing platforms. However, these platforms' workers are unavailable from countries such as Sri Lanka. The lack of a workforce with the necessary skill set and annotation schemes symbolizes further research essentiality in low-resource language annotation. This research proposes a suitable crowdsourcing approach to label and annotates social media content to generate corpora with words and phrases to identify hate speech using machine learning algorithms in Sri Lanka. This paper summarizes the annotated Facebook posts, comments, and replies to comments from public Sri Lankan Facebook user profiles, pages and groups of 52,646 instances, unlabeled tweets based on 996 Twitter search keywords of 45,000 instances of YouTube Videos of 45,000 instances using the proposed annotation scheme. 9%, 21% and 14% of Facebook, Twitter and YouTube posts were identified as containing hate content. In addition, the posts were categorized as offensive and nonoffensive, and hate targets and corpus associated with hate targets focusing on an individual or group were identified and presented in this paper. The proposed annotation scheme could be extended to other low-resource languages to identify the hate speech corpora. With the use of a well-implemented crowdsourcing platform with the proposed novel annotation scheme, it will be possible to find more subtle patterns with human judgment and filtering and take preventive measures to create a better cyberspace.
+
+***
+
+Mountantonakis, Michalis, and Yannis Tzitzikas. 2022. “How Your Cultural Dataset Is Connected to the Rest Linked Open Data?” In TMM_CH 2021: Trandisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural HeritageTrandisciplinary Multispectral Modelling and Cooperation for the Preservation of Cultural Heritage, 136–48. Communications in Computer and Information Science. Athens, Greece: Springer International Publishing. https://doi.org/10.1007/978-3-031-20253-7_12.
+
+> More and more publishers tend to create and upload their data as digital open data, and this is also the case for the Cultural Heritage (CH) domain. For facilitating their Data Interchange, Integration, Preservation and Management, publishers tend to create their data as Linked Open Data (LOD) and connect them with existing LOD datasets that belong to the popular LOD Cloud, which contains over 1,300 datasets (including more than 150 datasets of CH domain). Due to the high amount of available LOD datasets, it is not trivial to find all the datasets having commonalities (e.g., common entities) with a given dataset at real time. However, it can be of primary importance for several tasks to connect these datasets, for being able to answer more queries and in a more complete manner (e.g., for better understanding our history), for enriching the information of a given entity (e.g., for a book, a historical person, an event), for estimating the veracity of data, etc. For this reason, we present a research prototype, called ConnectionChecker, which receives as input a LOD Dataset, computes and shows the connections to hundreds of LOD Cloud datasets through LODsyndesis knowledge graph, and offers several measurements, visualizations and metadata for the given dataset. We describe how one can exploit ConnectionChecker for their own dataset, and we provide use cases for the CH domain, by using two real linked CH datasets: a) a dataset from the National Library of Netherlands, and b) a dataset for World War I from the Universities of Aalto and Helsinki.
+
+***
+
 Perera, Treshani. 2022. “Project Management Strategies for Managing Metadata in Institutional Recordings Collections – A Case Study.” *Music Reference Services Quarterly*, July, 1–22. https://doi.org/10.1080/10588167.2022.2091403.
 
-
 > This paper will cover project management decisions, workflows, and practical strategies adopted by a music-cataloging librarian while managing an academic institutional recordings collection. The paper is not intended to serve as a go-to resource for managing metadata in institutional recordings collections; rather, a practical approach to managing time, resources, and personnel while meeting institutional priorities as the project manager tasked with organization, metadata management, pro­ cessing, and preservation of the physical collection. The paper will cover project management strategies for creating a collection inventory, which was later expanded to a full-level metadata collection during COVID-19 remote work.
+
+***
+
+Petrovski, Aleksandar. 2022. “A Bilingual English-Ukrainian Lexicon of Named Entities Extracted from Wikipedia.” In *Conference on Language Technologies & Digital Humanities 2022*, 7. Ljubljana, Slovenia. https://nl.ijs.si/jtdh22/pdf/JTDH2022_Petrovski_A-Bilingual-English-Ukrainian-Lexicon-of-Named-Entities-Extracted-from-Wikipedia.pdf.
+
+> This paper describes the creation of a bilingual English - Ukrainian lexicon of named entities, with Wikipedia as a source. The proposed methodology provides a cheap opportunity to build multilingual lexicons, without having expertise in target languages. The extracted named entity pairs have been classified into five classes: PERSON, ORGANIZATION, LOCATION, PRODUCT, and MISC (miscellaneous). It has been achieved using Wikipedia metadata. Using the presented methodology, a huge lexicon has been created, consisting of 624,168 pairs. The classification quality has been checked manually on 1,000 randomly selected named entities. The results obtained are 97% for precision and 90% for recall.
 
 ***
 

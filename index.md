@@ -5,7 +5,7 @@ title: Home
 
 <br>
 
-### <span style="color:red"> The LinkedMusic Project is looking for two post-doc researchers for January 2023! Find more information [here](https://linkedmusic.ca/opportunities/) </span>
+### <span style="color:red"> The LinkedMusic Project is looking for students to work over the summer! Find out more information [here](https://linkedmusic.ca/opportunities/) </span>
 
 ___
 

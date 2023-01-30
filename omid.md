@@ -33,6 +33,9 @@ image_class: headerimage
 * The Museum's music collections contain more than 5,000 instruments of American and European heritage.
 * Music and Music Instruments are combined, so while over 9000 items are digitized, the items are mixed together.
 * You can filter more specific subsections, but only some things have a subsection in the search system. 
+* [**Copyright**](https://americanhistory.si.edu/collections/rights-and-reproductions)
+  * The NMAH is moving toward an open access policy for their colelctions in the public domain. Images of items in the public domain can be downloaded from the website for personal or classroom use without written permission, as long as it is within the meaning of fair use
+  * For using anything outside the scope of fair use, written permision must be granted from the museum. 
 
 **The National Music Museum:** [Link](https://emuseum.nmmusd.org/)
 * A partnership with the University of South Dakota, the museum's collections include more than 15,000 American, European, and non-Western instruments from all cultures and historical periods.

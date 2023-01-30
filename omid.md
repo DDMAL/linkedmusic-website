@@ -28,6 +28,8 @@ image_class: headerimage
 * Located in Vienna, The Collection of Historic Musical Instruments hosts over 3500 instruments from the 15th to 19th centuries.
 * The holdings of the collection have their origins in Habsburg holdings and include a particularly comprehensive range of clavichords and Viennese fortepianos.
 * They have a small section of "selected masterpieces" on their [website](https://www.khm.at/en/visit/collections/collection-of-historic-musical-instruments/selected-masterpieces/), separated by instrument type.
+* [**Copyright**](https://www.khm.at/en/explore/organisation/rights-reproduction/)
+  * All images, text, and audio material are protected by copyright can may not be reproduced, copied, altered or otherwise be used in any way without express permission. 
 
 **The National Museum of American History:** [Link](https://americanhistory.si.edu/collections/subjects/music-musical-instruments)
 * The Museum's music collections contain more than 5,000 instruments of American and European heritage.
@@ -46,7 +48,16 @@ image_class: headerimage
 * MINIM-UK is a key source for the exploration of historic musical instruments held in the United Kingdom's publically-accessible collections, with the aim to support research, education, and those with a general interest in music and music history.
 * MINIM-UK also commissioned professional audio recordings of selected instruments now in their holdings. 
 * Some of the search filters are still in progress, but you can still navigate manually through the online collections. 
+* [**Copyright**](https://minim.ac.uk/index.php/about/faqs/)
+  * The majority of instrument records on MINIM-UK are provided under a Creative Commons CC0 1.0 Universal agreement, except where indicated otherwise in the Credi/source of a record. 
 
 **MusicBrainz Instrument List:** [Link](https://musicbrainz.org/instruments)
 * An index list of instruments that features the name and a short textual description. 
 * Clicking on a specific instrument leads to an entry, with information pulled in from other databases, including WikiData information. 
+
+**Musical Instrument Museum in Brussels:** [Link](https://www.mim.be/en)
+* Opened in 2000, 1200 of the musuems 10,000 instruments are on display in four different galleries
+* Part of MIMO
+* [**Copyright**](https://www.mim.be/en/image-studio-0)
+  * Digital Images hosted in the [Carmentis catalogue](https://www.carmentis.be/eMP/eMuseumPlus?service=RedirectService&sp=Scollection&sp=SfieldValue&sp=0&sp=3&sp=3&sp=Slightbox_3x4&sp=0&sp=Sdetail&sp=0&sp=F) can be downloaded free of charge at a lower resolution
+  * Higher resolution photos can be requested through an order form. 

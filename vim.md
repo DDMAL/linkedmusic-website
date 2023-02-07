@@ -11,4 +11,4 @@ Building on projects like MIMO (Musical Instruments Museum Online), VIM will bui
 
 A list of online databases either about musical instruments or with musical instrument sections can be found [here](https://linkedmusic.ca/omid/)
 
-Potential VIM Website Templates (based on photography, museum and shopping websites) can be found [here](https://linkedmusic.ca/pdfs/VIM-Potential-Templates.pdf)
+Potential VIM Website Templates (based on photography, museum and shopping websites) can be found [here]((https://linkedmusic.ca/pdfs/VIM-Potential-Templates.pdf)

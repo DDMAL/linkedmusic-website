@@ -154,6 +154,10 @@ J. Stuckey. 2018. "Machine Learning and Constraint Programming for
 Relational-To-Ontology Schema Mapping." In *Proceedings of the
 International Joint Conference on Artificial Intelligenc,* 1277--1283. https://doi.org/10.24963/ijcai.2018/178.
 
+Deng, Sai. 2018. “Linked Data in the Library & OpenRefine.” Powerpoint presented at the Stay Savvy with Scholarly Communication Brown Bag Lunch, Orlando, Florida, USA, August 9. https://stars.library.ucf.edu/ucfscholar/774.
+
+Deng, Sai, Greta Heng, Amanda Xu, Lihong Zhu, and Xiaoli Li. 2022. “Enhance the Discovery and Interoperability of Culturally Rich Information: The Chinese Women Poets WikiProject.” Poster presented at the The Chinese American Librarians Association (CALA) Annual Conference 2022, Washington DC, United States, June 25. https://stars.library.ucf.edu/ucfscholar/1123.
+
 Doan, AnHai, and Alon Y. Halevy. 2005. "Semantic Integration Research in
 the Database Community: A Brief Survey." *AI Magazine* 26 (1): 83--94. https://doi.org/10.1609/aimag.v26i1.1801.
 
@@ -167,6 +171,8 @@ Interoperability of Metadata." *AI Magazine* 24 (3): 75--92. http://old.cidoc-cr
 Doerr, Martin, and Chryssoula Bekiari. 2008. “FRBROO, A CONCEPTUAL MODEL FOR PERFORMING ARTS.” In *2008 Annual Conference of CIDOC*, 15. Athens, Greece. https://publications.ics.forth.gr/_publications/drfile.2008-06-42.pdf.
 
 Doerr, Martin, Stefan Gradmann, Steffen Hennicke, Antoine Issac, Carlo Meghini, and Herbet van de Sompel. 2010. “The European Data Model (EDM).” In *76th IFLA General Conference and Assembly*, 12. Information Technology, Cataloguing, Classification and  Indexing with Knowledge Management. Gothenburg, Sweden: World Library and Information Congress. https://www.ifla.org/past-wlic/2010/149-doerr-en.pdf.
+
+Doub, Bolton. 2022. “Documenting a Move Using Archival Description: Tools for Bridging the Gaps Between Physical and Intellectual Control.” *Journal of Western Archives* 13 (1):19.
 
 Dragisic, Zlatan, Valentina Ivanova, Patrick Lambrix, Daniel Faria,
 Ernesto Jimenez-Ruiz, and Catia Pesquita. 2016. "User Validation in
@@ -233,6 +239,8 @@ Gergatsoulis, Manolis, Lina Bountouri, Panorea Gaitanou, and Christos Papatheodo
 
 Giannoulakis, Stamatios, Nicolas Tsapatsoulis, and Nikos Grammalidis. 2018. “Metadata for Intangible Cultural Heritage - The Case of Folk Dances:” In *Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications*, 634–45. Funchal, Madeira, Portugal: SCITEPRESS - Science and Technology Publications. https://doi.org/10.5220/0006760906340645.
 
+Gillis-Webber, Frances, and C. Maria Keet. 2022. “A Review of Multilingualism in and for Ontologies.” *ArXiv:2210.02807*, Artificial Intelligence, , October, 22. https://doi.org/10.48550/arXiv.2210.02807.
+
 Gillis-Webber, Frances, and Sabine Tittel. 2019. “The Shortcomings of Language Tags for Linked Data When Modeling Lesser-Known Languages.” Application/pdf. In *Proceedings of the 2nd Conference on Language, Data and Knowledge (LDK 2019)*, 15 pages. OpenAccess Series in Informatics (OASIcs). Dagstuhl, Germany: Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik. https://doi.org/10.4230/OASICS.LDK.2019.4.
 
 Giorgio, Sara Di, Achille Felicetti, Patrizia Martini, and Emilia Masci. 2015. “Dati.CulturaItalia: A Use Case of Publishing Linked Open Data Based on CIDOC-CRM.” In *Proceedngs of the Workshop on Extending, Mapping and Focusing the CRM Co-Located with the 19th Int. Conference on Theory and Practice of Digital Libraries*, 11. Poznan, Poland. http://ceur-ws.org/Vol-1656/paper4.pdf.
@@ -259,6 +267,8 @@ Guha, Ramanathan V., Dan Brickley, and Steve Macbeth. 2016. "Schema.org:
 Evolution of Structured Data on the Web." *Communications of the ACM* 59
 (2): 44--51. https://doi.org/10.1145/2844544.
 
+Guzman, Allyssa, Albert A Palacios, and Ryan Sullivant. 2022. “White Paper for Enabling and Reusing Multilingual Citizen Contributions in the Archival Record.” https://repositories.lib.utexas.edu/bitstream/handle/2152/116937/White%20Paper%20HAA%20269051%2020.pdf?sequence=3.
+
 Hale, Meredith. 2022. “Museum of Musical Instruments Online (MIMO).” Art Libaries Society of North America, *ARLIS/NA Multimedia & Technology Reviews*. https://doi.org/10.17613/mvw5-m357.
 
 Haller, Armin, Axel Polleres, Daniil Dobriy, Nicolas Ferranti, and Sergio J. Rodriguez Mendez. 2022. “An Analysis of Links in Wikidata.” In *ESWC 2022: The Semantic Web*, 21–38. Crete, Greece: Springer. https://doi.org/10.1007/978-3-031-06981-9_2.
@@ -272,13 +282,16 @@ Hansson, Karin, and Anna Näslund Dahlgren. 2022. “Choice, Negotiation, and Pl
 Hardjono, Thomas, George Howard, Eric Scace, Mizan Chowdury, Lucas Novak, Meghan Gaudet, Justin Anderson, et al. 2019. “Towards an Open and Scalable Music Metadata Layer.” *ArXiv:1911.08278 [Cs]*, November, 19. https://doi.org/10.48550/arXiv.1911.08278.
 
 Haslhofer, Bernhard and Wolfgang Klas. 2010. "A Survey of Techniques for
-Achieving Metadata Interoperability." *ACM Computing Survey* 42 (2):
-7:1--37. https://doi.org/10.1145/1667062.1667064.
+Achieving Metadata Interoperability." *ACM Computing Survey* 42 (2):7:1--37. https://doi.org/10.1145/1667062.1667064.
+
+Hassett, Brenna, Suzanne Pilaar Birch, Victoria Herridge, and Rebecca Wragg Sykes. 2018. “TrowelBlazers: Accidentally Crowdsourcing an Archive of Women in Archaeology.” In *Shared Knowledge, Shared Power: Engaging Local and Indigenous Heritage*, edited by Veysel Apaydin, 129–41. SpringerBriefs in Archaeology. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-68652-3_9.
 
 Heath, Tom, and Christian Bizer. 2011. *Linked Data: Evolving the Web
 into a Global Data Space*. San Rafael, CA: Morgan & Claypool.
 
 Henninger, Maureen. 2018. “From Mud to the Museum: Metadata Challenges in Archaeology.” *Journal of Information Science* 44 (5). SAGE Publications Ltd:658–70. https://doi.org/10.1177/0165551517741790.
+
+Hill, Kate M. 2016. “In Search of Useful Collection Metadata: Using OpenRefine to Create Accurate, Complete, and Clean Title-Level Collection Information.” *Serials Review* 42 (3):7.
 
 Hirwade, Mangala Anil. 2011. “A Study of Metadata Standards.” *Library Hi Tech News* 28 (7). Emerald Group Publishing Limited:18–25. https://doi.org/10.1108/07419051111184052.
 
@@ -321,6 +334,8 @@ Khan, Fahad, and Ana Salgado. 2021. “Modelling Lexicographic Resources Using C
 Khan, Huda, Claire DeMarco, Christine Fernsebner Eslao, Steven Folsom, Jason Kovari, Simeon Warner, Tim Worrall, and Astrid Usong. 2022. “Using Linked Data Sources to Enhance Catalog Discovery.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies*, Metadata as Knowledge, 6 (3):1–26. https://doi.org/10.18357/kula.229.
 
 ***Kishimoto***, Kevin, and Tracey Snyder. 2016. “Popular Music in FRBR and RDA: Toward User-Friendly and Cataloger-Friendly Identification of Works.” *Cataloging & Classification Quarterly* 54 (1):60–86. https://doi.org/10.1080/01639374.2015.1105898
+
+Klose, Annamarie C., Scott Goldstein, and Morris S. Levy. 2022. “Numismatics & Bibliographic Description: How Rutgers University Libraries Described Coins with MODS.” *Journal of Library Metadata* 22 (1–2). Routledge:75–104. https://doi.org/10.1080/19386389.2022.2051979.
 
 Koch, Ines, Cristina Ribeiro, and Carla Teixeira Lopes. 2020. “Digital Libraries for Open Knowledge: 24th International Conference on Theory and Practice of Digital Libraries, TPDL 2020, Lyon, France, August 25–27, 2020, Proceedings.” In *Proceedings of the Digital Libraries for Open Knowledge: 24th International Conference on Theory and Practice of Digital Libraries*, 12246:149–62. Lecture Notes in Computer Science. Lyon, France: Springer International Publishing. https://doi.org/10.1007/978-3-030-54956-5.
 
@@ -396,6 +411,8 @@ Machiya, Daichi, Tomoko Okuda, and Masahide Kanzaki. 2019. “Japan Search RDF S
 
 Mäkelä, Eetu, Juha Törnroos, Thea Lindquist, and Eero Hyvönen. 2017. “WW1LOD: An Application of CIDOC-CRM to World War 1 Linked Data.” *International Journal on Digital Libraries* 18 (4):333–43. https://doi.org/10.1007/s00799-016-0186-2.
 
+Malin, Yonatan, Christina Crowder, Clara Byom, and Daniel Shanahan. 2022. “Community Based Music Information Retrieval: A Case Study of Digitizing Historical Klezmer Manuscripts from Kyiv.” *Transactions of the International Society for Music Information Retrieval* 5 (1). Ubiquity Press:208–21. https://doi.org/10.5334/tismir.135.
+
 Mandal, Sukumar. 2022. “Integration of Linked Open Data Authorities with OpenRefine : A Methodology for Libraries.” *Library Philosophy and Practice (e-Journal)*, no. 7195 (May):11. https://digitalcommons.unl.edu/libphilprac/7195.
 
 Marrero, Monica, and Antoine Issac. 2022. “Implementation and Evaluation of a Multilingual Search Pilot in the Europeana Digital Library.” In *Linking Theory and Practice of Digital Libraries:, 13541:93–105*. Lecture Notes in Computer Science. Padua, Italy: Springer International Publishing. https://doi.org/10.1007/978-3-031-16802-4.
@@ -409,6 +426,8 @@ Automatic Music Classification." In *Proceedings of the International
 Computer Music Conference*, 65--68.
 
 McKenna, Lucy, Christophe Debruyne, and Declan O’Sullivan. 2022. “Using Linked Data to Create Provenance-Rich Metadata Interlinks: The Design and Evaluation of the NAISC-L Interlinking Framework for Libraries, Archives and Museums.” *AI & SOCIETY*, January, 27. https://doi.org/10.1007/s00146-021-01373-z.
+
+Meedin, Nadeera, Maneesha Caldera, Suresha Perera, and Indika Perera. 2022. “A Novel Annotation Scheme to Generate Hate Speech Corpus through Crowdsourcing and Active Learning.” *International Journal of Advanced Computer Science and Applications* 13 (11):9. https://doi.org/10.14569/IJACSA.2022.0131146.
 
 Megdiche, Imen, Franck Ravat, and Yan Zhao. 2021. “Metadata Management on Data Processing in Data Lakes.” In *SOFSEM 2021: Theory and Practice of Computer Science*, 12607:559–68. Lecture Notes in Computer Science. Bolzano-Bozen, Italy: Springer International Publishing. https://doi.org/10.1007/978-3-030-67731-2.
 
@@ -439,6 +458,8 @@ Exploration and Analysis of the Live Music Archive through Linked Data."
 In *Proceedings of the ACM/IEEE-CS Joint Conference on Digital Libraries
 (JCDL)*, 89--98. https://doi.org/10.1109/JCDL.2017.7991563.
 
+Pal, Anjan, and Parthasarath Mukhopadhyay. 2022. “Fetching Automatic Authority Data in ILS from Wikidata via OpenRefine.” *SRELS Journal of Information Management* 59 (6):353–62. https://doi.org/10.17821/srels/2022/v59i6/170677.
+
 Park, Ho-Kyun, and Seok-Jae Moon. 2016. “The Multimedia Metadata Interoperability Using MOXMDR.” *International Journal of Multimedia and Ubiquitous Engineering 9* (9):255–64. https://doi.org/10.14257/ijmue.2016.11.9.26.
 
 Park, Jung-ran, and Yuji Tosaka. 2010. “Metadata Creation Practices in Digital Repositories and Collections: Schemata, Selection Criteria, and Interoperability.” *Information Technology and Libraries* 29 (3):104–16. https://doi.org/10.6017/ital.v29i3.3136.
@@ -454,6 +475,8 @@ Pegoraro Santana, Igor André, Fabio Pinhelli, Juliano Donini, Leonardo Catharin
 Perera, Treshani. 2022. “Project Management Strategies for Managing Metadata in Institutional Recordings Collections – A Case Study.” *Music Reference Services Quarterly*, July, 1–22. https://doi.org/10.1080/10588167.2022.2091403.
 
 Petrovski, Aleksandar. 2022. “A Bilingual English-Ukrainian Lexicon of Named Entities Extracted from Wikipedia.” In *Conference on Language Technologies & Digital Humanities 2022*, 7. Ljubljana, Slovenia. https://nl.ijs.si/jtdh22/pdf/JTDH2022_Petrovski_A-Bilingual-English-Ukrainian-Lexicon-of-Named-Entities-Extracted-from-Wikipedia.pdf.
+
+Piper, Alana. 2020. “Digital Crowdsourcing and Public Understandings of the Past: Citizen Historians Meet Criminal Characters.” *History Australia* 17 (3). Routledge:525–41. https://doi.org/10.1080/14490854.2020.1796500.
 
 Piscopo, Alessandro, Pavlos Vougiouklis, Lucie-Aimée Kaffee, Christopher Phethean, Jonathon Hare, and Elena Simperl. 2017. “What Do Wikidata and Wikipedia Have in Common?: An Analysis of Their Use of External References.” In *Proceedings of the 13th International Symposium on Open Collaboration*, 1–10. Galway Ireland: ACM. https://doi.org/10.1145/3125433.3125445.
 

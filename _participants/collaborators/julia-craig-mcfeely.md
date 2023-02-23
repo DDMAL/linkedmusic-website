@@ -5,5 +5,5 @@ first_name: Julia
 last_name: Craig-McFeely
 institution: University of Oxford
 project_group: collaborators
-link: 
+link: https://www.music.ox.ac.uk/people/dr-julia-craig-mcfeely
 ---

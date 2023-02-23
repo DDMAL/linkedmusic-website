@@ -386,58 +386,6 @@ image_class: headerimage_people
       </div>
     </div>
 
-    <div class="row">
-      <div class="col-lg-12">
-        <h2 data-toggle="collapse" data-target="#researchers">
-          Researchers
-          <img class="icon_rotation" src="{{ site.url }}/assets/0-expand_on.png" style="float:right;width:50px;height:50px" data-toggle="collapse" data-target="#researchers" />
-        </h2>
-        Researchers engaged in research and development of the LinkedMusic project.
-        <hr>
-
-        <div id="researchers" class="collapse in">
-          {% assign count = 0 %}
-          {% for research in parts %}
-            {% if research.project_group == 'researchers' %}
-
-              {% if count == 0 %}
-                <div class="row">
-              {% endif %}
-
-                <div class="col-md-3">
-                  {% if research.link %}
-                    <a href = "{{ research.link }}" target="_blank"> <h4>{{ research.title }}</h4> </a>
-                  {% else %}
-                    <h4>{{ research.title }}</h4>
-                  {% endif %}
-                  {% if research.institution %}
-                    <h5>{{ research.institution }}</h5>
-                  {% endif %}
-                  {% if research.participation_date_start %}
-                    <h6>{{ research.participation_date_start | date: "%B %Y"}} &#8212;{% if research.participation_date_end %} {{ research.participation_date_end | date: "%B %Y" }}{% endif %}
-                    </h6>
-                  {% endif %}
-                  <br>
-                </div>
-
-                {% assign count = count | plus:1 %}
-
-                {% if count == 4 %}
-                  </div>
-                  {% assign count = 0 %}
-                {% endif %}
-
-              {% endif %}
-            {% endfor %}
-
-            {% if count < 4 and count > 0 %}
-              </div>
-            {% endif %}
-
-
-        </div>
-      </div>
-    </div>
 
     <div class="row">
       <div class="col-lg-12">

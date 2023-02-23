@@ -4,6 +4,6 @@ title: Anna de Bakker
 first_name: 'Anna'
 last_name: de Bakker
 institution: McGill University
-project_group: postdoc
+project_group: post-doctoral-fellow
 participation_date_start: 2022-02-01
 ---

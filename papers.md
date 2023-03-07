@@ -7,6 +7,14 @@ image_class: headerimage
 
 <p>Dedicated to abstracts of recent papers that pertain to LinkedMusic's ideals</p>
 
+<h2 id="2023">2023</h2>
+
+Declerck, Thierry, Thomas Troelsgård, and Sussi Olsen. 2023. “Towards an RDF Representation of the Infrastructure Consisting in Using Wordnets as a Conceptual Interlingua between Multilingual Sign Language Datasets.” In *Proceedings of GWC2023*, 8. Donostia / San Sebastian, Basque Country. https://www.hitz.eus/gwc2023/sites/default/files/aurkezpenak/GWC2023_paper_6591.pdf.
+
+> The authors present ongoing work dealing with a Linked Data compliant representation of infrastructures using wordnets for connecting multilingual Sign Language data sets. They built on already existing RDF and OntoLex representations of Open Multilingual Wordnet (OMW) data sets and work done by the European EASIER research project on the use of the CSV files of OMW for linking glosses and basic semantic information associated with Sign Language data sets in two languages: German and Greek. In this context, they started the transformation into RDF of a Danish data set, which links Danish Sign Language data and the wordnet for Danish, DanNet. The final objective of their work is to include Sign Language data sets (and their conceptual cross-linking via wordnets) in the Linguistic Linked Open Data cloud.
+
+***
+
 <h2 id="2022">2022</h2>
 
 Ansovini, Daniela, Kelli Babcock, Tanis Franco, Jiyun Alex Jung, Karen Suurtamm, and Alexandra Wong. 2022. “Knowledge Lost, Knowledge Gained: The Implications of Migrating to Online Archival Descriptive Systems.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 6 (3):1–19. https://doi.org/10.18357/kula.234.
@@ -19,6 +27,13 @@ Ansovini, Daniela, Kelli Babcock, Tanis Franco, Jiyun Alex Jung, Karen Suurtamm,
 Arnold, Matthias. 2022. “Multilingual Research Projects: Non-Latin Script Challenges for Making Use of Standards, Authority Files, and Character Recognition.” *Digital Studies / Le Champ Numérique* 12 (1):36.
 
 > Academic research about digital non-Latin script (hereafter: NLS) research data can pose a number of challenges just because the material is from a region where the Latin alphabet was not used. Not all of them are easy to spot. In this paper, the author introduces two use cases to demonstrate different aspects of the complex tasks that may be related to NLS material. The first use case focuses on metadata standards used to describe NLS material. Taking the VRA Core 4 XML as example, they will show where they found limitations for NLS material and how they were able to overcome them by expanding the standard. In the second use case, they look at the research data itself. Although the full-text digitization of western newspapers from the 20th century usually is not problematic anymore, this is not the case for Chinese newspapers from the Republican era (1912–1949). A major obstacle here is the dense and complex layout of the pages, which prevents OCR solutions from getting to the character recognition part. In the authors approach, they are combining different manual and computational methods like crowdsourcing, pattern recognition, and neural networks to be able to process the material in a more efficient way. The two use cases illustrate that data standards or processing methods that are established and stable for Latin script material may not always be easily adopted to non-Latin script research data.
+
+***
+
+Ayala, Brenda Reyes, Qiufeng Du, and Juyi Han. 2022. “Detecting Content Drift on the Web Using Web Archives and Textual Similarity.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 9. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/10_Paper3.pdf.
+
+> Content drift, which occurs when a website’s content changes and moves away from the content it originally referenced, is problem that affects both live websites and web archives. Content drift can also occur when the page has been hacked, its domain has expired, or the service has been discontinued. In this paper, the authors present a simple method for detecting content drift on the live web based on comparing the titles of live websites to those of their archived versions. Their assumption was that the higher the difference between the title of an archived website and that of its live counterpart, the more likely content drift had taken place. In order to test their approach, they first had human evaluators manually judge websites from three Canadian web archives to determine or not content drift had occurred. Then they extracted the titles from all websites, and used cosine similarity to compare the title of the live websites to the title of the archived websites. The approach achieved positive results, with an accuracy of 85.2, precision of 89.3, recall of 92.1, and F-measure values of 90.7. Having simple methods such as the one presented in this paper can allow institutions or researchers to quickly and effectively detect content drift without needing many technological resources.
+
 
 ***
 
@@ -62,9 +77,27 @@ Cui, Wen, Leanne Rolston, Marilyn Walker, and Beth Ann Hockey. 2022. “OpenEL: 
 
 ***
 
+Deng, Sai, Greta Heng, Amanda Xu, Lihong Zhu, and Xiaoli Li. 2022. “Enhance the Discovery and Interoperability of Culturally Rich Information: The Chinese Women Poets WikiProject.” Poster presented at the The Chinese American Librarians Association (CALA) Annual Conference 2022, Washington DC, United States, June 25. https://stars.library.ucf.edu/ucfscholar/1123.
+
+> A group of Chinese American librarians from several institutions formed a WikiProject team: Chinese Culture and Heritage group in 2020 to study Wikidata. The group hoped to explore the potential of Wikidata, contribute to the diversity of data in Wikidata which has been increasingly utilized in libraries’ discovery systems, and seek collaboration opportunities. Its primary focus is to create and enhance Wikidata items that showcase Chinese culture and heritage information. This poster will present an overview of the Chinese Women Poets Wikiproject, the first project the group has embarked on, that uses OpenRefine and PyWikibot to enhance over 4,000 Chinese women poets’ names in Wikidata. In addition, the presenters will discuss the challenges and the benefits of the project as well as their future work.
+
+***
+
+Dias, Mariana, and Carla Teixeira Lopes. 2022. “Mining Typewritten Digital Representations to Support Archival Description.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 6. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/09_Paper2.pdf.
+
+> Linked Data is used in various fields as a new way of structuring and connecting data. Cultural heritage institutions have been using linked data to improve archival descriptions and promote findability. Given this, in EPISA, a research project on this topic, the authors propose to use the contents of the digital representations associated with the objects to assist archivists in their description tasks. More specifically, to extract information from the digital representations useful for an initial ontology population that should be validated or edited by the archivist. They apply optical character recognition in an initial stage to convert the digital representation to a machine-readable format. They then use ontology-oriented programming to identify and instantiate ontology concepts using neural networks and contextual embeddings.
+
+***
+
 Dobriy, Daniil, and Axel Polleres. 2022. “Analysing and Promoting Ontology Interoperability in Wikibase.” In *Wikidata ’22: Wikidata Workshop at ISWC 2022*, 7. Online. https://wikidataworkshop.github.io/2022/papers/Wikidata_Workshop_2022_paper_9774.pdf.
 
 > Wikibase, the open-source software behind Wikidata, increasingly gains popularity among third-party Linked Data publishers. However, the platform’s unique data model decreases the degree of interoperability with existing Semantic Web standards and tools that underlie Linked Data as codified by Linked Data principles. In particular, this unique data model of Wikibase also undermines the direct reuse of ontologies and vocabularies, in a manner compliant with Semantic Web standards and Linked Data principles. To this end, firstly, we compare the Wikibase data model to the established RDF data model. Secondly, we enumerate a series of challenges for importing existing ontologies into Wikibase. Thirdly, we present practical solutions to these challenges and introduce a tool for importing and re-using ontologies within Wikibase. Thus, the paper aims to promote ontology interoperability in Wikibase and by doing so hopes to contribute to higher degree of inter-linkage of Wikibase instances with Linked Open Data.
+
+***
+
+Doub, Bolton. 2022. “Documenting a Move Using Archival Description: Tools for Bridging the Gaps Between Physical and Intellectual Control.” *Journal of Western Archives* 13 (1):19.
+
+> Following the move of approximately 40,000 linear feet of archival material between offsite storage facilities, the University of Southern California (USC) Libraries began a project to document these holdings’ new locations using ArchivesSpace. This case study explores a combination of tools--including the ArchivesSpace API, Python scripts, OpenRefine, and spreadsheet applications--that the USC Libraries used to batch-edit and create container data in ArchivesSpace following the move. The paper discusses the challenges and shortcomings of these tools for editing particular forms of legacy data entered into USC’s instance of ArchivesSpace long before the move. When the creators of this past description prioritized the work of establishing intellectual control (describing the informational content of archival resources) using methods that neglected descriptive prerequisites for the future maintenance of physical control (tracking the physical locations of archival holdings), the tools outlined in this paper were less effective in editing that legacy data.
 
 ***
 
@@ -92,6 +125,23 @@ Georgiadis, Haris, Agathi Papanoti, Elena Lagoudi, Georgia Angelaki, Nikos Vasil
 Gillis-Webber, Frances, and C. Maria Keet. 2022. “A Review of Multilingualism in and for Ontologies.” *ArXiv:2210.02807*, Artificial Intelligence, , October, 22. https://doi.org/10.48550/arXiv.2210.02807.
 
 > The Multilingual Semantic Web has been in focus for over a decade. Multilingualism in Linked Data and RDF has shown substantial adoption, but this is unclear for ontologies since the last review 15 years ago. One of the design goals for OWL was internationalisation, with the aim that an ontology is usable across languages and cultures. Much research to improve on multilingual ontologies has taken place in the meantime, and presumably multilingual linked data could use multilingual ontologies. Therefore, this review seeks to (i) elucidate and compare the modelling options for multilingual ontologies, (ii) examine extant ontologies for their multilingualism, and (iii) evaluate ontology editors for their ability to manage a multilingual ontology.
+
+***
+
+Green, Alex, and Dr. K Faith Lawrence. 2022. “The Shock of the New: Testing the Pan-Archival Linked Data Catalogue with Users.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 7. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/13_Paper6.pdf.
+
+> The UK National Archives’ goal is to re-imagine archival practice,
+pioneer new approaches to description and build a new linked data catalogue. The Pan-Archival Catalogue will bring together into one management system descriptions of both physical and digital records
+from a variety of sources within the organization. This report briefly
+describes the users’ feedback on aspects of the new data model when
+first shown in the new editorial interface and as part of business pro-
+cesses.
+
+***
+
+Guzman, Allyssa, Albert A Palacios, and Ryan Sullivant. 2022. “White Paper for Enabling and Reusing Multilingual Citizen Contributions in the Archival Record.” https://repositories.lib.utexas.edu/bitstream/handle/2152/116937/White%20Paper%20HAA%20269051%2020.pdf?sequence=3.
+
+> This project arose from the growing consensus that representation has not been enough to diversify the digital cultural record. Rather, as digital humanists, archivists, and librarians have pointed out, representation without the participation of non-Anglophone and minority groups has recreated historical exclusions, which now stem from a lack of technological or multilingual resources that facilitate access and engagement with materials in other languages (Priani Saisó et al. 6; Caswell et al.; Bow and Hepworth; Risam). The message in these critiques is resounding: the field needs to promote and support cultural and linguistic diversity. Part 1 of this project provided an avenue for non-English literate communities to meaningfully engage and contribute to the Digital Humanities through the interface internationalization and translation of an open source digital scholarship platform–FromThePage. Part 2 of this project enhanced FromThePage’s collection management capabilities and exports to facilitate the development of workflows for preserving and reusing collaborative scholarship.
 
 ***
 
@@ -130,6 +180,12 @@ Kesäniemi, Joonas, Mikko Koho, and Eero Hyvönen. 2022. “Using Wikibase for M
 Khan, Huda, Claire DeMarco, Christine Fernsebner Eslao, Steven Folsom, Jason Kovari, Simeon Warner, Tim Worrall, and Astrid Usong. 2022. “Using Linked Data Sources to Enhance Catalog Discovery.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies, Metadata as Knowledge*, 6 (3):1–26. https://doi.org/10.18357/kula.229.
 
 > This article explores how linked data sources and non-library metadata can support the open-ended discovery of library resources. They also consider which experimental methods are best suited to improving library catalog systems. They provide an overview of the questions driving our discovery experiments with linked data, a summary of their usability findings, and their design and implementation approach. In addition, they situate the discussion of their work within the larger framework of library cataloging and curation practices.
+
+***
+
+Klose, Annamarie C., Scott Goldstein, and Morris S. Levy. 2022. “Numismatics & Bibliographic Description: How Rutgers University Libraries Described Coins with MODS.” *Journal of Library Metadata* 22 (1–2). Routledge:75–104. https://doi.org/10.1080/19386389.2022.2051979.
+
+> Realia pose challenges when utilizing bibliographic metadata standards. Rutgers University Libraries, in collaboration with Rutgers University’s Classics Department, created a large digital library collection of ancient Roman coins in RUcore, Rutgers University’s Community Repository. RUcore records use Metadata Object Description Standard (MODS) for descriptive metadata and many custom fields. Therefore, it was necessary to adapt numismatic description to fit this structure. During the planning stage of the project, Numismatic Description Standard (NUDS), a numismatic database standard implemented and maintained by the American Numismatic Society (ANS), and VRA Core, an art-centered XML metadata standard created by the Visual Resources Association, provided valuable insights. However, this project faced challenges in terms of interoperability and time constraints that required altering the team’s approach to this unique set of resources in a digital library environment. Key issues were encoding B.C.E. dates in a machine-readable format for optimal searching and browsing, developing local controlled vocabularies, providing subject access to the iconography on coins, and the research-intensive work of metadata description. This article provides “how to” information, as well as a critical analysis of lessons learned and opportunities for improvement as the linked data landscape has changed both bibliographic and numismatic description.
 
 ***
 
@@ -203,6 +259,18 @@ Mountantonakis, Michalis, and Yannis Tzitzikas. 2022. “How Your Cultural Datas
 
 ***
 
+Nunes, Sérgio, Tiago Silva, Cláudia Martins, and Rita Peixoto. 2022. “EPISA Platform: A Technical Infrastructure to Support Linked Data in Archival Management.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 11. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/11_Paper4.pdf.
+
+> In this paper we describe the EPISA Platform, a technical infrastructure designed and developed to support archival records management and access using linked data technologies. The EPISA Platform follows a client-server paradigm, with a central component, the EPISA Server, responsible for storage, reasoning, authorization, and search; and a frontend component, the EPISA ArchClient, responsible for user interaction. The EPISA Server uses Apache Jena Fuseki for storage and reasoning, and Apache Solr for search. The EPISA ArchClient is a web application implemented using PHP Laravel and standard web technologies. The platform follows a modular architecture, based on Docker containers. We describe the technical details of the platform and the main user interaction workflows, highlighting the abstractions developed to integrate linked data in the archival management process. The EPISA Platform has been successfully used to support research and development of linked data use in the archival domain in the context of the EPISA project.
+
+***
+
+Pal, Anjan, and Parthasarath Mukhopadhyay. 2022. “Fetching Automatic Authority Data in ILS from Wikidata via OpenRefine.” *SRELS Journal of Information Management* 59 (6):353–62. https://doi.org/10.17821/srels/2022/v59i6/170677.
+
+> Authority data is vital for effective library and information services. It serves a major purpose in realizing the collocation function of library catalogues and indexes. Unfortunately, however, authority control has been neglected in library catalogues and other bibliographic databases in India. This paper seeks to demonstrate how authority data can be fetched automatically from Wikidata, a sibling project of Wikipedia. For this purpose, the query language SPARQL is required to formulate the names of persons of Indian origin along with their date of birth and place in Wikidata. The collected datasets are processed and implemented as MARC21-based authority data in KOHA, an open-source library management software. The ways in which the library and information science community can use these free, open-source platforms to gather, organize and share data and how they enhance the retrieval efficiency are shown.
+
+***
+
 Perera, Treshani. 2022. “Project Management Strategies for Managing Metadata in Institutional Recordings Collections – A Case Study.” *Music Reference Services Quarterly*, July, 1–22. https://doi.org/10.1080/10588167.2022.2091403.
 
 > This paper will cover project management decisions, workflows, and practical strategies adopted by a music-cataloging librarian while managing an academic institutional recordings collection. The paper is not intended to serve as a go-to resource for managing metadata in institutional recordings collections; rather, a practical approach to managing time, resources, and personnel while meeting institutional priorities as the project manager tasked with organization, metadata management, pro­ cessing, and preservation of the physical collection. The paper will cover project management strategies for creating a collection inventory, which was later expanded to a full-level metadata collection during COVID-19 remote work.
@@ -221,7 +289,6 @@ Proutskova, Polina, Daniel Wolff, György Fazekas, Klaus Frieler, Frank Höger, 
 
 ***
 
-
 Putnam, Nathan. 2022. “VIAF and the Linked Data Ecosystem.” *Jlist.It* 13 (1). EUM-Edizioni Università di Macerata:196–202. https://doi.org/10.4403/jlis.it-12749.
 
 > This article reviews the founding, current state, and potential future of VIAF®, the Virtual International Authority File. VIAF consists of an aggregation of bibliographic and authority data from over 50 national agencies and infrastructures, systems that follow different cataloging practices, and contain hundreds of languages. After a short history of the project, the results of surveys for implementers of linked data projects on the use of VIAF data provide suggestions for future use and sustainability.
@@ -230,8 +297,13 @@ Putnam, Nathan. 2022. “VIAF and the Linked Data Ecosystem.” *Jlist.It* 13 (1
 
 Santschi, Stephanie. 2022. “Mapping Late Hokusai Research: Digitizing and Publishing Bilingual Research Data.” *Digital Studies* 12 (1). Open Library of Humanities:23. https://doi.org/10.16995/dscn.8079.
 
-
 > The initiative “Late Hokusai: Thought, Technique, Society” took place at the British Museum (BM) and SOAS, University of London (2016–2019). As part of its activities, it built a linked-data platform prototype on ResearchSpace. The prototype offers a redesigned process for how museum researchers and users find, research with, discuss and expand bilingual data about early modern Japanese artist Katsushika Hokusai (1760–1849) and instigated a discussion about what a collaborative research platform for the Hokusai research community could look like. While Japanese resource specialists have long recognized the complexity of Japanese script as a challenge for multilingual research and collection platforms, the processes for and results of integrating Japanese source data into bi- or multilingual museum databases remained unsatisfactory.This paper revisits the challenges posed by “non-Latin script” (NLS) in museum databases in the case of the Hokusai research platform at the British Museum, which integrated Japanese and English languages. It localizes the issues arising from working with Japanese source data in the Latin script project environment and accompanies the museum researchers’ tasks regarding the correct input, rendering and display of the source script at each step: 1) object analysis, 2) registering NLS metadata, 3) processing NLS information and 4) visualizing LS and NLS information for general and specialist audiences. After assessing these practices, the paper critically reflects on selected approaches, successes, and shortcomings experienced while creating such a prototype. By sharing its experiences, the project hopes to aid prospective research projects on a similar path regarding project setup and documentation. Furthermore, it advocates the sustainability of research practices according to data reusability
+
+***
+
+Storti, Emanuele. 2022. “Towards a Knowledge Graph Representation of FAIR Music Content for Exploration and Analysis.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 12. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/04_paper-8069.pdf.
+
+> This paper introduces the ontological model for a FAIR digital library of music documents which takes into account a variety of music-related information, among which editorial information on documents and their production workflow as well as the score content and licensing information. The model is complemented with annotations (e.g. comments, fingering) on music documents produced by end-users, capable to add a social layer over the framework which enables the building of user-centric music applications. As a result, a machine-understandable knowledge graph of music content is defined, which can be queried, navigated and explored. On top of this, novel applications could be designed, like semantic workplaces where music scholars and musicians can find, analyse, compare, annotate and manipulate musical objects.
 
 ***
 

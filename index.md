@@ -5,7 +5,6 @@ title: Home
 
 <br>
 
-### <span style="color:red"> The LinkedMusic Project is looking for students to work over the summer! Find out more information [here](https://linkedmusic.ca/opportunities/) </span>
 
 ___
 

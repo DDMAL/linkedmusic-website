@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-<br>
-
 
 ___
 

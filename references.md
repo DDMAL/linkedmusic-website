@@ -52,6 +52,8 @@ Aslanidi, Maria, Ioannis Papadakis, and Michalis Stefanidakis. 2018. “Name and
 
 Atarashi, Ray, Takuro Sone, Yu Komohara, Manabu Tsukada, Takashi Kasuya, Hiraku Okumura, Masahiro Ikeda, and Hiroshi Esaki. 2018. “The Software Defined Media Ontology for Music Events.” In *Proceedings of the 1st International Workshop on Semantic Applications for Audio and Music*, 15–23. Monterey CA USA: ACM. https://doi.org/10.1145/3243907.3243915.
 
+Ayala, Brenda Reyes, Qiufeng Du, and Juyi Han. 2022. “Detecting Content Drift on the Web Using Web Archives and Textual Similarity.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 9. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/10_Paper3.pdf.
+
 Baca, Murtha. 2003. “Practical Issues in Applying Metadata Schemas and Controlled Vocabularies to Cultural Heritage Information.” *Cataloging & Classification Quarterly* 36 (3–4):47–55. https://doi.org/10.1300/J104v36n03_05.
 
 Baca, Murtha, and Melissa Gill. 2015. "Encoding Multilingual Knowledge
@@ -147,6 +149,8 @@ Cui, Wen, Leanne Rolston, Marilyn Walker, and Beth Ann Hockey. 2022. “OpenEL: 
 
 Dagher, Iman, and Denise Soufi. 2021. “Authority Control of Arabic Personal Names: RDA and Beyond.” *Cataloging & Classification Quarterly* 59 (2–3):260–80. https://doi.org/10.1080/01639374.2020.1845896.
 
+Dal Farra, Ricardo. 2023. “Part of Computer Music History… (Trust Me, Latin America Has Always Been There!).” *Computer Music Journal*, March, 1–17. https://doi.org/10.1162/comj_a_00632.
+
 Day, Jo, and Nicholas L. Wright. 2015. “TEACHING AN OLD DOG NEW TRICKS: UCD’S ROMAN COINS IN THE DIGITAL AGE.” *Archaeology Ireland* 29 (2). Wordwell Ltd.:24–25. http://www.jstor.org/stable/24327511.
 
 De Uña, Diego, Nataliia Rümmele, Graeme Gange, Peter Schachte, and Peter
@@ -154,9 +158,15 @@ J. Stuckey. 2018. "Machine Learning and Constraint Programming for
 Relational-To-Ontology Schema Mapping." In *Proceedings of the
 International Joint Conference on Artificial Intelligenc,* 1277--1283. https://doi.org/10.24963/ijcai.2018/178.
 
+Declerck, Thierry, Thomas Troelsgård, and Sussi Olsen. 2023. “Towards an RDF Representation of the Infrastructure Consisting in Using Wordnets as a Conceptual Interlingua between Multilingual Sign Language Datasets.” In *Proceedings of the Global WordNet Conference 2023*, 8. Donostia / San Sebastian, Basque Country. https://www.hitz.eus/gwc2023/sites/default/files/aurkezpenak/GWC2023_paper_6591.pdf.
+
 Deng, Sai. 2018. “Linked Data in the Library & OpenRefine.” Powerpoint presented at the Stay Savvy with Scholarly Communication Brown Bag Lunch, Orlando, Florida, USA, August 9. https://stars.library.ucf.edu/ucfscholar/774.
 
+Deng, Sai. 2023. “Linked Data, Wikidata and Their Implementations.” Powerpoint presented at the National Historical Publications and Records Commission (NHPRC) Major Collaborative Archives Initiative Grant, University of Central Florida, March 8. https://stars.library.ucf.edu/ucfscholar/1171.
+
 Deng, Sai, Greta Heng, Amanda Xu, Lihong Zhu, and Xiaoli Li. 2022. “Enhance the Discovery and Interoperability of Culturally Rich Information: The Chinese Women Poets WikiProject.” Poster presented at the The Chinese American Librarians Association (CALA) Annual Conference 2022, Washington DC, United States, June 25. https://stars.library.ucf.edu/ucfscholar/1123.
+
+Dias, Mariana, and Carla Teixeira Lopes. 2022. “Mining Typewritten Digital Representations to Support Archival Description.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 6. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/09_Paper2.pdf.
 
 Doan, AnHai, and Alon Y. Halevy. 2005. "Semantic Integration Research in
 the Database Community: A Brief Survey." *AI Magazine* 26 (1): 83--94. https://doi.org/10.1609/aimag.v26i1.1801.
@@ -445,6 +455,8 @@ Mountantonakis, Michalis, and Yannis Tzitzikas. 2022. “How Your Cultural Datas
 
 Musen, Mark A. 2015. “The Protégé Project: A Look Back and a Look Forward.” *AI Matters* 1 (4):4–12. https://doi.org/10.1145/2757001.2757003.
 
+Nunes, Sérgio, Tiago Silva, Cláudia Martins, and Rita Peixoto. 2022. “EPISA Platform: A Technical Infrastructure to Support Linked Data in Archival Management.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 11. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/11_Paper4.pdf.
+
 Nurmikko-Fuller, Terhi, Alan Dix, David M. Weigl, and Kevin R. Page. 2016. “In Collaboration with In Concert: Reflecting a Digital Library as Linked Data for Performance Ephemera.” In *Proceedings of the 3rd International Workshop on Digital Libraries for Musicology*, 17–24. New York, NY, USA: ACM. https://doi.org/10.1145/2970044.2970049.
 
 ***Page***. 2017. "Publishing Musicology using Multimedia Digital
@@ -509,6 +521,8 @@ Reid, Geneviève, and Renée Sieber. 2020. “Do Geospatial Ontologies Perpetuat
 
 Ronzino, Paola, Nicola Amico, and Franco Niccolucci. 2011. “Assessment and Comparison of Metadata Schemas for Architectural Heritage.” In *Proceedings of CIPA Symposium* 23, 8. Prauge, Czech Republic. https://www.conferencepartners.cz/cipa/proceedings/pdfs/C-3/Niccolucci.pdf.
 
+Rosso, Nadia. 2022. “The Digital Library DigilibLT (Short Paper).” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 7. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/02_paper-6317.pdf.
+
 Sandberg, Jane, ed. 2019. *Ethical Questions in Name Authority Control*. 1st ed. Sacramento, CA, United States: Library Juice Press. https://litwinbooks.com/books/ethical-questions-in-name-authority-control/.
 
 Sanderson, Robert. 2021. “Linked Art: Sustainable Cultural Knowledge through Linked Open Usable….” https://www.slideshare.net/azaroth42/linked-art-sustainable-cultural-knowledge-through-linked-open-usable-data.
@@ -542,6 +556,8 @@ Southwick, Silvia B. 2015. "A guide for transforming digital collections
 metadata into linked data using open source technologies." *Journal of Library Metadata* 15 (1): 1--35. https://doi.org/10.1080/19386389.2015.1007009.
 
 Stegmaier, Florian, Werner Bailer, Tobias Burger, Mario Doller, Martin Hoﬀernig, Wonsuk Lee, Veronique Malaise, et al. 2009. “How to Align Media Metadata Schemas? Design and Implementation of the Media Ontology.” In *Workshop Collocated with the 4th International Conference on Semantic and Digital Media Technologies*, 14. Graz, Austria. https://www.joanneum.at/fileadmin/user_upload/imported/uploads/tx_publicationlibrary/BAW-2009-SeMuDaTe-MAWG.pdf.
+
+Storti, Emanuele. 2022. “Towards a Knowledge Graph Representation of FAIR Music Content for Exploration and Analysis.” In *Proceedings of the Workshops and Doctoral Consortium of the 26th International Conference on Theory and Practice of Digital Libraries*, 12. Padua, Italy: CEUR Workshop Proceedings. https://ceur-ws.org/Vol-3246/04_paper-8069.pdf.
 
 Sugimoto, Shigeo, Senan Kiryakos, Chiranthi Wijesundara, Winda Monika, Tetsuya Mihara, and Mitsuharu Nagamori. 2018. “Metadata Models for Organizing Digital Archives on the Web: Metadata-Centric Projects at Tsukuba and Lessons Learned.” In *International Conference on Dublin Core and Metadata Applications*, 95–105. Porto, Portugal. https://dcpapers.dublincore.org/pubs/article/view/3968.
 

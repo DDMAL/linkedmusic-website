@@ -5,6 +5,6 @@ first_name: 'Tim '
 last_name: de Reuse
 institution: McGill University
 project_group: phd
-role: PHD Student
+role: PHD Students
 participation_date_start: 2022-05-02
 ---

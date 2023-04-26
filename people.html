@@ -386,6 +386,115 @@ image_class: headerimage_people
       </div>
     </div>
 
+        <div class="row">
+      <div class="col-lg-12">
+        <h2 data-toggle="collapse" data-target="#students">
+          PHD Students
+          <img class="icon_rotation" src="{{ site.url }}/assets/0-expand_on.png" style="float:right;width:50px;height:50px" data-toggle="collapse" data-target="#phds" />
+        </h2>
+        PHD students engaged in research and development of the LinkedMusic project.
+        <hr>
+
+        <div id="phds" class="collapse in">
+          {% assign count = 0 %}
+          {% for phd in parts %}
+            {% if phd.project_group == 'phds' %}
+
+              {% if count == 0 %}
+                <div class="row">
+              {% endif %}
+
+                <div class="col-md-3">
+                  {% if phd.link %}
+                    <a href = "{{ phd.link }}" target="_blank"> <h4>{{ phd.title }}</h4> </a>
+                  {% else %}
+                    <h4>{{ phd.title }}</h4>
+                  {% endif %}
+                  {% if phd.institution %}
+                    <h5>{{ phd.institution }}</h5>
+                  {% endif %}
+                  {% if phd.participation_date_start %}
+                    <h6>{{ phd.participation_date_start | date: "%B %Y"}} &#8212;{% if phd.participation_date_end %} {{ phd.participation_date_end | date: "%B %Y" }}{% endif %}
+                    </h6>
+                  {% endif %}
+                  <br>
+                </div>
+
+                {% assign count = count | plus:1 %}
+
+                {% if count == 4 %}
+                  </div>
+                  {% assign count = 0 %}
+                {% endif %}
+
+              {% endif %}
+            {% endfor %}
+
+            {% if count < 4 and count > 0 %}
+              </div>
+            {% endif %}
+
+
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="row">
+      <div class="col-lg-12">
+        <h2 data-toggle="collapse" data-target="#students">
+          Master Students
+          <img class="icon_rotation" src="{{ site.url }}/assets/0-expand_on.png" style="float:right;width:50px;height:50px" data-toggle="collapse" data-target="#masters" />
+        </h2>
+        Graduate students engaged in research and development of the LinkedMusic project.
+        <hr>
+
+        <div id="masters" class="collapse in">
+          {% assign count = 0 %}
+          {% for master in parts %}
+            {% if master.project_group == 'masters' %}
+
+              {% if count == 0 %}
+                <div class="row">
+              {% endif %}
+
+                <div class="col-md-3">
+                  {% if master.link %}
+                    <a href = "{{ master.link }}" target="_blank"> <h4>{{ master.title }}</h4> </a>
+                  {% else %}
+                    <h4>{{ mastert.title }}</h4>
+                  {% endif %}
+                  {% if master.institution %}
+                    <h5>{{ master.institution }}</h5>
+                  {% endif %}
+                  {% if master.participation_date_start %}
+                    <h6>{{ master.participation_date_start | date: "%B %Y"}} &#8212;{% if master.participation_date_end %} {{ master.participation_date_end | date: "%B %Y" }}{% endif %}
+                    </h6>
+                  {% endif %}
+                  <br>
+                </div>
+
+                {% assign count = count | plus:1 %}
+
+                {% if count == 4 %}
+                  </div>
+                  {% assign count = 0 %}
+                {% endif %}
+
+              {% endif %}
+            {% endfor %}
+
+            {% if count < 4 and count > 0 %}
+              </div>
+            {% endif %}
+
+
+        </div>
+      </div>
+    </div>
+
+
 
     <div class="row">
       <div class="col-lg-12">
@@ -393,7 +502,7 @@ image_class: headerimage_people
           Students
           <img class="icon_rotation" src="{{ site.url }}/assets/0-expand_on.png" style="float:right;width:50px;height:50px" data-toggle="collapse" data-target="#students" />
         </h2>
-        Undergraduate and graduate students engaged in research and development of the LinkedMusic project.
+        Undergraduate students engaged in research and development of the LinkedMusic project.
         <hr>
 
         <div id="students" class="collapse in">

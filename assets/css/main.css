@@ -4913,7 +4913,6 @@ select.input-group-sm[multiple]>.input-group-btn>.btn {
   padding-bottom: 10px;
   line-height: 20px;
   vertical-align: middle;
-  margin: 20px 0px 10px 0px;
 }
 
 @media (max-width: 767px) {
@@ -4959,6 +4958,10 @@ select.input-group-sm[multiple]>.input-group-btn>.btn {
 
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
+  }
+
+  .navbar-nav>li>a {
+    margin: 20px 0px 10px 0px;
   }
 }
 
@@ -7611,7 +7614,7 @@ button.close {
 }
 
 .navbar .nav>li>a {
-  font-size: 16px;
+  font-size: 11px;
   line-height: 22px;
   font-weight: 400;
   text-transform: uppercase;
@@ -7939,12 +7942,13 @@ section.page {
 }
 
 #google_translate_element {
+  border: 1px solid #000;
   vertical-align: middle;
   background: white;
   padding: 0px 4px;
   border-radius: 0.2em;
   position: fixed;
-  right: 7px;
+  right: 75px;
   top: 7px;
 }
 
@@ -7957,12 +7961,21 @@ section.page {
   .dropdown:hover .dropdown-menu {
     display: block;
   }
+
+  #google_translate_element {
+    right: 7px;
+    top: 100px;
+  }
 }
 
 @media (min-width: 992px) {
   .jumbotron h2 {
     margin-top: 80px;
     max-width: 66%;
+  }
+
+  #google_translate_element {
+    top: 7px;
   }
 }
 

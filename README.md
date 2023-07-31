@@ -2,6 +2,8 @@
 
 This is the repository for the LinkedMusic website distributed via GitHub Pages. It is a static website built to run without a content management system (CMS) like Jekyll. The website contents and dependency files are stored in this repository. The formatting was adapted from the Lanyon theme, developed by Mark Otto for the Jekyll site generator.
 
+To view the old version using Forestry CMS, consult the 'old-forestry-website' branch.
+
 ## Contents
 
 - [Local Setup](#local-setup)

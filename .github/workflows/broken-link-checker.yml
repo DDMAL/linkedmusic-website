@@ -1,6 +1,10 @@
 name: Check for Broken Links
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "8 8 * * *" # Cron job will run at 08h08 UTC time
 
 jobs:
   build_and_check:

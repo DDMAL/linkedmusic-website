@@ -4,7 +4,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "8 8 * * *" # Cron job will run at 08h08 UTC time
+    - cron: "8 8 * * 0" # Cron job will run at 08h08 UTC time every Sunday
 
 jobs:
   build_and_check:

@@ -1,11 +1,16 @@
+'''Yu Chia adapted to LinkedMusic needs from the parser Evan Savage 
+wrote for the SIMSSA site'''
+# Later adapted by Yu Chia (Jan 2025)
+
 from bs4 import BeautifulSoup
+from urllib.parse import unquote
 import json
 
-print('References (r, R), or all (a,A)?\n')
+print('Media (m,M), presentations (pr, PR), publications (pu, PU) or all (a,A)?\n')
 choice = str(input()).lower()
 
-input_list = ['r', 'a']
-full_list = ['references']
+input_list = ['m', 'pr', 'pu', 'a']
+full_list = ['presentations', 'publications'] #'media'
 parse_list = []
 
 if choice not in input_list:
@@ -16,25 +21,57 @@ if choice == 'a':
 else:
     parse_list = [full_list[input_list.index(choice)]]
 
-root_folder = './'
+ddmal_root_folder = './'
 export_folder = 'zotero_export/'
 
 for type in parse_list:
 
     html_file_name = f'LinkedMusic_{type}.html'
-    path = f'{type}/content.json'
+    path = f'activities/{type}/content.json'
 
-    with open(export_folder + html_file_name) as f:
+    # Dictionaries for each of the different sources. Keys are the years, values are the html contents.
+    # These will be stored in JSON files in the corresponding folders.
+    content = {}
+
+    with open(export_folder + html_file_name, encoding='utf-8') as f:
         html_soup = BeautifulSoup(f, 'html.parser')
 
-    content_array = []
+
+    html_array = []
 
     for html_tag in html_soup.findAll('div', {'class': 'csl-entry'}):
-        content_array.append(str(html_tag))
+        parse_attr = html_tag.find_next('span')['title']
+        year = 'n.d.'
+        author = 'no_author'
+        title = ')no_title'
+        a_title = ')no_a_title'
+        b_title = ')no_b_title'
 
-    # sort alphabetically by author
-    print(content_array)
-    content_array.sort()
+        if 'rft.date' in parse_attr:
+            year = parse_attr.split('rft.date=')[1].split('-')[0].split('&')[0]
+
+        # might need later
+        # if 'rft.aulast' in parse_attr:
+        #     author = unquote(parse_attr.split('rft.aulast=')[1].split('&')[0])
+        # if 'rft.title' in parse_attr:
+        #     title = unquote(parse_attr.split('rft.title=')[1].split('&')[0])
+        # if 'rft.atitle' in parse_attr:
+        #     a_title = unquote(parse_attr.split('rft.atitle=')[1].split('&')[0])
+        # if 'rft.btitle' in parse_attr:
+        #     b_title = unquote(parse_attr.split('rft.btitle=')[1].split('&')[0])
+
+
+        if year in content:
+            content[year].append(html_tag.decode_contents())
+        else:
+            content[year] = [html_tag.decode_contents()]
+    
+    # sort by year, descending
+    content = {y: content[y] for y in sorted(content, reverse=True)}
+
+    # sort alphabetically in each year
+    for y in content:
+        content[y].sort()
 
     with open(path, 'w') as f:
-        json.dump(content_array, f, indent=4)
+        json.dump(content, f, indent=4)

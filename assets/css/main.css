@@ -7944,20 +7944,45 @@ section.page {
 #google_translate_element {
   display: inline-block;
   vertical-align: middle; /*adjust as needed */
-  /* border: 1px solid #c1e2b3; */
+  margin: 0;
+  padding: 0;
   border-radius: 0.375rem;
   width: 105px;
-  margin-top: 35px; /*adjust as needed */
+  margin-top: 037px; /*adjust as needed was 37 px; tweaking. NOTE: I don't like how this 
+  shunts over when screen is smaller or dropped into the hamburger menu, but it's functional and visible.  */
+}
+
+/* Use flexbox for better alignment in responsive layouts */
+.header-container {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap when the screen shrinks */
+  align-items: center; /* Vertically align items */
+  justify-content: space-between; /* Adjust spacing between items */
+}
+
+/* media query for smaller screens */
+@media (max-width: 768px) {
+  #google_translate_element {
+    margin-top: 10px; 
+  }
+}
+
+#google_translate_element:hover .goog-te-combo {
+  background-color: #fff; /*  lighter on hover */
+  color: #ffffff;
 }
 
 .goog-te-combo,
 .goog-te-combo:valid {
+  background-color: #68675e;
   color: #98978b; /*use header colour here */
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
+  border: none;
+  border-radius: 0.375rem;
 } 
 
-/* #google_translate_element:hover {
+ /* #google_translate_element:hover {
   /* border: 1px transparent #faf1e4; */
   /* background-color: #93c54b;
 } */

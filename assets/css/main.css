@@ -7942,41 +7942,37 @@ section.page {
 }
 
 #google_translate_element {
-  border: 1px solid #000;
-  vertical-align: middle;
-  background: white;
-  padding: 0px 4px;
-  border-radius: 0.2em;
-  position: fixed;
-  right: 75px;
-  top: 7px;
+  display: inline-block;
+  vertical-align: middle; /*adjust as needed */
+  /* border: 1px solid #c1e2b3; */
+  border-radius: 0.375rem;
+  width: 105px;
+  margin-top: 35px; /*adjust as needed */
 }
 
-@media (min-width: 768px) {
-  .jumbotron h2 {
-    margin-top: 80px;
-    font-size: 40px;
-  }
+.goog-te-combo,
+.goog-te-combo:valid {
+  color: #98978b; /*use header colour here */
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+} 
 
-  .dropdown:hover .dropdown-menu {
-    display: block;
-  }
+/* #google_translate_element:hover {
+  /* border: 1px transparent #faf1e4; */
+  /* background-color: #93c54b;
+} */
 
-  #google_translate_element {
-    right: 7px;
-    top: 100px;
-  }
+#google_translate_element:hover .goog-te-combo {
+  color: #98978b;
 }
 
-@media (min-width: 992px) {
-  .jumbotron h2 {
-    margin-top: 80px;
-    max-width: 66%;
-  }
+.goog-logo-link,
+.goog-te-gadget span {
+  display: none !important;
+}
 
-  #google_translate_element {
-    top: 7px;
-  }
+.goog-te-gadget {
+  font-size: 0 !important;
 }
 
 @media (max-width: 500px) {

@@ -9,7 +9,8 @@ import json
 print('Media (m,M), presentations (pr, PR), publications (pu, PU) or all (a,A)?\n')
 choice = str(input()).lower()
 
-input_list = ['m', 'pr', 'pu', 'a']
+# input_list = ['m', 'pr', 'pu', 'a']
+input_list = ['pr', 'pu', 'a']
 full_list = ['presentations', 'publications'] #'media'
 parse_list = []
 

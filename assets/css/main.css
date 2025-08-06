@@ -4873,10 +4873,8 @@ select.input-group-sm[multiple]>.input-group-btn>.btn {
 .navbar-toggle {
   position: relative;
   float: right;
-  margin-right: 15px;
-  padding: 9px 10px;
-  margin-top: 13px;
-  margin-bottom: 13px;
+  margin: 25px 0px 10px 0px;
+  padding: 20px 15px;
   background-color: transparent;
   background-image: none;
   border: 1px solid transparent;
@@ -5659,6 +5657,7 @@ a.list-group-item.active>.badge,
 
 .jumbotron {
   padding: 30px;
+  margin-top: 50px;
   margin-bottom: 30px;
   color: inherit;
   background-color: #f8f5f0;
@@ -7873,7 +7872,7 @@ section.page {
 }
 
 .box img {
-  max-width: 100%;
+  max-width: 80%;
   mix-blend-mode: add;
 }
 

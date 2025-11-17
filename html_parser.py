@@ -6,12 +6,12 @@ from bs4 import BeautifulSoup
 from urllib.parse import unquote
 import json
 
-print('Media (m,M), presentations (pr, PR), publications (pu, PU) or all (a,A)?\n')
+print('Media (m,M), presentations (pr, PR), publications (pu, PU), posters (po, PO) or all (a,A)?\n')
 choice = str(input()).lower()
 
 # input_list = ['m', 'pr', 'pu', 'a']
-input_list = ['pr', 'pu', 'a']
-full_list = ['presentations', 'publications'] #'media'
+input_list = ['pr', 'pu', 'po', 'a']
+full_list = ['presentations', 'publications', 'posters'] #'media'
 parse_list = []
 
 if choice not in input_list:

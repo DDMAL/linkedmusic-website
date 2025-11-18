@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <meta name="theme-color" content="#593196">
+  <!-- Windows Phone -->
+  <meta name="msapplication-navbutton-color" content="#593196">
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-status-bar-style" content="#593196">
+  <title>
+    Presentations &middot; LinkedMusic
+  </title>
+  <link rel="apple-touch-icon" sizes="180x180" href="../../assets/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../assets/favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="../../assets/favicon_io/site.webmanifest">
+  <!-- CSS -->
+  <link rel="stylesheet" href="../../assets/css/main.css" />
+  <link rel="stylesheet" href="poster.css" />
+</head>
+
+<body id="Site" class='layout-reverse theme-base-sm sidebar-overlay'>
+  <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+      content to avoid any CSS collisions with our real content. -->
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <div class="navbar navbar-expand-sm navbar-default navbar-fixed-top" role="navigation">
+    <div class="container" id="nav-container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="../../">LinkedMusic</a>
+      </div>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav nav mr-auto">
+          <li><a href="../../about">About</a></li>
+          <li><a href="../../people">Participants</a></li>
+          <!-- <li><a href="../activities">Activities</a></li> -->
+
+          <li class="dropdown">
+            <a class="dropdown-toggle" role="button" data-toggle="dropdown" href="#">Activities<span
+                class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <!-- <li><a href='../../activities/media/' target='_top' >Media</a></li> -->
+              <!-- uncomment when we have media to put up-->
+              <li><a href='../../activities/posters/' target='_top'>Posters</a></li>
+              <li><a href='../../activities/presentations/' target='_top'>Presentations</a></li>
+              <li><a href='../../activities/publications/' target='_top'>Publications</a></li>
+              <li><a href='../../activities/workshops/' target='_top'>Workshops & Project Meetings</a></li>
+            </ul>
+          </li>
+
+          <li><a href="../../references">References</a></li>
+          <li><a href="../../umil">UMIL</a></li>
+          <li><a href="../../opportunities">Opportunities</a></li>
+          <li><a href="../../contact">Contact us</a></li>
+        </ul>
+        <div id="google_translate_element"></div>
+      </div>
+    </div>
+  </div>
+  <section class="headerimage">
+    <div class="container">
+      <br>
+      <br>
+      <h1>Posters</h1>
+    </div>
+  </section>
+  
+  <!-- Main content area, aligned with the Presentations / Publications layout -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <!-- Reserved space for optional introductory text or notes -->
+        <br>
+  
+        <!-- Toggle buttons for switching between list and grid views -->
+        <div class="toggle-buttons" style="text-align: right; margin-bottom: 20px;">
+          <button onclick="showView('text')" title="Show List View">
+            <i class="fa-solid fa-list-ul" aria-hidden="true"></i>
+          </button>
+          <button onclick="showView('gallery')" title="Show Grid View">
+            <i class="fa-solid fa-grip" aria-hidden="true"></i>
+          </button>
+        </div>
+  
+        <!-- Text-based list view (uses json-content similar to Presentations / Publications) -->
+        <div id="text-view">
+          <div id="json-content">
+            <!-- JSON / script will dynamically load the text list here -->
+          </div>
+        </div>
+  
+        <!-- Grid-based gallery view for poster thumbnails -->
+        <div id="gallery-view" class="hidden">
+          <div id="poster-gallery-container"></div>
+        </div>
+  
+        <br>
+        <br>
+      </div>
+    </div>
+  </div>
+
+
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+    integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+    crossorigin="anonymous"></script>
+
+  <!-- PapaParse for CSV -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+  <!-- Load thumbnail gallery -->
+  <script src="gallery.js"></script>
+
+  <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+      }
+  </script>
+  <script type="text/javascript"
+      src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+  <script src="../script.js"></script>
+</body>
+</html>
